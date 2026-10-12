@@ -1,0 +1,1287 @@
+{
+  "module": 3,
+  "title": "Tata bahasa dasar",
+  "description": "Dua belas topik inti untuk tingkat A1-A2: partikel, bentuk sopan 해요체, bentuk lampau, penafian, keberadaan, pertanyaan, penggabungan, keinginan, dan kemampuan. Setiap topik memuat penjelasan, contoh, catatan pengecualian, dan lima soal pilihan ganda.",
+  "schema": {
+    "id": "pengenal topik (g##)",
+    "stage": "tahap 1-6",
+    "explanation": "penjelasan dalam Bahasa Indonesia",
+    "caveats": "pengecualian dan batas berlakunya aturan; bukan aturan mutlak",
+    "examples": "contoh kalimat dalam bentuk sopan",
+    "items": "soal; options_lang menandai bahasa pilihan jawaban (ko/id); answer adalah indeks jawaban benar"
+  },
+  "topics": [
+    {
+      "id": "g01",
+      "title": "Kalimat 'A adalah B': 이에요 / 예요",
+      "stage": 1,
+      "explanation": "Bahasa Korea menempelkan 이에요 atau 예요 pada kata benda untuk menyatakan 'adalah'. Pilihannya ditentukan oleh huruf terakhir kata benda itu: bila berakhir dengan batchim dipakai 이에요, bila berakhir dengan vokal dipakai 예요. 학생 berbatchim, jadi 학생이에요. 의사 berakhir vokal, jadi 의사예요. Perhatikan juga letaknya: 이에요 berada di AKHIR kalimat, sama seperti kata kerja. Inilah urutan dasar Bahasa Korea yang berbeda dari Bahasa Indonesia.",
+      "caveats": [
+        "Bentuk 합니다 (lebih formal) dari pasangan ini adalah 입니다 untuk semua kata benda, tanpa memandang batchim: 학생입니다, 의사입니다. 입니다 dibunyikan 임니다.",
+        "Bentuk negatifnya BUKAN memakai 안, melainkan kata terpisah 아니에요: 학생이 아니에요 ('bukan pelajar'). Perhatikan bahwa kata bendanya memakai partikel 이/가, bukan 은/는.",
+        "예요 setelah vokal sering ditulis salah menjadi 이에요 oleh pemula, dan sebaliknya. Tidak ada pengecualian untuk aturan batchim ini."
+      ],
+      "examples": [
+        {
+          "ko": "저는 학생이에요.",
+          "gloss": "Saya pelajar."
+        },
+        {
+          "ko": "이분은 선생님이에요.",
+          "gloss": "Beliau ini guru."
+        },
+        {
+          "ko": "제 친구는 의사예요.",
+          "gloss": "Teman saya dokter."
+        },
+        {
+          "ko": "저는 한국 사람이 아니에요.",
+          "gloss": "Saya bukan orang Korea."
+        }
+      ],
+      "items": [
+        {
+          "id": "g01-01",
+          "type": "mcq",
+          "prompt": "Apa yang menentukan pilihan antara 이에요 dan 예요?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "Ada atau tidaknya batchim pada kata benda sebelumnya",
+            "Jenis kelamin pembicara",
+            "Tingkat kesopanan kalimat",
+            "Panjang kata bendanya"
+          ],
+          "answer": 0,
+          "explain": "Berbatchim memakai 이에요 (학생이에요), berakhir vokal memakai 예요 (의사예요)."
+        },
+        {
+          "id": "g01-02",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya pelajar.'",
+          "prompt_ko": "저는 학생___.",
+          "options_lang": "ko",
+          "options": [
+            "이에요",
+            "예요",
+            "이예요",
+            "에요"
+          ],
+          "answer": 0,
+          "explain": "학생 berakhir dengan batchim ㅇ, jadi 이에요. Bentuk 이예요 tidak ada dalam ejaan baku."
+        },
+        {
+          "id": "g01-03",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Teman saya dokter.'",
+          "prompt_ko": "제 친구는 의사___.",
+          "options_lang": "ko",
+          "options": [
+            "예요",
+            "이에요",
+            "이요",
+            "에요"
+          ],
+          "answer": 0,
+          "explain": "의사 berakhir dengan vokal ㅏ, jadi 예요."
+        },
+        {
+          "id": "g01-04",
+          "type": "mcq",
+          "prompt": "Bagaimana mengatakan 'Saya bukan pelajar'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "저는 학생이 아니에요.",
+            "저는 학생 안 이에요.",
+            "저는 학생이에요 아니요.",
+            "저는 안 학생이에요."
+          ],
+          "answer": 0,
+          "explain": "Bentuk negatif dari 이에요 adalah kata terpisah 아니에요, dan kata bendanya memakai partikel 이/가."
+        },
+        {
+          "id": "g01-05",
+          "type": "mcq",
+          "prompt": "Di mana kata kerja diletakkan dalam kalimat Bahasa Korea?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "Selalu di akhir kalimat",
+            "Selalu sesudah subjek, seperti Bahasa Indonesia",
+            "Selalu di awal kalimat",
+            "Bebas, tergantung penekanan"
+          ],
+          "answer": 0,
+          "explain": "Urutan dasarnya subjek - objek - kata kerja. 저는 밥을 먹어요 harfiahnya 'saya nasi makan'."
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "title": "Partikel topik: 은 / 는",
+      "stage": 1,
+      "explanation": "Partikel 은/는 menandai TOPIK kalimat, yaitu hal yang sedang dibicarakan. Dipakai 은 setelah kata berbatchim dan 는 setelah kata berakhir vokal: 선생님은, 저는. Partikel ditulis MENEMPEL pada kata sebelumnya tanpa spasi. Fungsinya mengangkat sesuatu menjadi pokok pembicaraan, dan sering juga membandingkan: 저는 학생이에요 bisa membawa nuansa 'kalau saya, saya pelajar (berbeda dari yang lain)'.",
+      "caveats": [
+        "은/는 BUKAN penanda subjek, walaupun sering diterjemahkan demikian. Topik bisa berupa subjek, objek, atau keterangan: 그 책은 읽었어요 ('kalau buku itu, sudah saya baca') — di sini topiknya adalah objek.",
+        "Perbedaan 은/는 dengan 이/가 adalah salah satu perkara tersulit dalam Bahasa Korea dan tidak bisa dikuasai dari satu aturan. Topik g03 memberi pedoman awalnya, bukan jawaban akhirnya.",
+        "Dalam percakapan santai, partikel sering dihilangkan sama sekali: 저 학생이에요. Hal ini wajar dan bukan kesalahan."
+      ],
+      "examples": [
+        {
+          "ko": "저는 이반이에요.",
+          "gloss": "Saya Ivan."
+        },
+        {
+          "ko": "선생님은 한국 사람이에요.",
+          "gloss": "Pak guru orang Korea."
+        },
+        {
+          "ko": "오늘은 날씨가 좋아요.",
+          "gloss": "Hari ini cuacanya bagus."
+        },
+        {
+          "ko": "김치는 조금 매워요.",
+          "gloss": "Kimchi itu sedikit pedas."
+        }
+      ],
+      "items": [
+        {
+          "id": "g02-01",
+          "type": "cloze",
+          "prompt": "Lengkapi dengan partikel topik yang tepat.",
+          "prompt_ko": "선생님___ 한국 사람이에요.",
+          "options_lang": "ko",
+          "options": [
+            "은",
+            "는",
+            "이",
+            "가"
+          ],
+          "answer": 0,
+          "explain": "선생님 berakhir dengan batchim ㅁ, jadi 은."
+        },
+        {
+          "id": "g02-02",
+          "type": "cloze",
+          "prompt": "Lengkapi dengan partikel topik yang tepat.",
+          "prompt_ko": "저___ 인도네시아 사람이에요.",
+          "options_lang": "ko",
+          "options": [
+            "는",
+            "은",
+            "가",
+            "를"
+          ],
+          "answer": 0,
+          "explain": "저 berakhir dengan vokal, jadi 는."
+        },
+        {
+          "id": "g02-03",
+          "type": "mcq",
+          "prompt": "Bagaimana partikel ditulis terhadap kata sebelumnya?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "Menempel tanpa spasi",
+            "Dipisah dengan spasi",
+            "Dipisah dengan tanda hubung",
+            "Boleh keduanya"
+          ],
+          "answer": 0,
+          "explain": "Partikel selalu menempel: 저는, bukan 저 는. Spasi dalam Bahasa Korea memisahkan kata, dan partikel bukan kata yang berdiri sendiri."
+        },
+        {
+          "id": "g02-04",
+          "type": "mcq",
+          "prompt": "Apa yang ditandai oleh 은/는?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "Topik, yaitu hal yang sedang dibicarakan",
+            "Subjek yang melakukan perbuatan",
+            "Objek yang dikenai perbuatan",
+            "Tempat terjadinya perbuatan"
+          ],
+          "answer": 0,
+          "explain": "Penanda subjek adalah 이/가, penanda objek 을/를. 은/는 menandai topik, yang bisa berupa salah satu dari ketiganya."
+        },
+        {
+          "id": "g02-05",
+          "type": "mcq",
+          "prompt": "Kalimat 저는 커피는 안 마셔요 memuat 는 dua kali. Apa fungsi yang kedua?",
+          "prompt_ko": "저는 커피는 안 마셔요.",
+          "options_lang": "id",
+          "options": [
+            "Membandingkan: 'kopi (berbeda dari minuman lain) tidak saya minum'",
+            "Menandai kopi sebagai subjek kalimat",
+            "Kesalahan tata bahasa",
+            "Menegaskan bahwa kopinya banyak"
+          ],
+          "answer": 0,
+          "explain": "은/는 yang kedua membawa nuansa pembandingan. Inilah salah satu tugasnya selain menandai topik."
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "title": "Partikel subjek: 이 / 가, dan bedanya dengan 은/는",
+      "stage": 2,
+      "explanation": "Partikel 이/가 menandai SUBJEK, yaitu pelaku atau hal yang keadaannya diterangkan. Dipakai 이 setelah batchim dan 가 setelah vokal: 책이, 친구가. Pedoman awal untuk membedakannya dari 은/는: 이/가 dipakai saat memperkenalkan hal BARU, atau saat menjawab pertanyaan 'apa yang' dan 'siapa yang'. Sebaliknya, 은/는 dipakai saat hal yang dibicarakan sudah diketahui kedua pihak. Pada 저는 학생이에요, 'saya' sudah jelas siapa; pada 누가 왔어요? - 친구가 왔어요, jawabannya informasi baru sehingga memakai 가.",
+      "caveats": [
+        "Beberapa kata ganti berubah bentuk dengan 이/가: 저 menjadi 제가, 나 menjadi 내가, 누구 menjadi 누가. Bentuk 저가, 나가, 누구가 tidak dipakai.",
+        "Kata sifat seperti 좋다, 많다, 아프다 menuntut subjek dengan 이/가, bukan objek: 머리가 아파요, bukan 머리를 아파요.",
+        "Kaidah 'baru memakai 이/가, lama memakai 은/는' hanya pedoman awal. Banyak pemakaian nyata yang tidak tercakup, dan penutur asli pun memilih berdasarkan rasa bahasa. Jangan menganggap pedoman ini sebagai aturan mutlak."
+      ],
+      "examples": [
+        {
+          "ko": "친구가 왔어요.",
+          "gloss": "Teman saya datang."
+        },
+        {
+          "ko": "책이 책상 위에 있어요.",
+          "gloss": "Buku ada di atas meja."
+        },
+        {
+          "ko": "제가 하겠습니다.",
+          "gloss": "Saya yang akan melakukannya."
+        },
+        {
+          "ko": "누가 전화했어요?",
+          "gloss": "Siapa yang menelepon?"
+        }
+      ],
+      "items": [
+        {
+          "id": "g03-01",
+          "type": "cloze",
+          "prompt": "Lengkapi dengan partikel subjek yang tepat.",
+          "prompt_ko": "책___ 있어요.",
+          "options_lang": "ko",
+          "options": [
+            "이",
+            "가",
+            "은",
+            "를"
+          ],
+          "answer": 0,
+          "explain": "책 berakhir dengan batchim ㄱ, jadi 이. 책이 dibunyikan 채기."
+        },
+        {
+          "id": "g03-02",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Teman saya datang.'",
+          "prompt_ko": "친구___ 왔어요.",
+          "options_lang": "ko",
+          "options": [
+            "가",
+            "이",
+            "는",
+            "를"
+          ],
+          "answer": 0,
+          "explain": "친구 berakhir dengan vokal, jadi 가."
+        },
+        {
+          "id": "g03-03",
+          "type": "mcq",
+          "prompt": "Bagaimana bentuk 저 bila diberi partikel subjek?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "제가",
+            "저가",
+            "저이",
+            "제이"
+          ],
+          "answer": 0,
+          "explain": "저 + 가 menjadi 제가. Begitu pula 나 menjadi 내가 dan 누구 menjadi 누가."
+        },
+        {
+          "id": "g03-04",
+          "type": "mcq",
+          "prompt": "Pada pertanyaan 누가 왔어요? jawaban mana yang paling wajar?",
+          "prompt_ko": "누가 왔어요?",
+          "options_lang": "ko",
+          "options": [
+            "친구가 왔어요.",
+            "친구는 왔어요.",
+            "친구를 왔어요.",
+            "친구에 왔어요."
+          ],
+          "answer": 0,
+          "explain": "Jawaban atas 'siapa yang...' adalah informasi baru, sehingga memakai 이/가."
+        },
+        {
+          "id": "g03-05",
+          "type": "mcq",
+          "prompt": "Mana kalimat yang benar untuk 'Kepala saya sakit'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "머리가 아파요.",
+            "머리를 아파요.",
+            "머리에 아파요.",
+            "머리도 아파요."
+          ],
+          "answer": 0,
+          "explain": "아프다 adalah kata sifat, dan kata sifat tidak punya objek. Bagian yang sakit menjadi subjek dengan 이/가."
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "title": "Partikel objek: 을 / 를 dan urutan kata",
+      "stage": 2,
+      "explanation": "Partikel 을/를 menandai OBJEK, yaitu hal yang dikenai perbuatan. Dipakai 을 setelah batchim dan 를 setelah vokal: 밥을, 커피를. Urutan kata Bahasa Korea adalah subjek - objek - kata kerja, sehingga 'Saya makan nasi' menjadi 저는 밥을 먹어요, harfiahnya 'saya nasi makan'. Karena partikelnya sudah menandai peran masing-masing kata, urutan subjek dan objek sebenarnya bisa ditukar tanpa mengubah arti, asalkan kata kerjanya tetap di akhir.",
+      "caveats": [
+        "Dalam percakapan sehari-hari partikel objek sering dihilangkan: 밥 먹었어요? Hal ini sangat umum dan tidak dianggap kesalahan.",
+        "Sebagian kata kerja yang dalam Bahasa Indonesia memakai kata depan justru memakai partikel objek dalam Bahasa Korea: 친구를 만나요 ('bertemu DENGAN teman'), 버스를 타요 ('naik bus').",
+        "Sebaliknya, ada kata kerja yang tampak berobjek tetapi memakai 이/가: 돈이 필요해요 ('butuh uang'), 한국어를 알아요 tetapi 한국어가 어려워요."
+      ],
+      "examples": [
+        {
+          "ko": "저는 밥을 먹어요.",
+          "gloss": "Saya makan nasi."
+        },
+        {
+          "ko": "커피를 마셔요.",
+          "gloss": "Saya minum kopi."
+        },
+        {
+          "ko": "내일 친구를 만나요.",
+          "gloss": "Besok saya bertemu teman."
+        },
+        {
+          "ko": "저는 한국어를 공부해요.",
+          "gloss": "Saya belajar bahasa Korea."
+        }
+      ],
+      "items": [
+        {
+          "id": "g04-01",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya makan nasi.'",
+          "prompt_ko": "저는 밥___ 먹어요.",
+          "options_lang": "ko",
+          "options": [
+            "을",
+            "를",
+            "이",
+            "는"
+          ],
+          "answer": 0,
+          "explain": "밥 berakhir dengan batchim ㅂ, jadi 을. 밥을 dibunyikan 바블."
+        },
+        {
+          "id": "g04-02",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya minum kopi.'",
+          "prompt_ko": "커피___ 마셔요.",
+          "options_lang": "ko",
+          "options": [
+            "를",
+            "을",
+            "가",
+            "에"
+          ],
+          "answer": 0,
+          "explain": "커피 berakhir dengan vokal, jadi 를."
+        },
+        {
+          "id": "g04-03",
+          "type": "mcq",
+          "prompt": "Mana susunan kata yang benar untuk 'Saya belajar bahasa Korea'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "저는 한국어를 공부해요.",
+            "저는 공부해요 한국어를.",
+            "공부해요 저는 한국어를.",
+            "한국어를 공부해요 저는."
+          ],
+          "answer": 0,
+          "explain": "Kata kerja wajib di akhir. Susunan lain pada pilihan meletakkan kata kerja bukan di akhir."
+        },
+        {
+          "id": "g04-04",
+          "type": "mcq",
+          "prompt": "Partikel apa yang dipakai pada 'bertemu teman'?",
+          "prompt_ko": "친구___ 만나요.",
+          "options_lang": "ko",
+          "options": [
+            "를",
+            "에게",
+            "하고",
+            "에"
+          ],
+          "answer": 0,
+          "explain": "만나다 memakai partikel objek walaupun Bahasa Indonesia memakai 'dengan'. 친구를 만나요."
+        },
+        {
+          "id": "g04-05",
+          "type": "mcq",
+          "prompt": "Mengapa 저는 밥을 먹어요 dan 밥을 저는 먹어요 sama-sama bisa dipahami?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "Karena peran setiap kata ditandai partikelnya, bukan posisinya",
+            "Karena Bahasa Korea tidak punya aturan urutan kata",
+            "Karena keduanya salah dan hanya dipakai dalam puisi",
+            "Karena 밥 bisa menjadi subjek maupun objek"
+          ],
+          "answer": 0,
+          "explain": "Inilah guna partikel. Yang tetap tidak boleh berubah hanyalah kedudukan kata kerja di akhir kalimat."
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "title": "Tempat dan waktu: 에 dan 에서",
+      "stage": 3,
+      "explanation": "Partikel 에 menandai tujuan ('ke') dan titik waktu ('pada'), sedangkan 에서 menandai tempat berlangsungnya kegiatan ('di') dan titik asal ('dari'). Perbedaannya: 학교에 가요 ('pergi ke sekolah') menyebut tujuan, sedangkan 학교에서 공부해요 ('belajar di sekolah') menyebut tempat kegiatan berlangsung. Untuk waktu selalu dipakai 에: 세 시에, 월요일에.",
+      "caveats": [
+        "Kata kerja 있다, 없다, 살다 memakai 에 untuk tempat, bukan 에서: 서울에 살아요, 집에 있어요. Keduanya menyatakan keberadaan, bukan kegiatan.",
+        "Keterangan waktu 오늘, 어제, 내일, 지금, 매일 TIDAK memakai 에: 오늘 가요, bukan 오늘에 가요. Yang memakai 에 adalah waktu yang berupa titik pada kalender atau jam.",
+        "에서 juga berarti 'dari' untuk tempat: 집에서 학교까지 ('dari rumah sampai sekolah'). Untuk 'dari' yang berupa waktu dipakai 부터."
+      ],
+      "examples": [
+        {
+          "ko": "학교에 가요.",
+          "gloss": "Saya pergi ke sekolah."
+        },
+        {
+          "ko": "도서관에서 공부해요.",
+          "gloss": "Saya belajar di perpustakaan."
+        },
+        {
+          "ko": "저는 서울에 살아요.",
+          "gloss": "Saya tinggal di Seoul."
+        },
+        {
+          "ko": "일곱 시에 일어나요.",
+          "gloss": "Saya bangun jam tujuh."
+        }
+      ],
+      "items": [
+        {
+          "id": "g05-01",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya belajar di perpustakaan.'",
+          "prompt_ko": "도서관___ 공부해요.",
+          "options_lang": "ko",
+          "options": [
+            "에서",
+            "에",
+            "로",
+            "까지"
+          ],
+          "answer": 0,
+          "explain": "공부하다 adalah kegiatan, sehingga tempatnya memakai 에서."
+        },
+        {
+          "id": "g05-02",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya pergi ke sekolah.'",
+          "prompt_ko": "학교___ 가요.",
+          "options_lang": "ko",
+          "options": [
+            "에",
+            "에서",
+            "를",
+            "도"
+          ],
+          "answer": 0,
+          "explain": "가다 menyebut tujuan, sehingga memakai 에."
+        },
+        {
+          "id": "g05-03",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya tinggal di Seoul.'",
+          "prompt_ko": "저는 서울___ 살아요.",
+          "options_lang": "ko",
+          "options": [
+            "에",
+            "에서",
+            "로",
+            "하고"
+          ],
+          "answer": 0,
+          "explain": "살다 menyatakan keberadaan, bukan kegiatan, sehingga memakai 에 walaupun artinya 'di'."
+        },
+        {
+          "id": "g05-04",
+          "type": "mcq",
+          "prompt": "Mana kalimat yang benar?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "오늘 친구를 만나요.",
+            "오늘에 친구를 만나요.",
+            "오늘에서 친구를 만나요.",
+            "오늘를 친구를 만나요."
+          ],
+          "answer": 0,
+          "explain": "오늘, 어제, 내일, 지금 tidak memakai partikel waktu 에."
+        },
+        {
+          "id": "g05-05",
+          "type": "mcq",
+          "prompt": "Apa arti 집에서 학교까지?",
+          "prompt_ko": "집에서 학교까지",
+          "options_lang": "id",
+          "options": [
+            "Dari rumah sampai sekolah",
+            "Di rumah dan di sekolah",
+            "Ke rumah lewat sekolah",
+            "Rumah dan sekolah bersama-sama"
+          ],
+          "answer": 0,
+          "explain": "에서 di sini berarti 'dari', dan 까지 berarti 'sampai'. Pasangan ini sering muncul bersama."
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "title": "Bentuk sopan 해요체: akhiran 아요 / 어요",
+      "stage": 3,
+      "explanation": "Bentuk kamus kata kerja selalu berakhiran 다 (먹다, 가다), tetapi bentuk itu tidak dipakai untuk berbicara. Untuk berbicara sopan sehari-hari dipakai 해요체: buang 다, lalu tambahkan 아요 bila vokal terakhir batang kata adalah ㅏ atau ㅗ, dan 어요 untuk vokal lainnya. 먹다 menjadi 먹어요, 살다 menjadi 살아요. Bila batang kata berakhir vokal, keduanya sering melebur: 가 + 아요 menjadi 가요, 오 + 아요 menjadi 와요, 마시 + 어요 menjadi 마셔요. Semua kata berakhiran 하다 menjadi 해요.",
+      "caveats": [
+        "Peleburan vokal itu wajib, bukan pilihan: bentuk 가아요 dan 오아요 salah.",
+        "Ada beberapa kelompok kata kerja tidak beraturan yang harus dihafal: ㅂ 불규칙 (어렵다 menjadi 어려워요), ㄷ 불규칙 (듣다 menjadi 들어요), 르 불규칙 (모르다 menjadi 몰라요), dan kata berbatang ㅡ (쓰다 menjadi 써요).",
+        "Bentuk 해요체 yang sama dipakai untuk pernyataan, pertanyaan, perintah, dan ajakan. Yang membedakan hanya nada bicara: 가요 bisa berarti 'saya pergi', 'apakah Anda pergi?', 'pergilah', dan 'ayo pergi'."
+      ],
+      "examples": [
+        {
+          "ko": "저는 밥을 먹어요.",
+          "gloss": "Saya makan."
+        },
+        {
+          "ko": "학교에 가요.",
+          "gloss": "Saya pergi ke sekolah."
+        },
+        {
+          "ko": "커피를 마셔요.",
+          "gloss": "Saya minum kopi."
+        },
+        {
+          "ko": "한국어를 공부해요.",
+          "gloss": "Saya belajar bahasa Korea."
+        }
+      ],
+      "items": [
+        {
+          "id": "g06-01",
+          "type": "mcq",
+          "prompt": "Apa bentuk 해요 dari 먹다?",
+          "prompt_ko": "먹다",
+          "options_lang": "ko",
+          "options": [
+            "먹어요",
+            "먹아요",
+            "머거요",
+            "먹요"
+          ],
+          "answer": 0,
+          "explain": "Vokal batang kata adalah ㅓ, bukan ㅏ atau ㅗ, sehingga memakai 어요. Tulisannya 먹어요 walaupun dibunyikan 머거요."
+        },
+        {
+          "id": "g06-02",
+          "type": "mcq",
+          "prompt": "Apa bentuk 해요 dari 오다?",
+          "prompt_ko": "오다",
+          "options_lang": "ko",
+          "options": [
+            "와요",
+            "오아요",
+            "오어요",
+            "오요"
+          ],
+          "answer": 0,
+          "explain": "오 + 아요 melebur menjadi 와요."
+        },
+        {
+          "id": "g06-03",
+          "type": "mcq",
+          "prompt": "Apa bentuk 해요 dari 공부하다?",
+          "prompt_ko": "공부하다",
+          "options_lang": "ko",
+          "options": [
+            "공부해요",
+            "공부하요",
+            "공부아요",
+            "공부어요"
+          ],
+          "answer": 0,
+          "explain": "Semua kata berakhiran 하다 menjadi 해요. Ini bentuk tidak beraturan yang paling sering dipakai."
+        },
+        {
+          "id": "g06-04",
+          "type": "mcq",
+          "prompt": "Apa bentuk 해요 dari 어렵다 (sulit)?",
+          "prompt_ko": "어렵다",
+          "options_lang": "ko",
+          "options": [
+            "어려워요",
+            "어렵어요",
+            "어려버요",
+            "어렵아요"
+          ],
+          "answer": 0,
+          "explain": "ㅂ 불규칙: batchim ㅂ berubah menjadi 우, lalu bergabung menjadi 어려워요. Begitu pula 쉽다 menjadi 쉬워요 dan 춥다 menjadi 추워요."
+        },
+        {
+          "id": "g06-05",
+          "type": "mcq",
+          "prompt": "Kalimat 가요 bisa berarti apa saja?",
+          "prompt_ko": "가요",
+          "options_lang": "id",
+          "options": [
+            "Saya pergi / Apakah Anda pergi? / Pergilah / Ayo pergi",
+            "Hanya 'saya pergi'",
+            "Hanya 'ayo pergi'",
+            "Hanya pertanyaan 'apakah Anda pergi?'"
+          ],
+          "answer": 0,
+          "explain": "해요체 tidak membedakan jenis kalimat; nada bicara dan keadaanlah yang menentukan."
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "title": "Bentuk lampau: 았어요 / 었어요",
+      "stage": 4,
+      "explanation": "Bentuk lampau dibuat dengan menyisipkan 았 atau 었 sebelum 어요, mengikuti aturan vokal yang sama dengan 해요체: 먹다 menjadi 먹었어요, 가다 menjadi 갔어요, 하다 menjadi 했어요. Perhatikan peleburannya: 가 + 았어요 menjadi 갔어요 (satu suku kata, dengan batchim ㅆ), bukan 가았어요. Bentuk lampau ini dipakai untuk semua kejadian yang sudah selesai, baik baru saja maupun lama.",
+      "caveats": [
+        "Bahasa Korea tidak membedakan 'sudah makan' dan 'makan (tadi)' seperti bahasa lain yang punya banyak bentuk lampau. Satu bentuk 먹었어요 menanggung semuanya.",
+        "Bentuk lampau juga dipakai untuk keadaan yang masih berlangsung sekarang bila keadaan itu sudah terjadi: 결혼했어요 ('saya sudah menikah', dan masih menikah).",
+        "Untuk masa depan tidak ada bentuk wajib. Bentuk kini dengan keterangan waktu sudah cukup (내일 가요), walaupun ada akhiran khusus seperti -(으)ㄹ 거예요 dan -겠어요."
+      ],
+      "examples": [
+        {
+          "ko": "어제 친구를 만났어요.",
+          "gloss": "Kemarin saya bertemu teman."
+        },
+        {
+          "ko": "밥을 먹었어요.",
+          "gloss": "Saya sudah makan."
+        },
+        {
+          "ko": "어제 한국어를 공부했어요.",
+          "gloss": "Kemarin saya belajar bahasa Korea."
+        },
+        {
+          "ko": "주말에 영화를 봤어요.",
+          "gloss": "Di akhir pekan saya menonton film."
+        }
+      ],
+      "items": [
+        {
+          "id": "g07-01",
+          "type": "mcq",
+          "prompt": "Apa bentuk lampau dari 먹어요?",
+          "prompt_ko": "먹어요",
+          "options_lang": "ko",
+          "options": [
+            "먹었어요",
+            "먹았어요",
+            "먹어었어요",
+            "먹겠어요"
+          ],
+          "answer": 0,
+          "explain": "Vokal ㅓ memakai 었: 먹었어요. Dibunyikan 머거써요."
+        },
+        {
+          "id": "g07-02",
+          "type": "mcq",
+          "prompt": "Apa bentuk lampau dari 가요?",
+          "prompt_ko": "가요",
+          "options_lang": "ko",
+          "options": [
+            "갔어요",
+            "가았어요",
+            "가었어요",
+            "갔아요"
+          ],
+          "answer": 0,
+          "explain": "가 + 았어요 melebur menjadi 갔어요 dengan batchim ㅆ."
+        },
+        {
+          "id": "g07-03",
+          "type": "mcq",
+          "prompt": "Apa bentuk lampau dari 공부해요?",
+          "prompt_ko": "공부해요",
+          "options_lang": "ko",
+          "options": [
+            "공부했어요",
+            "공부해었어요",
+            "공부하았어요",
+            "공부핬어요"
+          ],
+          "answer": 0,
+          "explain": "해 + 었어요 melebur menjadi 했어요."
+        },
+        {
+          "id": "g07-04",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Kemarin saya menonton film.'",
+          "prompt_ko": "어제 영화를 ___.",
+          "options_lang": "ko",
+          "options": [
+            "봤어요",
+            "봐요",
+            "보았요",
+            "볼어요"
+          ],
+          "answer": 0,
+          "explain": "보 + 았어요 melebur menjadi 봤어요. Keterangan 어제 menuntut bentuk lampau."
+        },
+        {
+          "id": "g07-05",
+          "type": "mcq",
+          "prompt": "Bagaimana Bahasa Korea menyatakan masa depan pada 'Besok saya pergi ke Seoul'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "내일 서울에 가요.",
+            "내일 서울에 갔어요.",
+            "내일 서울에 가었어요.",
+            "내일 서울에 가다."
+          ],
+          "answer": 0,
+          "explain": "Bentuk kini sudah cukup bila keterangan waktunya jelas. Bentuk 갈 거예요 juga benar dan lebih tegas menyatakan rencana."
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "title": "Penafian: 안, 못, dan -지 않다",
+      "stage": 4,
+      "explanation": "Ada dua cara menafikan. Pertama, letakkan 안 di depan kata kerja: 안 먹어요 ('tidak makan'). Kedua, tempelkan -지 않다 pada batang kata: 먹지 않아요. Keduanya bermakna sama, tetapi 안 lebih lazim dalam percakapan dan -지 않다 lebih lazim dalam tulisan. Berbeda dari keduanya, 못 berarti 'tidak BISA': 못 먹어요 berarti tidak mampu makan (misalnya karena alergi), bukan tidak mau. Untuk kata berakhiran 하다, 안 masuk di antara keduanya: 공부 안 해요, bukan 안 공부해요.",
+      "caveats": [
+        "있다 dan 알다 punya kata lawan tersendiri dan TIDAK dinafikan dengan 안: lawannya 없다 dan 모르다. Bentuk 안 있어요 dan 안 알아요 tidak dipakai.",
+        "Untuk 'belum', 안 digabung dengan 아직: 아직 안 먹었어요.",
+        "못 juga dipakai untuk keadaan yang terhalang oleh sebab luar: 시간이 없어서 못 갔어요 ('tidak bisa pergi karena tidak ada waktu'). Ia tidak selalu tentang kemampuan diri."
+      ],
+      "examples": [
+        {
+          "ko": "저는 고기를 안 먹어요.",
+          "gloss": "Saya tidak makan daging."
+        },
+        {
+          "ko": "오늘은 학교에 안 가요.",
+          "gloss": "Hari ini saya tidak pergi ke sekolah."
+        },
+        {
+          "ko": "매운 음식을 못 먹어요.",
+          "gloss": "Saya tidak bisa makan makanan pedas."
+        },
+        {
+          "ko": "저는 담배를 피우지 않아요.",
+          "gloss": "Saya tidak merokok."
+        }
+      ],
+      "items": [
+        {
+          "id": "g08-01",
+          "type": "mcq",
+          "prompt": "Apa perbedaan 안 먹어요 dan 못 먹어요?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "안 berarti tidak makan (pilihan), 못 berarti tidak bisa makan (tidak mampu atau terhalang)",
+            "Tidak ada perbedaan artinya",
+            "안 untuk masa kini, 못 untuk masa lampau",
+            "안 lebih sopan daripada 못"
+          ],
+          "answer": 0,
+          "explain": "못 selalu mengandung ketidakmampuan atau penghalang, sedangkan 안 hanya menafikan."
+        },
+        {
+          "id": "g08-02",
+          "type": "mcq",
+          "prompt": "Bagaimana menafikan 공부해요?",
+          "prompt_ko": "공부해요",
+          "options_lang": "ko",
+          "options": [
+            "공부 안 해요",
+            "안 공부해요",
+            "공부해 안요",
+            "안 공부 해요"
+          ],
+          "answer": 0,
+          "explain": "Pada kata berakhiran 하다, 안 masuk sebelum 하다, bukan di depan seluruh kata."
+        },
+        {
+          "id": "g08-03",
+          "type": "mcq",
+          "prompt": "Apa bentuk negatif dari 있어요?",
+          "prompt_ko": "있어요",
+          "options_lang": "ko",
+          "options": [
+            "없어요",
+            "안 있어요",
+            "있지 않아요",
+            "못 있어요"
+          ],
+          "answer": 0,
+          "explain": "있다 punya lawan kata tersendiri, yaitu 없다."
+        },
+        {
+          "id": "g08-04",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya belum makan.'",
+          "prompt_ko": "___ 안 먹었어요.",
+          "options_lang": "ko",
+          "options": [
+            "아직",
+            "벌써",
+            "너무",
+            "제일"
+          ],
+          "answer": 0,
+          "explain": "'Belum' adalah gabungan 아직 dengan bentuk negatif."
+        },
+        {
+          "id": "g08-05",
+          "type": "mcq",
+          "prompt": "Mana bentuk penafian yang lebih lazim dalam tulisan?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "먹지 않아요",
+            "안 먹어요",
+            "못 먹어요",
+            "먹어 안요"
+          ],
+          "answer": 0,
+          "explain": "-지 않다 lebih sering dipakai dalam tulisan dan ragam resmi; 안 lebih lazim dalam percakapan."
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "title": "Keberadaan dan tempat: 있어요 / 없어요 dan kata tempat",
+      "stage": 5,
+      "explanation": "있어요 berarti 'ada' dan 없어요 berarti 'tidak ada'. Keduanya sekaligus menyatakan kepemilikan: 돈이 있어요 bisa berarti 'ada uang' atau 'saya punya uang'. Susunannya: [tempat]에 [benda]이/가 있어요. Kata penunjuk tempat diletakkan SESUDAH kata bendanya, berlawanan dengan Bahasa Indonesia: 책상 위 ('meja atas' = di atas meja). Kata tempat yang paling sering dipakai: 위 (atas), 아래 dan 밑 (bawah), 앞 (depan), 뒤 (belakang), 옆 (sebelah), 안 (dalam), 밖 (luar), 사이 (antara).",
+      "caveats": [
+        "있다 dan 없다 secara tata bahasa berperilaku seperti kata sifat, tetapi punya bentuk perintah seperti kata kerja (있으세요). Kamus Korea sendiri menggolongkannya berbeda-beda.",
+        "아래 dan 밑 sering bertukar pakai; 밑 lebih menekankan persentuhan langsung (책 밑 = tepat di bawah buku).",
+        "Kata 안 (dalam) berbeda dari 안 penanda penafian; keduanya hanya kebetulan sama tulisannya."
+      ],
+      "examples": [
+        {
+          "ko": "책상 위에 책이 있어요.",
+          "gloss": "Di atas meja ada buku."
+        },
+        {
+          "ko": "약국은 병원 옆에 있어요.",
+          "gloss": "Apotek ada di sebelah rumah sakit."
+        },
+        {
+          "ko": "지금 시간이 없어요.",
+          "gloss": "Sekarang saya tidak punya waktu."
+        },
+        {
+          "ko": "가방 안에 뭐가 있어요?",
+          "gloss": "Apa yang ada di dalam tas?"
+        }
+      ],
+      "items": [
+        {
+          "id": "g09-01",
+          "type": "mcq",
+          "prompt": "Bagaimana mengatakan 'di atas meja'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "책상 위에",
+            "위에 책상",
+            "책상에 위",
+            "위 책상에"
+          ],
+          "answer": 0,
+          "explain": "Kata tempat diletakkan sesudah kata bendanya, lalu diberi partikel 에."
+        },
+        {
+          "id": "g09-02",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Di dalam tas ada buku.'",
+          "prompt_ko": "가방 ___에 책이 있어요.",
+          "options_lang": "ko",
+          "options": [
+            "안",
+            "밖",
+            "위",
+            "앞"
+          ],
+          "answer": 0,
+          "explain": "안 berarti 'dalam'. Kata ini berbeda dari 안 penanda penafian."
+        },
+        {
+          "id": "g09-03",
+          "type": "mcq",
+          "prompt": "Apa arti 돈이 있어요?",
+          "prompt_ko": "돈이 있어요.",
+          "options_lang": "id",
+          "options": [
+            "Ada uang / Saya punya uang",
+            "Uangnya hilang",
+            "Saya ingin uang",
+            "Uangnya banyak"
+          ],
+          "answer": 0,
+          "explain": "있다 menanggung dua arti: keberadaan dan kepemilikan."
+        },
+        {
+          "id": "g09-04",
+          "type": "mcq",
+          "prompt": "Mana susunan yang benar untuk 'Apotek ada di sebelah rumah sakit'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "약국은 병원 옆에 있어요.",
+            "약국은 옆 병원에 있어요.",
+            "병원은 약국 옆에 있어요.",
+            "약국 옆에 병원은 있어요."
+          ],
+          "answer": 0,
+          "explain": "Yang dicari letaknya (약국) menjadi topik, dan patokannya (병원) diikuti kata tempat 옆에. Pilihan ketiga artinya terbalik."
+        },
+        {
+          "id": "g09-05",
+          "type": "cloze",
+          "prompt": "Lengkapi dengan partikel yang tepat.",
+          "prompt_ko": "교실에 학생___ 많이 있어요.",
+          "options_lang": "ko",
+          "options": [
+            "이",
+            "을",
+            "는",
+            "에"
+          ],
+          "answer": 0,
+          "explain": "Benda yang keberadaannya dinyatakan memakai partikel subjek 이/가."
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "Bertanya: kata tanya, 몇, dan nada bicara",
+      "stage": 5,
+      "explanation": "Bahasa Korea tidak mengubah susunan kata untuk bertanya. Kalimat tanya memakai susunan yang sama dengan kalimat berita, hanya nada akhirnya dinaikkan: 밥 먹어요 (berita) dan 밥 먹어요? (tanya). Kata tanya diletakkan di tempat jawabannya nanti berada: 'Anda makan apa?' menjadi 뭐 먹어요?, bukan 'apa Anda makan'. Untuk menanyakan jumlah dipakai 몇 yang selalu diikuti penggolong: 몇 개 (berapa buah), 몇 명 (berapa orang), 몇 시 (jam berapa).",
+      "caveats": [
+        "Dalam bentuk 합니다, pertanyaan memakai akhiran berbeda: 먹습니다 (berita) menjadi 먹습니까? (tanya). Hanya 해요체 yang memakai bentuk yang sama untuk keduanya.",
+        "Kata tanya Korea tidak diulang atau dipindahkan ke depan seperti dalam Bahasa Inggris. Memindahkannya ke depan tidak salah, tetapi mengubah penekanan.",
+        "얼마 dipakai khusus untuk harga (얼마예요?), sedangkan 얼마나 untuk kadar atau lama (얼마나 걸려요?)."
+      ],
+      "examples": [
+        {
+          "ko": "이름이 뭐예요?",
+          "gloss": "Namanya apa?"
+        },
+        {
+          "ko": "어디에 가요?",
+          "gloss": "Mau ke mana?"
+        },
+        {
+          "ko": "이거 얼마예요?",
+          "gloss": "Ini berapa harganya?"
+        },
+        {
+          "ko": "지금 몇 시예요?",
+          "gloss": "Sekarang jam berapa?"
+        }
+      ],
+      "items": [
+        {
+          "id": "g10-01",
+          "type": "mcq",
+          "prompt": "Bagaimana bentuk tanya dari 밥 먹어요 dalam 해요체?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "밥 먹어요?",
+            "먹어요 밥?",
+            "밥 먹어까요?",
+            "밥 먹습니까요?"
+          ],
+          "answer": 0,
+          "explain": "Susunannya tidak berubah; hanya nada akhirnya yang dinaikkan."
+        },
+        {
+          "id": "g10-02",
+          "type": "mcq",
+          "prompt": "Mana cara yang benar menanyakan 'Anda makan apa?'",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "뭐 먹어요?",
+            "먹어요 뭐?",
+            "뭐가 먹어요?",
+            "뭐를 먹어요 뭐?"
+          ],
+          "answer": 0,
+          "explain": "Kata tanya menempati tempat jawabannya, yaitu posisi objek sebelum kata kerja. Bentuk 뭐를 먹어요? juga benar tetapi partikelnya sering dihilangkan."
+        },
+        {
+          "id": "g10-03",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Sekarang jam berapa?'",
+          "prompt_ko": "지금 ___ 시예요?",
+          "options_lang": "ko",
+          "options": [
+            "몇",
+            "뭐",
+            "얼마",
+            "어떻게"
+          ],
+          "answer": 0,
+          "explain": "Jumlah dan angka ditanyakan dengan 몇, yang selalu diikuti penggolong."
+        },
+        {
+          "id": "g10-04",
+          "type": "mcq",
+          "prompt": "Mana yang dipakai untuk menanyakan harga?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "얼마예요?",
+            "얼마나예요?",
+            "몇이에요?",
+            "뭐 돈이에요?"
+          ],
+          "answer": 0,
+          "explain": "얼마 khusus untuk harga; 얼마나 untuk kadar atau lama waktu."
+        },
+        {
+          "id": "g10-05",
+          "type": "mcq",
+          "prompt": "Apa bentuk tanya dari 먹습니다 dalam ragam 합니다?",
+          "prompt_ko": "먹습니다",
+          "options_lang": "ko",
+          "options": [
+            "먹습니까?",
+            "먹습니다?",
+            "먹습니요?",
+            "먹읍니까?"
+          ],
+          "answer": 0,
+          "explain": "Ragam 합니다 membedakan berita (-습니다) dan tanya (-습니까). Dibunyikan 먹씀니까."
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "Menggabungkan: 하고 / 와 / 과, 도, dan 만",
+      "stage": 6,
+      "explanation": "Untuk menggabungkan dua kata benda ('dan') dipakai 하고 yang sama bentuknya untuk semua kata, atau pasangan 와/과 yang lebih baku: 와 setelah vokal, 과 setelah batchim. 빵하고 우유 sama artinya dengan 빵과 우유. Partikel 도 berarti 'juga' dan MENGGANTI partikel 은/는, 이/가, 을/를: 저도 가요 ('saya juga pergi'), bukan 저는도. Partikel 만 berarti 'hanya': 물만 주세요 ('air saja').",
+      "caveats": [
+        "하고 juga berarti 'dengan (bersama)': 친구하고 같이 가요. Bentuk 한테 dan 에게 berbeda; keduanya berarti 'kepada'.",
+        "도 dan 만 menggantikan partikel topik, subjek, dan objek, tetapi tetap bisa menempel pada partikel tempat: 학교에도 가요 ('ke sekolah juga').",
+        "Dalam percakapan santai, 와/과 jarang dipakai dan hampir selalu diganti 하고 atau 랑/이랑."
+      ],
+      "examples": [
+        {
+          "ko": "빵하고 우유를 샀어요.",
+          "gloss": "Saya membeli roti dan susu."
+        },
+        {
+          "ko": "친구하고 같이 영화를 봤어요.",
+          "gloss": "Saya menonton film bersama teman."
+        },
+        {
+          "ko": "저도 한국어를 공부해요.",
+          "gloss": "Saya juga belajar bahasa Korea."
+        },
+        {
+          "ko": "물만 주세요.",
+          "gloss": "Air saja, tolong."
+        }
+      ],
+      "items": [
+        {
+          "id": "g11-01",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'roti dan susu'",
+          "prompt_ko": "빵___ 우유",
+          "options_lang": "ko",
+          "options": [
+            "하고",
+            "에서",
+            "도",
+            "만"
+          ],
+          "answer": 0,
+          "explain": "하고 dipakai untuk semua kata benda tanpa memandang batchim. Bentuk bakunya di sini 빵과 karena 빵 berbatchim."
+        },
+        {
+          "id": "g11-02",
+          "type": "mcq",
+          "prompt": "Mana yang benar untuk 'Saya juga pergi'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "저도 가요.",
+            "저는도 가요.",
+            "저도는 가요.",
+            "저가도 가요."
+          ],
+          "answer": 0,
+          "explain": "도 menggantikan partikel topik dan subjek, tidak ditumpuk dengannya."
+        },
+        {
+          "id": "g11-03",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Air saja, tolong.'",
+          "prompt_ko": "물___ 주세요.",
+          "options_lang": "ko",
+          "options": [
+            "만",
+            "도",
+            "하고",
+            "에"
+          ],
+          "answer": 0,
+          "explain": "만 berarti 'hanya, saja'."
+        },
+        {
+          "id": "g11-04",
+          "type": "mcq",
+          "prompt": "Mana pasangan 와/과 yang benar?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "우유와 빵과",
+            "우유과 빵와",
+            "우유와 빵와",
+            "우유과 빵과"
+          ],
+          "answer": 0,
+          "explain": "우유 berakhir vokal sehingga memakai 와; 빵 berbatchim sehingga memakai 과. Perhatikan bahwa aturannya BERLAWANAN dengan 은/는 dan 이/가, yang memberi bentuk bervokal kepada kata bervokal."
+        },
+        {
+          "id": "g11-05",
+          "type": "mcq",
+          "prompt": "Apa arti 친구하고 같이 가요?",
+          "prompt_ko": "친구하고 같이 가요.",
+          "options_lang": "id",
+          "options": [
+            "Saya pergi bersama teman",
+            "Saya dan teman adalah hal yang sama",
+            "Saya pergi ke tempat teman",
+            "Teman saya pergi juga"
+          ],
+          "answer": 0,
+          "explain": "하고 di sini berarti 'dengan', dan 같이 menegaskan 'bersama'."
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "Keinginan dan kemampuan: -고 싶어요, -(으)ㄹ 수 있어요",
+      "stage": 6,
+      "explanation": "Untuk menyatakan keinginan, tempelkan -고 싶어요 pada batang kata kerja: 먹고 싶어요 ('ingin makan'), 가고 싶어요 ('ingin pergi'). Untuk menyatakan kemampuan atau kemungkinan dipakai -(으)ㄹ 수 있어요: 할 수 있어요 ('bisa melakukan'), 먹을 수 있어요 ('bisa makan'). Sisipan 으 muncul bila batang kata berbatchim. Lawannya -(으)ㄹ 수 없어요 ('tidak bisa'), yang bermakna dekat dengan 못.",
+      "caveats": [
+        "-고 싶어요 hanya dipakai untuk keinginan DIRI SENDIRI atau untuk bertanya kepada lawan bicara. Untuk keinginan orang ketiga dipakai -고 싶어하다: 친구가 가고 싶어해요.",
+        "수 adalah kata benda yang berarti 'cara, kemungkinan', sehingga susunan -(으)ㄹ 수 있다 harfiahnya 'ada kemungkinan untuk'. Karena itu 수 ditulis terpisah dengan spasi.",
+        "Perbedaan 못 가요 dan 갈 수 없어요 tipis. Keduanya berarti tidak bisa pergi; bentuk 수 없어요 terdengar lebih netral dan sedikit lebih formal."
+      ],
+      "examples": [
+        {
+          "ko": "한국에 가고 싶어요.",
+          "gloss": "Saya ingin pergi ke Korea."
+        },
+        {
+          "ko": "김치를 먹고 싶어요.",
+          "gloss": "Saya ingin makan kimchi."
+        },
+        {
+          "ko": "저는 한국어를 조금 할 수 있어요.",
+          "gloss": "Saya bisa berbahasa Korea sedikit."
+        },
+        {
+          "ko": "오늘은 갈 수 없어요.",
+          "gloss": "Hari ini saya tidak bisa pergi."
+        }
+      ],
+      "items": [
+        {
+          "id": "g12-01",
+          "type": "cloze",
+          "prompt": "Lengkapi: 'Saya ingin pergi ke Korea.'",
+          "prompt_ko": "한국에 가___ 싶어요.",
+          "options_lang": "ko",
+          "options": [
+            "고",
+            "어",
+            "지",
+            "는"
+          ],
+          "answer": 0,
+          "explain": "Pola keinginan adalah batang kata + 고 싶어요."
+        },
+        {
+          "id": "g12-02",
+          "type": "mcq",
+          "prompt": "Apa bentuk 'bisa makan'?",
+          "prompt_ko": "먹다",
+          "options_lang": "ko",
+          "options": [
+            "먹을 수 있어요",
+            "먹를 수 있어요",
+            "먹 수 있어요",
+            "먹고 수 있어요"
+          ],
+          "answer": 0,
+          "explain": "Batang 먹 berbatchim, sehingga memerlukan sisipan 으: 먹을 수 있어요."
+        },
+        {
+          "id": "g12-03",
+          "type": "mcq",
+          "prompt": "Apa bentuk 'bisa melakukan' dari 하다?",
+          "prompt_ko": "하다",
+          "options_lang": "ko",
+          "options": [
+            "할 수 있어요",
+            "하을 수 있어요",
+            "하 수 있어요",
+            "함 수 있어요"
+          ],
+          "answer": 0,
+          "explain": "Batang 하 tidak berbatchim, sehingga langsung memakai ㄹ: 할 수 있어요."
+        },
+        {
+          "id": "g12-04",
+          "type": "mcq",
+          "prompt": "Bagaimana mengatakan 'Teman saya ingin pergi'?",
+          "prompt_ko": null,
+          "options_lang": "ko",
+          "options": [
+            "친구가 가고 싶어해요.",
+            "친구가 가고 싶어요.",
+            "친구는 가고 싶다요.",
+            "친구가 가 싶어해요."
+          ],
+          "answer": 0,
+          "explain": "Keinginan orang ketiga memakai -고 싶어하다, karena pembicara tidak bisa memastikan isi hati orang lain."
+        },
+        {
+          "id": "g12-05",
+          "type": "mcq",
+          "prompt": "Mengapa 수 ditulis dengan spasi pada 할 수 있어요?",
+          "prompt_ko": null,
+          "options_lang": "id",
+          "options": [
+            "Karena 수 adalah kata benda tersendiri yang berarti 'cara, kemungkinan'",
+            "Karena ejaan Korea memberi spasi sebelum setiap kata kerja",
+            "Karena 있어요 selalu didahului spasi",
+            "Karena tanpa spasi artinya berubah menjadi negatif"
+          ],
+          "answer": 0,
+          "explain": "Susunan itu harfiahnya 'ada kemungkinan untuk melakukan'. Spasi dalam ejaan Korea memisahkan kata, dan 수 adalah kata."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3179 @@
+{
+  "module": 2,
+  "title": "Kosakata inti",
+  "description": "180 kata paling sering dipakai dalam percakapan sehari-hari, disusun bertahap dari sapaan sampai kata sifat dan kata keterangan. Sasarannya tingkat A1 menuju A2.",
+  "schema": {
+    "id": "pengenal unik (v###)",
+    "ko": "lema dalam Hangeul; kata kerja dan kata sifat ditulis dalam bentuk kamus (-다)",
+    "gloss": "arti utama dalam Bahasa Indonesia",
+    "alt": "arti lain yang diterima saat menjawab dengan menaip",
+    "pos": "kelas kata dalam istilah Korea",
+    "haeyo": "bentuk 해요 (sopan biasa) untuk kata kerja dan kata sifat; null untuk kelas kata lain",
+    "hanja": "aksara Tionghoa asal kata Sino-Korea, bila ada. Hanya keterangan asal-usul, tidak perlu dihafal",
+    "cat": "kategori tematik",
+    "stage": "tahap 1-6",
+    "example": "contoh kalimat pendek dalam bentuk sopan (해요 atau 합니다)",
+    "note": "catatan pemakaian, pelafalan, atau kesantunan",
+    "catatan_kunci": "Alih huruf Latin dan lafal TIDAK disimpan di berkas ini. Keduanya dihitung oleh koreadrill/romaja.py dan koreadrill/pronounce.py agar tidak ada dua sumber yang bisa berbeda."
+  },
+  "entries": [
+    {
+      "id": "v001",
+      "ko": "안녕하세요",
+      "gloss": "halo, selamat siang",
+      "alt": [
+        "apa kabar"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": "安寧",
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "안녕하세요, 저는 이반이에요.",
+        "gloss": "Halo, saya Ivan."
+      },
+      "note": "Sapaan paling umum, dipakai pagi sampai malam. Harfiahnya bertanya 'apakah Anda dalam keadaan tenteram'. Bentuk yang lebih formal adalah 안녕하십니까."
+    },
+    {
+      "id": "v002",
+      "ko": "안녕히 가세요",
+      "gloss": "selamat jalan",
+      "alt": [
+        "sampai jumpa (kepada yang pergi)"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "안녕히 가세요, 선생님.",
+        "gloss": "Selamat jalan, Pak/Bu Guru."
+      },
+      "note": "Diucapkan kepada orang yang PERGI. Bila Andalah yang pergi dan lawan bicara tinggal, ucapkan 안녕히 계세요."
+    },
+    {
+      "id": "v003",
+      "ko": "안녕히 계세요",
+      "gloss": "selamat tinggal",
+      "alt": [
+        "sampai jumpa (kepada yang tinggal)"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "안녕히 계세요, 저 먼저 갈게요.",
+        "gloss": "Selamat tinggal, saya pergi dulu."
+      },
+      "note": "Diucapkan kepada orang yang TINGGAL di tempat itu. Pasangan 가세요/계세요 ini sering tertukar oleh pemula."
+    },
+    {
+      "id": "v004",
+      "ko": "감사합니다",
+      "gloss": "terima kasih",
+      "alt": [
+        "terima kasih banyak"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": "感謝",
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "도와주셔서 감사합니다.",
+        "gloss": "Terima kasih telah membantu."
+      },
+      "note": "Berasal dari kata Sino-Korea. Agak lebih formal daripada 고맙습니다, dan paling aman dipakai kepada siapa pun."
+    },
+    {
+      "id": "v005",
+      "ko": "고맙습니다",
+      "gloss": "terima kasih",
+      "alt": [
+        "makasih"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "정말 고맙습니다.",
+        "gloss": "Terima kasih sungguh."
+      },
+      "note": "Kata asli Korea dengan arti yang sama. Bentuk 해요-nya 고마워요, dan bentuk akrabnya 고마워."
+    },
+    {
+      "id": "v006",
+      "ko": "죄송합니다",
+      "gloss": "maaf, mohon maaf",
+      "alt": [
+        "saya menyesal"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": "罪悚",
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "늦어서 죄송합니다.",
+        "gloss": "Maaf saya terlambat."
+      },
+      "note": "Lebih formal daripada 미안해요 dan dipakai kepada orang yang lebih tua atau di tempat kerja."
+    },
+    {
+      "id": "v007",
+      "ko": "미안해요",
+      "gloss": "maaf",
+      "alt": [
+        "sori"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "미안해요, 제가 잘못했어요.",
+        "gloss": "Maaf, saya yang salah."
+      },
+      "note": "Dipakai kepada teman atau orang yang sebaya. Bentuk akrabnya 미안."
+    },
+    {
+      "id": "v008",
+      "ko": "네",
+      "gloss": "ya",
+      "alt": [
+        "iya",
+        "benar"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "네, 맞아요.",
+        "gloss": "Ya, benar."
+      },
+      "note": "Selain berarti 'ya', 네 juga dipakai sebagai tanda bahwa Anda sedang menyimak, mirip 'iya' dalam percakapan Bahasa Indonesia. Bentuk yang lebih formal adalah 예."
+    },
+    {
+      "id": "v009",
+      "ko": "아니요",
+      "gloss": "bukan, tidak",
+      "alt": [
+        "tidak"
+      ],
+      "pos": "감탄사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "인사",
+      "stage": 1,
+      "example": {
+        "ko": "아니요, 저는 학생이 아니에요.",
+        "gloss": "Bukan, saya bukan pelajar."
+      },
+      "note": "Menjawab pertanyaan ya/tidak. Untuk menolak tawaran, orang Korea lebih sering berkata 괜찮아요 ('tidak apa-apa')."
+    },
+    {
+      "id": "v010",
+      "ko": "저",
+      "gloss": "saya (sopan)",
+      "alt": [
+        "aku (sopan)"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "저는 인도네시아 사람이에요.",
+        "gloss": "Saya orang Indonesia."
+      },
+      "note": "Bentuk merendahkan diri, dipakai kepada orang yang lebih tua atau belum dikenal. Dengan partikel subjek bentuknya 제가, bukan 저가."
+    },
+    {
+      "id": "v011",
+      "ko": "나",
+      "gloss": "aku (akrab)",
+      "alt": [
+        "saya (akrab)"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "나는 집에 있어.",
+        "gloss": "Aku di rumah."
+      },
+      "note": "Hanya kepada teman sebaya atau yang lebih muda. Dengan partikel subjek bentuknya 내가. Memakai 나 kepada orang yang lebih tua terdengar kasar."
+    },
+    {
+      "id": "v012",
+      "ko": "우리",
+      "gloss": "kami, kita",
+      "alt": [
+        "kita"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "우리 같이 가요.",
+        "gloss": "Ayo kita pergi bersama."
+      },
+      "note": "Bahasa Korea tidak membedakan 'kami' dan 'kita' seperti Bahasa Indonesia. 우리 juga dipakai untuk hal milik pribadi: 우리 집 (rumah saya), 우리 엄마 (ibu saya)."
+    },
+    {
+      "id": "v013",
+      "ko": "저희",
+      "gloss": "kami (sopan)",
+      "alt": [],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "저희 회사는 서울에 있어요.",
+        "gloss": "Kantor kami ada di Seoul."
+      },
+      "note": "Bentuk merendahkan diri dari 우리. Tidak dipakai untuk 'kita' yang mencakup lawan bicara, karena merendahkan lawan bicara sekaligus."
+    },
+    {
+      "id": "v014",
+      "ko": "당신",
+      "gloss": "Anda",
+      "alt": [],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "당신은 누구세요?",
+        "gloss": "Anda siapa?"
+      },
+      "note": "HATI-HATI. Walaupun kamus menerjemahkannya 'Anda', 당신 dalam percakapan sehari-hari terdengar menantang atau terlalu intim (antar suami-istri). Orang Korea menyebut lawan bicara dengan NAMA atau JABATAN: 선생님, 사장님, 이반 씨. Kata 'Anda' paling sering tidak diucapkan sama sekali."
+    },
+    {
+      "id": "v015",
+      "ko": "이것",
+      "gloss": "ini",
+      "alt": [
+        "benda ini"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "이것은 제 책이에요.",
+        "gloss": "Ini buku saya."
+      },
+      "note": "Dalam percakapan dipendekkan menjadi 이거, dan dengan partikel subjek menjadi 이게. Benda yang dekat dengan pembicara."
+    },
+    {
+      "id": "v016",
+      "ko": "그것",
+      "gloss": "itu (dekat lawan bicara)",
+      "alt": [
+        "itu"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "그것은 무엇이에요?",
+        "gloss": "Itu apa?"
+      },
+      "note": "Benda yang dekat dengan LAWAN BICARA, atau benda yang sudah pernah disebut. Bentuk pendeknya 그거, 그게."
+    },
+    {
+      "id": "v017",
+      "ko": "저것",
+      "gloss": "itu (jauh dari keduanya)",
+      "alt": [
+        "itu di sana"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "저것도 주세요.",
+        "gloss": "Yang itu juga, tolong."
+      },
+      "note": "Benda yang jauh dari pembicara maupun lawan bicara. Korea membedakan tiga jarak (이/그/저), sedangkan Bahasa Indonesia hanya dua (ini/itu)."
+    },
+    {
+      "id": "v018",
+      "ko": "여기",
+      "gloss": "sini, di sini",
+      "alt": [
+        "tempat ini"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "여기가 제 방이에요.",
+        "gloss": "Di sini kamar saya."
+      },
+      "note": "Serangkai dengan 이것: 이 untuk yang dekat pembicara."
+    },
+    {
+      "id": "v019",
+      "ko": "거기",
+      "gloss": "situ, di situ",
+      "alt": [
+        "tempat itu"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "거기 날씨는 어때요?",
+        "gloss": "Bagaimana cuaca di situ?"
+      },
+      "note": "Tempat yang dekat dengan lawan bicara, termasuk tempat lawan bicara saat menelepon."
+    },
+    {
+      "id": "v020",
+      "ko": "저기",
+      "gloss": "sana, di sana",
+      "alt": [
+        "tempat di sana"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "대명사",
+      "stage": 1,
+      "example": {
+        "ko": "저기 화장실이 있어요.",
+        "gloss": "Di sana ada toilet."
+      },
+      "note": "저기요 juga dipakai untuk memanggil pelayan atau menyapa orang asing, mirip 'permisi'."
+    },
+    {
+      "id": "v021",
+      "ko": "뭐",
+      "gloss": "apa",
+      "alt": [
+        "apaan"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "질문",
+      "stage": 1,
+      "example": {
+        "ko": "이름이 뭐예요?",
+        "gloss": "Namanya apa?"
+      },
+      "note": "Bentuk pendek dari 무엇, dan jauh lebih sering dipakai dalam percakapan. 무엇 lebih lazim dalam tulisan."
+    },
+    {
+      "id": "v022",
+      "ko": "누구",
+      "gloss": "siapa",
+      "alt": [],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "질문",
+      "stage": 1,
+      "example": {
+        "ko": "저분은 누구예요?",
+        "gloss": "Beliau itu siapa?"
+      },
+      "note": "Dengan partikel subjek bentuknya 누가, bukan 누구가."
+    },
+    {
+      "id": "v023",
+      "ko": "어디",
+      "gloss": "di mana, ke mana",
+      "alt": [
+        "mana"
+      ],
+      "pos": "대명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "질문",
+      "stage": 1,
+      "example": {
+        "ko": "지금 어디에 있어요?",
+        "gloss": "Sekarang ada di mana?"
+      },
+      "note": "Satu kata untuk 'di mana' dan 'ke mana'; yang membedakan adalah partikelnya (어디에, 어디에서)."
+    },
+    {
+      "id": "v024",
+      "ko": "언제",
+      "gloss": "kapan",
+      "alt": [],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "질문",
+      "stage": 1,
+      "example": {
+        "ko": "언제 한국에 와요?",
+        "gloss": "Kapan datang ke Korea?"
+      },
+      "note": "Tidak memerlukan partikel waktu: cukup 언제, bukan 언제에."
+    },
+    {
+      "id": "v025",
+      "ko": "왜",
+      "gloss": "kenapa, mengapa",
+      "alt": [],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "질문",
+      "stage": 1,
+      "example": {
+        "ko": "왜 안 먹어요?",
+        "gloss": "Kenapa tidak makan?"
+      },
+      "note": "Diucapkan sendirian (왜?) bisa terdengar menuntut; dalam percakapan sopan lebih baik 왜요?"
+    },
+    {
+      "id": "v026",
+      "ko": "어떻게",
+      "gloss": "bagaimana",
+      "alt": [
+        "dengan cara apa"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "질문",
+      "stage": 1,
+      "example": {
+        "ko": "학교에 어떻게 가요?",
+        "gloss": "Bagaimana caranya pergi ke sekolah?"
+      },
+      "note": "Menanyakan CARA. Untuk menanyakan keadaan ('bagaimana rasanya'), dipakai 어때요."
+    },
+    {
+      "id": "v027",
+      "ko": "사람",
+      "gloss": "orang",
+      "alt": [
+        "manusia"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "사람",
+      "stage": 1,
+      "example": {
+        "ko": "저는 인도네시아 사람이에요.",
+        "gloss": "Saya orang Indonesia."
+      },
+      "note": "Nama negara + 사람 berarti kewarganegaraan: 한국 사람, 일본 사람. Bentuk hormatnya 분."
+    },
+    {
+      "id": "v028",
+      "ko": "이름",
+      "gloss": "nama",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "사람",
+      "stage": 1,
+      "example": {
+        "ko": "제 이름은 이반이에요.",
+        "gloss": "Nama saya Ivan."
+      },
+      "note": "Bentuk hormat untuk nama orang lain adalah 성함, dipakai saat bertanya kepada orang yang lebih tua."
+    },
+    {
+      "id": "v029",
+      "ko": "학생",
+      "gloss": "pelajar, mahasiswa",
+      "alt": [
+        "murid",
+        "siswa"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "學生",
+      "cat": "사람",
+      "stage": 1,
+      "example": {
+        "ko": "저는 대학생이에요.",
+        "gloss": "Saya mahasiswa."
+      },
+      "note": "Tidak membedakan tingkat sekolah. 대학생 berarti mahasiswa, 고등학생 pelajar SMA."
+    },
+    {
+      "id": "v030",
+      "ko": "선생님",
+      "gloss": "guru, bapak/ibu",
+      "alt": [
+        "pengajar"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "先生",
+      "cat": "사람",
+      "stage": 1,
+      "example": {
+        "ko": "선생님, 질문이 있어요.",
+        "gloss": "Pak/Bu, saya ada pertanyaan."
+      },
+      "note": "님 adalah akhiran hormat. 선생님 juga dipakai sebagai sapaan hormat kepada orang terpelajar yang bukan guru, mirip 'Bapak/Ibu'."
+    },
+    {
+      "id": "v031",
+      "ko": "친구",
+      "gloss": "teman",
+      "alt": [
+        "kawan",
+        "sahabat"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "親舊",
+      "cat": "사람",
+      "stage": 1,
+      "example": {
+        "ko": "친구를 만나요.",
+        "gloss": "Saya bertemu teman."
+      },
+      "note": "Dalam pemakaian Korea, 친구 umumnya berarti teman SEBAYA. Orang yang lebih tua tidak disebut 친구 walaupun akrab."
+    },
+    {
+      "id": "v032",
+      "ko": "씨",
+      "gloss": "Bapak/Ibu/Saudara (setelah nama)",
+      "alt": [
+        "sapaan setelah nama"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "사람",
+      "stage": 1,
+      "example": {
+        "ko": "이반 씨, 어디 가세요?",
+        "gloss": "Pak Ivan, mau ke mana?"
+      },
+      "note": "Dilekatkan pada NAMA, bukan pada jabatan: 이반 씨 benar, 선생님 씨 salah. Tidak dipakai kepada atasan atau orang yang jauh lebih tua; untuk mereka dipakai jabatan + 님."
+    },
+    {
+      "id": "v033",
+      "ko": "가족",
+      "gloss": "keluarga",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "家族",
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "우리 가족은 네 명이에요.",
+        "gloss": "Keluarga kami empat orang."
+      },
+      "note": "Dibaca 가족, dan dengan partikel 이 menjadi 가족이 yang dibunyikan 가조기."
+    },
+    {
+      "id": "v034",
+      "ko": "아버지",
+      "gloss": "ayah",
+      "alt": [
+        "bapak"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "아버지는 회사원이에요.",
+        "gloss": "Ayah saya pegawai kantor."
+      },
+      "note": "Bentuk baku dan sopan. Bentuk akrab dalam keluarga adalah 아빠."
+    },
+    {
+      "id": "v035",
+      "ko": "어머니",
+      "gloss": "ibu",
+      "alt": [
+        "mama"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "어머니가 요리를 하세요.",
+        "gloss": "Ibu sedang memasak."
+      },
+      "note": "Bentuk akrabnya 엄마. Perhatikan akhiran hormat -세요 yang dipakai saat membicarakan orang tua."
+    },
+    {
+      "id": "v036",
+      "ko": "아빠",
+      "gloss": "ayah (akrab)",
+      "alt": [
+        "papa"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "아빠, 같이 가요.",
+        "gloss": "Papa, ayo pergi bersama."
+      },
+      "note": "Dipakai di dalam keluarga, juga oleh orang dewasa. Memakai ㅃ yang tegang: bukan 아바."
+    },
+    {
+      "id": "v037",
+      "ko": "엄마",
+      "gloss": "ibu (akrab)",
+      "alt": [
+        "mama"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "엄마가 밥을 주셨어요.",
+        "gloss": "Ibu memberi saya makan."
+      },
+      "note": "Sangat umum dalam percakapan sehari-hari, tetapi tidak dipakai dalam tulisan resmi."
+    },
+    {
+      "id": "v038",
+      "ko": "형",
+      "gloss": "kakak lelaki (bagi lelaki)",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "兄",
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "우리 형은 서울에 살아요.",
+        "gloss": "Kakak saya tinggal di Seoul."
+      },
+      "note": "Bahasa Korea membedakan kata kakak menurut jenis kelamin PEMBICARA: lelaki memanggil kakak lelakinya 형, perempuan memanggilnya 오빠."
+    },
+    {
+      "id": "v039",
+      "ko": "오빠",
+      "gloss": "kakak lelaki (bagi perempuan)",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "오빠가 저를 도와줬어요.",
+        "gloss": "Kakak membantu saya."
+      },
+      "note": "Juga dipakai perempuan untuk memanggil lelaki yang sedikit lebih tua dan sudah akrab, termasuk kekasih."
+    },
+    {
+      "id": "v040",
+      "ko": "누나",
+      "gloss": "kakak perempuan (bagi lelaki)",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "누나는 간호사예요.",
+        "gloss": "Kakak saya perawat."
+      },
+      "note": "Pasangan dari 형: keduanya dipakai oleh pembicara lelaki."
+    },
+    {
+      "id": "v041",
+      "ko": "언니",
+      "gloss": "kakak perempuan (bagi perempuan)",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "언니하고 같이 쇼핑했어요.",
+        "gloss": "Saya berbelanja bersama kakak."
+      },
+      "note": "Pasangan dari 오빠: keduanya dipakai oleh pembicara perempuan."
+    },
+    {
+      "id": "v042",
+      "ko": "동생",
+      "gloss": "adik",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "제 동생은 학생이에요.",
+        "gloss": "Adik saya pelajar."
+      },
+      "note": "Tidak membedakan jenis kelamin. Bila perlu dijelaskan: 남동생 (adik lelaki), 여동생 (adik perempuan)."
+    },
+    {
+      "id": "v043",
+      "ko": "아들",
+      "gloss": "anak lelaki",
+      "alt": [
+        "putra"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "아들이 두 명 있어요.",
+        "gloss": "Saya punya dua anak lelaki."
+      },
+      "note": "아들이 dibunyikan 아드리 karena penyambungan bunyi."
+    },
+    {
+      "id": "v044",
+      "ko": "딸",
+      "gloss": "anak perempuan",
+      "alt": [
+        "putri"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "가족",
+      "stage": 2,
+      "example": {
+        "ko": "딸이 노래를 좋아해요.",
+        "gloss": "Anak perempuan saya suka menyanyi."
+      },
+      "note": "Memakai ㄸ yang tegang. 달 (bulan) dan 딸 (anak perempuan) adalah dua kata berbeda."
+    },
+    {
+      "id": "v045",
+      "ko": "남자",
+      "gloss": "lelaki",
+      "alt": [
+        "pria"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "男子",
+      "cat": "사람",
+      "stage": 2,
+      "example": {
+        "ko": "그 남자는 제 친구예요.",
+        "gloss": "Lelaki itu teman saya."
+      },
+      "note": "남자 친구 berarti 'kekasih (lelaki)', sedangkan 'teman lelaki' biasa adalah 남자 사람 친구 atau cukup 친구."
+    },
+    {
+      "id": "v046",
+      "ko": "여자",
+      "gloss": "perempuan",
+      "alt": [
+        "wanita"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "女子",
+      "cat": "사람",
+      "stage": 2,
+      "example": {
+        "ko": "여자 화장실은 저기에 있어요.",
+        "gloss": "Toilet perempuan ada di sana."
+      },
+      "note": "Pasangannya 남자. 여자 친구 juga berarti 'kekasih (perempuan)'."
+    },
+    {
+      "id": "v047",
+      "ko": "아이",
+      "gloss": "anak",
+      "alt": [
+        "anak kecil"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "사람",
+      "stage": 2,
+      "example": {
+        "ko": "아이가 공원에서 놀아요.",
+        "gloss": "Anak itu bermain di taman."
+      },
+      "note": "Bentuk pendeknya 애, sangat umum dalam percakapan."
+    },
+    {
+      "id": "v048",
+      "ko": "책",
+      "gloss": "buku",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "冊",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "책을 읽어요.",
+        "gloss": "Saya membaca buku."
+      },
+      "note": "책을 dibunyikan 채글. Penggolong untuk buku adalah 권: 책 두 권 (dua buku)."
+    },
+    {
+      "id": "v049",
+      "ko": "가방",
+      "gloss": "tas",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "제 가방이 무거워요.",
+        "gloss": "Tas saya berat."
+      },
+      "note": "Batchim ㅇ pada 방 berbunyi ng."
+    },
+    {
+      "id": "v050",
+      "ko": "연필",
+      "gloss": "pensil",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "鉛筆",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "연필로 쓰세요.",
+        "gloss": "Tulislah dengan pensil."
+      },
+      "note": "Partikel 로 berarti 'dengan (alat)'. Karena 연필 berbatchim, bentuknya 연필로 (bukan 연필으로, sebab batchim ㄹ dikecualikan)."
+    },
+    {
+      "id": "v051",
+      "ko": "공책",
+      "gloss": "buku tulis",
+      "alt": [
+        "buku catatan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "空冊",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "공책에 이름을 쓰세요.",
+        "gloss": "Tulis nama di buku tulis."
+      },
+      "note": "Harfiahnya 'buku kosong'. Kata serapan 노트 juga dipakai."
+    },
+    {
+      "id": "v052",
+      "ko": "의자",
+      "gloss": "kursi",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "椅子",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "의자에 앉으세요.",
+        "gloss": "Silakan duduk di kursi."
+      },
+      "note": "Vokal ㅢ pada awal kata dibaca ui."
+    },
+    {
+      "id": "v053",
+      "ko": "책상",
+      "gloss": "meja belajar",
+      "alt": [
+        "meja tulis"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "冊床",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "책상 위에 책이 있어요.",
+        "gloss": "Di atas meja ada buku."
+      },
+      "note": "Harfiahnya 'meja buku'. Meja makan disebut 식탁."
+    },
+    {
+      "id": "v054",
+      "ko": "컴퓨터",
+      "gloss": "komputer",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "컴퓨터로 일해요.",
+        "gloss": "Saya bekerja dengan komputer."
+      },
+      "note": "Kata serapan dari Bahasa Inggris. Bunyi f dan v tidak ada dalam Bahasa Korea, sehingga kata serapan sering berubah cukup jauh."
+    },
+    {
+      "id": "v055",
+      "ko": "휴대폰",
+      "gloss": "telepon seluler",
+      "alt": [
+        "hp",
+        "ponsel"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "携帶",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "휴대폰 번호가 뭐예요?",
+        "gloss": "Nomor ponselnya berapa?"
+      },
+      "note": "Gabungan kata Sino-Korea 휴대 (bawa) dan serapan 폰 (phone). Kata 핸드폰 juga umum."
+    },
+    {
+      "id": "v056",
+      "ko": "돈",
+      "gloss": "uang",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "돈이 없어요.",
+        "gloss": "Saya tidak punya uang."
+      },
+      "note": "돈이 dibunyikan 도니. Mata uang Korea adalah 원."
+    },
+    {
+      "id": "v057",
+      "ko": "시계",
+      "gloss": "jam (alat)",
+      "alt": [
+        "arloji"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "時計",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "시계가 느려요.",
+        "gloss": "Jamnya lambat."
+      },
+      "note": "Jam sebagai ALAT adalah 시계; jam sebagai satuan waktu adalah 시 dan 시간."
+    },
+    {
+      "id": "v058",
+      "ko": "옷",
+      "gloss": "pakaian",
+      "alt": [
+        "baju"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "새 옷을 샀어요.",
+        "gloss": "Saya membeli pakaian baru."
+      },
+      "note": "Sendirian dibaca 옫; dengan partikel 을 dibaca 오슬. Inilah contoh paling jelas mengapa batchim ㅅ tetap ditulis."
+    },
+    {
+      "id": "v059",
+      "ko": "신발",
+      "gloss": "sepatu",
+      "alt": [
+        "alas kaki"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "신발을 벗으세요.",
+        "gloss": "Tolong lepas sepatunya."
+      },
+      "note": "Di rumah Korea, sepatu selalu dilepas di depan pintu. Kalimat ini akan sering Anda dengar."
+    },
+    {
+      "id": "v060",
+      "ko": "물",
+      "gloss": "air",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 2,
+      "example": {
+        "ko": "물 좀 주세요.",
+        "gloss": "Tolong beri saya air."
+      },
+      "note": "Batchim ㄹ dibaca mirip l. Di restoran Korea, air minum biasanya gratis dan diambil sendiri."
+    },
+    {
+      "id": "v061",
+      "ko": "차",
+      "gloss": "teh; mobil",
+      "alt": [
+        "teh",
+        "mobil"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "茶/車",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "차 한 잔 드세요.",
+        "gloss": "Silakan minum segelas teh."
+      },
+      "note": "Dua kata Sino-Korea berbeda yang bunyinya sama. Mana yang dimaksud ditentukan oleh kalimatnya: 차를 마셔요 (minum teh), 차를 타요 (naik mobil)."
+    },
+    {
+      "id": "v062",
+      "ko": "전화",
+      "gloss": "telepon",
+      "alt": [
+        "panggilan telepon"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "電話",
+      "cat": "물건",
+      "stage": 2,
+      "example": {
+        "ko": "전화가 왔어요.",
+        "gloss": "Ada telepon masuk."
+      },
+      "note": "Menjadi kata kerja dengan 하다: 전화하다 (menelepon). Pola kata Sino-Korea + 하다 ini sangat produktif."
+    },
+    {
+      "id": "v063",
+      "ko": "집",
+      "gloss": "rumah",
+      "alt": [
+        "tempat tinggal"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "집에 가요.",
+        "gloss": "Saya pulang ke rumah."
+      },
+      "note": "집에 가요 adalah cara biasa mengatakan 'pulang'. Rumah sendiri sering disebut 우리 집."
+    },
+    {
+      "id": "v064",
+      "ko": "학교",
+      "gloss": "sekolah",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "學校",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "학교에서 한국어를 배워요.",
+        "gloss": "Saya belajar bahasa Korea di sekolah."
+      },
+      "note": "Dibunyikan 학꾜 karena pengerasan, walaupun alih hurufnya hakgyo."
+    },
+    {
+      "id": "v065",
+      "ko": "회사",
+      "gloss": "perusahaan, kantor",
+      "alt": [
+        "kantor"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "會社",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "저는 회사에 다녀요.",
+        "gloss": "Saya bekerja di sebuah perusahaan."
+      },
+      "note": "회사에 다니다 adalah ungkapan baku untuk 'bekerja di perusahaan'. Pegawainya disebut 회사원."
+    },
+    {
+      "id": "v066",
+      "ko": "식당",
+      "gloss": "restoran",
+      "alt": [
+        "rumah makan",
+        "warung"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "食堂",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "식당에서 점심을 먹어요.",
+        "gloss": "Saya makan siang di restoran."
+      },
+      "note": "Dibunyikan 식땅. Restoran yang lebih mewah disebut 레스토랑."
+    },
+    {
+      "id": "v067",
+      "ko": "가게",
+      "gloss": "toko",
+      "alt": [
+        "kedai"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "가게에서 우유를 샀어요.",
+        "gloss": "Saya membeli susu di toko."
+      },
+      "note": "Toko kecil. Minimarket disebut 편의점, dibunyikan 편이점 atau 펴니점."
+    },
+    {
+      "id": "v068",
+      "ko": "시장",
+      "gloss": "pasar",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "市場",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "시장이 싸고 재미있어요.",
+        "gloss": "Pasar itu murah dan menyenangkan."
+      },
+      "note": "Pasar tradisional Korea (재래시장) masih banyak dan menjadi tempat wisata."
+    },
+    {
+      "id": "v069",
+      "ko": "병원",
+      "gloss": "rumah sakit",
+      "alt": [
+        "klinik"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "病院",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "병원에 가야 해요.",
+        "gloss": "Saya harus pergi ke rumah sakit."
+      },
+      "note": "Dipakai juga untuk klinik kecil, tidak hanya rumah sakit besar."
+    },
+    {
+      "id": "v070",
+      "ko": "약국",
+      "gloss": "apotek",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "藥局",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "약국은 병원 옆에 있어요.",
+        "gloss": "Apotek ada di sebelah rumah sakit."
+      },
+      "note": "약 berarti obat. Dibunyikan 약꾹."
+    },
+    {
+      "id": "v071",
+      "ko": "은행",
+      "gloss": "bank",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "銀行",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "은행에서 돈을 바꿨어요.",
+        "gloss": "Saya menukar uang di bank."
+      },
+      "note": "Dibunyikan 으냉 karena penyambungan bunyi."
+    },
+    {
+      "id": "v072",
+      "ko": "역",
+      "gloss": "stasiun",
+      "alt": [
+        "stasiun kereta"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "驛",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "서울역에서 만나요.",
+        "gloss": "Mari bertemu di Stasiun Seoul."
+      },
+      "note": "Dilekatkan pada nama stasiun: 서울역, 강남역. 서울역 dibunyikan 서울력."
+    },
+    {
+      "id": "v073",
+      "ko": "공항",
+      "gloss": "bandara",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "空港",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "공항까지 얼마나 걸려요?",
+        "gloss": "Berapa lama sampai bandara?"
+      },
+      "note": "Bandara utama Korea adalah 인천국제공항."
+    },
+    {
+      "id": "v074",
+      "ko": "화장실",
+      "gloss": "toilet",
+      "alt": [
+        "kamar mandi",
+        "wc"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "化粧室",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "화장실이 어디에 있어요?",
+        "gloss": "Toilet ada di mana?"
+      },
+      "note": "Harfiahnya 'ruang berhias'. Inilah kata yang dipakai, bukan 변소 yang terdengar kasar."
+    },
+    {
+      "id": "v075",
+      "ko": "방",
+      "gloss": "kamar",
+      "alt": [
+        "ruangan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "房",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "제 방은 작아요.",
+        "gloss": "Kamar saya kecil."
+      },
+      "note": "Dipakai juga untuk ruangan sewaan: 노래방 (karaoke), PC방 (warnet)."
+    },
+    {
+      "id": "v076",
+      "ko": "교실",
+      "gloss": "ruang kelas",
+      "alt": [
+        "kelas"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "教室",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "교실에 학생이 많아요.",
+        "gloss": "Di ruang kelas banyak pelajar."
+      },
+      "note": "Berbeda dari 수업 yang berarti 'pelajaran, perkuliahan'."
+    },
+    {
+      "id": "v077",
+      "ko": "도서관",
+      "gloss": "perpustakaan",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "圖書館",
+      "cat": "장소",
+      "stage": 3,
+      "example": {
+        "ko": "도서관에서 공부해요.",
+        "gloss": "Saya belajar di perpustakaan."
+      },
+      "note": "Akhiran 관 (館) menandai bangunan: 대사관 (kedutaan), 미술관 (galeri seni)."
+    },
+    {
+      "id": "v078",
+      "ko": "오늘",
+      "gloss": "hari ini",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "오늘 날씨가 좋아요.",
+        "gloss": "Cuaca hari ini bagus."
+      },
+      "note": "Keterangan waktu seperti ini tidak memerlukan partikel 에."
+    },
+    {
+      "id": "v079",
+      "ko": "어제",
+      "gloss": "kemarin",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "어제 친구를 만났어요.",
+        "gloss": "Kemarin saya bertemu teman."
+      },
+      "note": "Menuntut kata kerja bentuk lampau: 만났어요, bukan 만나요."
+    },
+    {
+      "id": "v080",
+      "ko": "내일",
+      "gloss": "besok",
+      "alt": [
+        "esok hari"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "來日",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "내일 시간이 있어요?",
+        "gloss": "Besok ada waktu?"
+      },
+      "note": "Bahasa Korea sering memakai bentuk kini untuk masa depan bila keterangan waktunya jelas."
+    },
+    {
+      "id": "v081",
+      "ko": "아침",
+      "gloss": "pagi; makan pagi",
+      "alt": [
+        "sarapan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "아침에 커피를 마셔요.",
+        "gloss": "Saya minum kopi di pagi hari."
+      },
+      "note": "Satu kata untuk waktu pagi dan untuk makanan paginya, sama seperti 점심 dan 저녁."
+    },
+    {
+      "id": "v082",
+      "ko": "점심",
+      "gloss": "siang; makan siang",
+      "alt": [
+        "makan siang"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "點心",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "점심 먹었어요?",
+        "gloss": "Sudah makan siang?"
+      },
+      "note": "점심 먹었어요? adalah sapaan sehari-hari yang biasa, bukan sekadar pertanyaan."
+    },
+    {
+      "id": "v083",
+      "ko": "저녁",
+      "gloss": "sore, malam; makan malam",
+      "alt": [
+        "makan malam",
+        "petang"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "저녁에 운동해요.",
+        "gloss": "Saya berolahraga pada sore hari."
+      },
+      "note": "Meliputi waktu sejak senja sampai sebelum tidur; 밤 lebih khusus untuk malam gelap."
+    },
+    {
+      "id": "v084",
+      "ko": "밤",
+      "gloss": "malam",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "밤에 비가 왔어요.",
+        "gloss": "Tadi malam hujan."
+      },
+      "note": "Kata yang sama juga berarti 'kacang kastanye', dibedakan dari kalimatnya."
+    },
+    {
+      "id": "v085",
+      "ko": "지금",
+      "gloss": "sekarang",
+      "alt": [
+        "saat ini"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "只今",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "지금 뭐 해요?",
+        "gloss": "Sekarang sedang apa?"
+      },
+      "note": "지금 뭐 해요? adalah kalimat paling sering muncul dalam percakapan sehari-hari."
+    },
+    {
+      "id": "v086",
+      "ko": "시간",
+      "gloss": "waktu; jam (lama)",
+      "alt": [
+        "lamanya waktu"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "時間",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "시간이 없어요.",
+        "gloss": "Saya tidak punya waktu."
+      },
+      "note": "Sebagai satuan, 시간 berarti LAMA ('dua jam' = 두 시간), sedangkan 시 berarti TITIK waktu ('jam dua' = 두 시)."
+    },
+    {
+      "id": "v087",
+      "ko": "주말",
+      "gloss": "akhir pekan",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "週末",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "주말에 뭐 했어요?",
+        "gloss": "Apa yang Anda lakukan di akhir pekan?"
+      },
+      "note": "주 berarti minggu, 말 berarti akhir."
+    },
+    {
+      "id": "v088",
+      "ko": "요일",
+      "gloss": "hari (dalam seminggu)",
+      "alt": [
+        "nama hari"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "曜日",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "오늘은 무슨 요일이에요?",
+        "gloss": "Hari ini hari apa?"
+      },
+      "note": "Nama hari dibentuk dari unsur alam + 요일: 월(bulan), 화(api), 수(air), 목(kayu), 금(logam), 토(tanah), 일(matahari)."
+    },
+    {
+      "id": "v089",
+      "ko": "월요일",
+      "gloss": "hari Senin",
+      "alt": [
+        "senin"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "月曜日",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "월요일에 회의가 있어요.",
+        "gloss": "Hari Senin ada rapat."
+      },
+      "note": "Dibunyikan 워료일. Hari lainnya: 화요일, 수요일, 목요일, 금요일, 토요일, 일요일."
+    },
+    {
+      "id": "v090",
+      "ko": "일요일",
+      "gloss": "hari Minggu",
+      "alt": [
+        "minggu"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "日曜日",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "일요일에는 쉬어요.",
+        "gloss": "Pada hari Minggu saya beristirahat."
+      },
+      "note": "일 di sini berarti matahari, bukan angka satu, walaupun hurufnya sama."
+    },
+    {
+      "id": "v091",
+      "ko": "년",
+      "gloss": "tahun",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "年",
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "저는 2020년에 왔어요.",
+        "gloss": "Saya datang pada tahun 2020."
+      },
+      "note": "Selalu dipakai dengan angka Sino-Korea: 이천이십 년."
+    },
+    {
+      "id": "v092",
+      "ko": "달",
+      "gloss": "bulan (lamanya); bulan di langit",
+      "alt": [
+        "bulan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "시간",
+      "stage": 3,
+      "example": {
+        "ko": "한 달 동안 한국에 있었어요.",
+        "gloss": "Saya berada di Korea selama satu bulan."
+      },
+      "note": "Untuk LAMA dipakai 달 dengan angka asli Korea (한 달, 두 달); untuk NAMA bulan dipakai 월 dengan angka Sino-Korea (일월, 이월)."
+    },
+    {
+      "id": "v093",
+      "ko": "밥",
+      "gloss": "nasi; makanan",
+      "alt": [
+        "makan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "밥을 먹었어요.",
+        "gloss": "Saya sudah makan."
+      },
+      "note": "밥 먹었어요? harfiahnya 'sudah makan nasi?' tetapi berarti 'sudah makan?'. Nasi dan makanan adalah satu kata."
+    },
+    {
+      "id": "v094",
+      "ko": "김치",
+      "gloss": "kimchi",
+      "alt": [
+        "sayur asin khas Korea"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "김치가 조금 매워요.",
+        "gloss": "Kimchinya sedikit pedas."
+      },
+      "note": "Alih hurufnya gimchi menurut RR, tetapi ejaan 'kimchi' sudah baku di banyak bahasa, termasuk Bahasa Indonesia."
+    },
+    {
+      "id": "v095",
+      "ko": "빵",
+      "gloss": "roti",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "아침에 빵을 먹어요.",
+        "gloss": "Saya makan roti pada pagi hari."
+      },
+      "note": "Serapan dari bahasa Portugis melalui Jepang, bukan dari Bahasa Inggris."
+    },
+    {
+      "id": "v096",
+      "ko": "우유",
+      "gloss": "susu",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "牛乳",
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "우유를 사러 가요.",
+        "gloss": "Saya pergi membeli susu."
+      },
+      "note": "Harfiahnya 'air sapi'. Semua vokalnya rebah, jadi blok hurufnya bertumpuk."
+    },
+    {
+      "id": "v097",
+      "ko": "커피",
+      "gloss": "kopi",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "커피 한 잔 주세요.",
+        "gloss": "Tolong satu gelas kopi."
+      },
+      "note": "Penggolong untuk minuman adalah 잔 (gelas/cangkir)."
+    },
+    {
+      "id": "v098",
+      "ko": "고기",
+      "gloss": "daging",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "저는 고기를 안 먹어요.",
+        "gloss": "Saya tidak makan daging."
+      },
+      "note": "Jenisnya: 소고기 (sapi), 돼지고기 (babi), 닭고기 (ayam). Bagi yang menghindari daging tertentu, kata-kata ini penting."
+    },
+    {
+      "id": "v099",
+      "ko": "생선",
+      "gloss": "ikan (untuk dimakan)",
+      "alt": [
+        "ikan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "生鮮",
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "생선을 구워요.",
+        "gloss": "Saya memanggang ikan."
+      },
+      "note": "Ikan yang masih hidup di air disebut 물고기; yang menjadi lauk disebut 생선."
+    },
+    {
+      "id": "v100",
+      "ko": "과일",
+      "gloss": "buah",
+      "alt": [
+        "buah-buahan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "과일을 많이 먹으세요.",
+        "gloss": "Makanlah banyak buah."
+      },
+      "note": "Dibunyikan 과일, dengan ㅘ sebagai satu vokal gabungan."
+    },
+    {
+      "id": "v101",
+      "ko": "사과",
+      "gloss": "apel; permintaan maaf",
+      "alt": [
+        "apel"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "沙果/謝過",
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "사과 두 개 주세요.",
+        "gloss": "Tolong dua buah apel."
+      },
+      "note": "Dua kata Sino-Korea berbeda yang bunyinya sama: 사과 (apel) dan 사과 (permohonan maaf). 사과하다 berarti 'meminta maaf'."
+    },
+    {
+      "id": "v102",
+      "ko": "야채",
+      "gloss": "sayur",
+      "alt": [
+        "sayuran"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "野菜",
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "야채가 신선해요.",
+        "gloss": "Sayurnya segar."
+      },
+      "note": "Kata 채소 juga dipakai dan dianggap lebih baku dalam tulisan."
+    },
+    {
+      "id": "v103",
+      "ko": "라면",
+      "gloss": "ramyeon, mi instan",
+      "alt": [
+        "mi instan"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "라면을 끓여요.",
+        "gloss": "Saya memasak ramyeon."
+      },
+      "note": "Berbeda dari ramen Jepang. 끓이다 ('memasak dengan air mendidih') adalah kata kerja yang biasa dipasangkan dengannya."
+    },
+    {
+      "id": "v104",
+      "ko": "비빔밥",
+      "gloss": "bibimbap",
+      "alt": [
+        "nasi campur Korea"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "비빔밥이 제일 맛있어요.",
+        "gloss": "Bibimbap paling enak."
+      },
+      "note": "Dari 비비다 (mencampur) dan 밥 (nasi). Harfiahnya 'nasi campur'."
+    },
+    {
+      "id": "v105",
+      "ko": "불고기",
+      "gloss": "bulgogi",
+      "alt": [
+        "daging panggang berbumbu"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "음식",
+      "stage": 4,
+      "example": {
+        "ko": "불고기를 먹어 봤어요?",
+        "gloss": "Pernah makan bulgogi?"
+      },
+      "note": "Dari 불 (api) dan 고기 (daging)."
+    },
+    {
+      "id": "v106",
+      "ko": "하다",
+      "gloss": "melakukan",
+      "alt": [
+        "mengerjakan",
+        "berbuat"
+      ],
+      "pos": "동사",
+      "haeyo": "해요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "지금 숙제를 해요.",
+        "gloss": "Sekarang saya mengerjakan PR."
+      },
+      "note": "Kata kerja terpenting dalam Bahasa Korea. Ribuan kata benda menjadi kata kerja dengan menempelkan 하다: 공부하다, 전화하다, 운동하다. Bentuk 해요-nya tidak beraturan (하 + 여요 menjadi 해요)."
+    },
+    {
+      "id": "v107",
+      "ko": "가다",
+      "gloss": "pergi",
+      "alt": [
+        "berangkat"
+      ],
+      "pos": "동사",
+      "haeyo": "가요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "학교에 가요.",
+        "gloss": "Saya pergi ke sekolah."
+      },
+      "note": "Vokal 아 bertemu 아요 melebur menjadi 가요, bukan 가아요."
+    },
+    {
+      "id": "v108",
+      "ko": "오다",
+      "gloss": "datang",
+      "alt": [
+        "tiba"
+      ],
+      "pos": "동사",
+      "haeyo": "와요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "친구가 집에 와요.",
+        "gloss": "Teman saya datang ke rumah."
+      },
+      "note": "오 + 아요 melebur menjadi 와요. Hujan pun 'datang': 비가 와요 berarti 'hujan'."
+    },
+    {
+      "id": "v109",
+      "ko": "먹다",
+      "gloss": "makan",
+      "alt": [
+        "menyantap"
+      ],
+      "pos": "동사",
+      "haeyo": "먹어요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "저는 매일 아침을 먹어요.",
+        "gloss": "Saya makan pagi setiap hari."
+      },
+      "note": "Bentuk hormat untuk orang lain adalah 드세요 atau 잘 먹겠습니다 sebelum makan."
+    },
+    {
+      "id": "v110",
+      "ko": "마시다",
+      "gloss": "minum",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "마셔요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "물을 많이 마셔요.",
+        "gloss": "Saya banyak minum air."
+      },
+      "note": "마시 + 어요 melebur menjadi 마셔요. Obat tidak 'diminum' melainkan 'dimakan': 약을 먹어요."
+    },
+    {
+      "id": "v111",
+      "ko": "보다",
+      "gloss": "melihat, menonton",
+      "alt": [
+        "menonton",
+        "memandang"
+      ],
+      "pos": "동사",
+      "haeyo": "봐요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "영화를 봐요.",
+        "gloss": "Saya menonton film."
+      },
+      "note": "보 + 아요 melebur menjadi 봐요. Dipakai juga untuk 'bertemu' dalam 사람을 보다."
+    },
+    {
+      "id": "v112",
+      "ko": "듣다",
+      "gloss": "mendengar, mendengarkan",
+      "alt": [
+        "menyimak"
+      ],
+      "pos": "동사",
+      "haeyo": "들어요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "음악을 들어요.",
+        "gloss": "Saya mendengarkan musik."
+      },
+      "note": "Tidak beraturan: batchim ㄷ berubah menjadi ㄹ di depan vokal (듣다 menjadi 들어요). Kelompok ini disebut ㄷ 불규칙."
+    },
+    {
+      "id": "v113",
+      "ko": "읽다",
+      "gloss": "membaca",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "읽어요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "신문을 읽어요.",
+        "gloss": "Saya membaca surat kabar."
+      },
+      "note": "Batchim ganda ㄺ: 읽다 dibunyikan 익따, tetapi 읽어요 dibunyikan 일거요."
+    },
+    {
+      "id": "v114",
+      "ko": "쓰다",
+      "gloss": "menulis; memakai; pahit",
+      "alt": [
+        "menulis"
+      ],
+      "pos": "동사",
+      "haeyo": "써요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "편지를 써요.",
+        "gloss": "Saya menulis surat."
+      },
+      "note": "Vokal ㅡ hilang di depan 어요: 쓰 + 어요 menjadi 써요. Satu bentuk untuk tiga arti yang berbeda jauh."
+    },
+    {
+      "id": "v115",
+      "ko": "말하다",
+      "gloss": "berkata, berbicara",
+      "alt": [
+        "mengatakan"
+      ],
+      "pos": "동사",
+      "haeyo": "말해요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "천천히 말해 주세요.",
+        "gloss": "Tolong bicara perlahan."
+      },
+      "note": "Dari 말 (ucapan, bahasa) + 하다. Untuk 'berbicara dengan seseorang' dipakai 이야기하다."
+    },
+    {
+      "id": "v116",
+      "ko": "공부하다",
+      "gloss": "belajar",
+      "alt": [
+        "menuntut ilmu"
+      ],
+      "pos": "동사",
+      "haeyo": "공부해요",
+      "hanja": "工夫",
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "한국어를 공부해요.",
+        "gloss": "Saya belajar bahasa Korea."
+      },
+      "note": "공부하다 berarti belajar sebagai kegiatan; 배우다 berarti mempelajari sesuatu yang baru dari seseorang."
+    },
+    {
+      "id": "v117",
+      "ko": "일하다",
+      "gloss": "bekerja",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "일해요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "저는 은행에서 일해요.",
+        "gloss": "Saya bekerja di bank."
+      },
+      "note": "Dari 일 (pekerjaan) + 하다. Tempat kegiatan memakai partikel 에서."
+    },
+    {
+      "id": "v118",
+      "ko": "사다",
+      "gloss": "membeli",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "사요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "시장에서 과일을 사요.",
+        "gloss": "Saya membeli buah di pasar."
+      },
+      "note": "Lawannya 팔다 (menjual). Jangan tertukar dengan 싸다 (murah)."
+    },
+    {
+      "id": "v119",
+      "ko": "주다",
+      "gloss": "memberi",
+      "alt": [
+        "menyerahkan"
+      ],
+      "pos": "동사",
+      "haeyo": "줘요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "물 좀 주세요.",
+        "gloss": "Tolong beri saya air."
+      },
+      "note": "-아/어 주세요 adalah pola permintaan yang paling sering Anda pakai di Korea: 도와주세요 (tolong bantu)."
+    },
+    {
+      "id": "v120",
+      "ko": "있다",
+      "gloss": "ada; punya",
+      "alt": [
+        "berada",
+        "memiliki"
+      ],
+      "pos": "형용사",
+      "haeyo": "있어요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "교실에 학생이 있어요.",
+        "gloss": "Di ruang kelas ada pelajar."
+      },
+      "note": "Satu kata untuk 'ada (keberadaan)' dan 'punya (kepemilikan)'. Dibunyikan 읻따, dan 있어요 dibunyikan 이써요."
+    },
+    {
+      "id": "v121",
+      "ko": "없다",
+      "gloss": "tidak ada; tidak punya",
+      "alt": [
+        "tiada"
+      ],
+      "pos": "형용사",
+      "haeyo": "없어요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "지금 시간이 없어요.",
+        "gloss": "Sekarang saya tidak punya waktu."
+      },
+      "note": "Lawan dari 있다, dan BUKAN dibentuk dengan 안. Bentuk 안 있다 tidak dipakai."
+    },
+    {
+      "id": "v122",
+      "ko": "만나다",
+      "gloss": "bertemu",
+      "alt": [
+        "menjumpai"
+      ],
+      "pos": "동사",
+      "haeyo": "만나요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 4,
+      "example": {
+        "ko": "내일 친구를 만나요.",
+        "gloss": "Besok saya bertemu teman."
+      },
+      "note": "Memakai partikel OBJEK: 친구를 만나요, bukan 친구에게 만나요. Ini sering salah bagi pemula."
+    },
+    {
+      "id": "v123",
+      "ko": "알다",
+      "gloss": "tahu, mengetahui",
+      "alt": [
+        "mengenal"
+      ],
+      "pos": "동사",
+      "haeyo": "알아요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "그 사람을 알아요.",
+        "gloss": "Saya mengenal orang itu."
+      },
+      "note": "Batchim ㄹ hilang di depan 니다 dan 세요: 압니다, 아세요. Kelompok ini disebut ㄹ 탈락."
+    },
+    {
+      "id": "v124",
+      "ko": "모르다",
+      "gloss": "tidak tahu",
+      "alt": [
+        "tidak mengerti"
+      ],
+      "pos": "동사",
+      "haeyo": "몰라요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 잘 몰라요.",
+        "gloss": "Saya tidak begitu tahu."
+      },
+      "note": "Lawan 알다, dan berbentuk kata tersendiri (bukan 안 알다). Tidak beraturan: 르 berubah menjadi ㄹㄹ (모르 + 아요 menjadi 몰라요)."
+    },
+    {
+      "id": "v125",
+      "ko": "좋아하다",
+      "gloss": "menyukai",
+      "alt": [
+        "suka"
+      ],
+      "pos": "동사",
+      "haeyo": "좋아해요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 한국 음악을 좋아해요.",
+        "gloss": "Saya menyukai musik Korea."
+      },
+      "note": "Kata KERJA, sehingga memakai partikel objek 을/를. Bandingkan 좋다 yang merupakan kata sifat dan memakai 이/가."
+    },
+    {
+      "id": "v126",
+      "ko": "싫어하다",
+      "gloss": "tidak menyukai",
+      "alt": [
+        "benci"
+      ],
+      "pos": "동사",
+      "haeyo": "싫어해요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 매운 음식을 싫어해요.",
+        "gloss": "Saya tidak suka makanan pedas."
+      },
+      "note": "Dibunyikan 시러해요. Lebih halus bila diungkapkan dengan 안 좋아해요."
+    },
+    {
+      "id": "v127",
+      "ko": "살다",
+      "gloss": "tinggal, hidup",
+      "alt": [
+        "berdiam",
+        "hidup"
+      ],
+      "pos": "동사",
+      "haeyo": "살아요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 자카르타에 살아요.",
+        "gloss": "Saya tinggal di Jakarta."
+      },
+      "note": "Tempat tinggal memakai partikel 에, bukan 에서: 서울에 살아요."
+    },
+    {
+      "id": "v128",
+      "ko": "자다",
+      "gloss": "tidur",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "자요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 열한 시에 자요.",
+        "gloss": "Saya tidur jam sebelas."
+      },
+      "note": "Bentuk hormatnya 주무세요, bukan 자세요, saat membicarakan orang yang lebih tua."
+    },
+    {
+      "id": "v129",
+      "ko": "일어나다",
+      "gloss": "bangun, berdiri",
+      "alt": [
+        "bangkit"
+      ],
+      "pos": "동사",
+      "haeyo": "일어나요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 여섯 시에 일어나요.",
+        "gloss": "Saya bangun jam enam."
+      },
+      "note": "Dibunyikan 이러나요. Dipakai untuk bangun tidur maupun berdiri dari tempat duduk."
+    },
+    {
+      "id": "v130",
+      "ko": "앉다",
+      "gloss": "duduk",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "앉아요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "여기에 앉으세요.",
+        "gloss": "Silakan duduk di sini."
+      },
+      "note": "Batchim ganda ㄵ: 앉다 dibunyikan 안따, 앉아요 dibunyikan 안자요."
+    },
+    {
+      "id": "v131",
+      "ko": "기다리다",
+      "gloss": "menunggu",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "기다려요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "조금만 기다려 주세요.",
+        "gloss": "Tolong tunggu sebentar."
+      },
+      "note": "기다리 + 어요 melebur menjadi 기다려요, pola yang sama dengan 마시다 dan 가르치다."
+    },
+    {
+      "id": "v132",
+      "ko": "전화하다",
+      "gloss": "menelepon",
+      "alt": [],
+      "pos": "동사",
+      "haeyo": "전화해요",
+      "hanja": "電話",
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "나중에 전화할게요.",
+        "gloss": "Saya akan menelepon nanti."
+      },
+      "note": "Orang yang ditelepon memakai partikel 에게 atau 한테: 친구한테 전화해요."
+    },
+    {
+      "id": "v133",
+      "ko": "운동하다",
+      "gloss": "berolahraga",
+      "alt": [
+        "olahraga"
+      ],
+      "pos": "동사",
+      "haeyo": "운동해요",
+      "hanja": "運動",
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "매일 아침에 운동해요.",
+        "gloss": "Saya berolahraga setiap pagi."
+      },
+      "note": "운동 juga berarti 'gerakan' dalam arti kegiatan sosial."
+    },
+    {
+      "id": "v134",
+      "ko": "배우다",
+      "gloss": "mempelajari",
+      "alt": [
+        "belajar"
+      ],
+      "pos": "동사",
+      "haeyo": "배워요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "저는 한국어를 배워요.",
+        "gloss": "Saya mempelajari bahasa Korea."
+      },
+      "note": "배우 + 어요 menjadi 배워요. Yang mengajar adalah 가르치다."
+    },
+    {
+      "id": "v135",
+      "ko": "가르치다",
+      "gloss": "mengajar",
+      "alt": [
+        "mengajarkan"
+      ],
+      "pos": "동사",
+      "haeyo": "가르쳐요",
+      "hanja": null,
+      "cat": "동사",
+      "stage": 5,
+      "example": {
+        "ko": "선생님이 한국어를 가르쳐요.",
+        "gloss": "Guru mengajar bahasa Korea."
+      },
+      "note": "Jangan tertukar dengan 가리키다 (menunjuk); bunyinya mirip tetapi artinya berbeda."
+    },
+    {
+      "id": "v136",
+      "ko": "좋다",
+      "gloss": "bagus, baik",
+      "alt": [
+        "baik",
+        "enak (perasaan)"
+      ],
+      "pos": "형용사",
+      "haeyo": "좋아요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "날씨가 좋아요.",
+        "gloss": "Cuacanya bagus."
+      },
+      "note": "Kata SIFAT, sehingga memakai 이/가: 이 책이 좋아요. Untuk 'saya suka buku ini' dipakai kata kerja 좋아하다."
+    },
+    {
+      "id": "v137",
+      "ko": "나쁘다",
+      "gloss": "buruk, jelek",
+      "alt": [
+        "jahat"
+      ],
+      "pos": "형용사",
+      "haeyo": "나빠요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "오늘은 기분이 나빠요.",
+        "gloss": "Hari ini perasaan saya buruk."
+      },
+      "note": "Vokal ㅡ hilang: 나쁘 + 아요 menjadi 나빠요. Pola yang sama dengan 바쁘다 dan 예쁘다."
+    },
+    {
+      "id": "v138",
+      "ko": "크다",
+      "gloss": "besar",
+      "alt": [
+        "tinggi (badan)"
+      ],
+      "pos": "형용사",
+      "haeyo": "커요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "이 가방은 너무 커요.",
+        "gloss": "Tas ini terlalu besar."
+      },
+      "note": "크 + 어요 menjadi 커요. Untuk orang, 키가 커요 berarti 'tinggi'."
+    },
+    {
+      "id": "v139",
+      "ko": "작다",
+      "gloss": "kecil",
+      "alt": [
+        "mungil"
+      ],
+      "pos": "형용사",
+      "haeyo": "작아요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "신발이 작아요.",
+        "gloss": "Sepatunya kecil."
+      },
+      "note": "Jangan tertukar dengan 적다 (sedikit jumlahnya). 작다 tentang UKURAN, 적다 tentang JUMLAH."
+    },
+    {
+      "id": "v140",
+      "ko": "많다",
+      "gloss": "banyak",
+      "alt": [],
+      "pos": "형용사",
+      "haeyo": "많아요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "사람이 많아요.",
+        "gloss": "Orangnya banyak."
+      },
+      "note": "Dibunyikan 만타, dan 많아요 dibunyikan 마나요. Bentuk keterangannya 많이 (dibunyikan 마니)."
+    },
+    {
+      "id": "v141",
+      "ko": "적다",
+      "gloss": "sedikit",
+      "alt": [
+        "kurang (jumlah)"
+      ],
+      "pos": "형용사",
+      "haeyo": "적어요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "학생이 적어요.",
+        "gloss": "Pelajarnya sedikit."
+      },
+      "note": "Lawan dari 많다. Kata yang sama juga berarti 'mencatat' sebagai kata kerja."
+    },
+    {
+      "id": "v142",
+      "ko": "비싸다",
+      "gloss": "mahal",
+      "alt": [],
+      "pos": "형용사",
+      "haeyo": "비싸요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "이거 너무 비싸요.",
+        "gloss": "Ini terlalu mahal."
+      },
+      "note": "Kalimat yang berguna saat menawar di pasar: 너무 비싸요, 좀 깎아 주세요."
+    },
+    {
+      "id": "v143",
+      "ko": "싸다",
+      "gloss": "murah",
+      "alt": [],
+      "pos": "형용사",
+      "haeyo": "싸요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "이 가게가 더 싸요.",
+        "gloss": "Toko ini lebih murah."
+      },
+      "note": "Memakai ㅆ yang tegang. 사요 (membeli) dan 싸요 (murah) hanya dibedakan oleh ketegangan huruf awalnya."
+    },
+    {
+      "id": "v144",
+      "ko": "맛있다",
+      "gloss": "enak, lezat",
+      "alt": [
+        "sedap"
+      ],
+      "pos": "형용사",
+      "haeyo": "맛있어요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "김치가 맛있어요.",
+        "gloss": "Kimchinya enak."
+      },
+      "note": "Dari 맛 (rasa) + 있다 (ada). Dibunyikan 마시써요."
+    },
+    {
+      "id": "v145",
+      "ko": "맛없다",
+      "gloss": "tidak enak",
+      "alt": [
+        "hambar"
+      ],
+      "pos": "형용사",
+      "haeyo": "맛없어요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "이 음식은 맛없어요.",
+        "gloss": "Makanan ini tidak enak."
+      },
+      "note": "Dari 맛 + 없다. Lafal bakunya 마덥써요, berbeda pola dari 맛있어요 yang dibaca 마시써요."
+    },
+    {
+      "id": "v146",
+      "ko": "예쁘다",
+      "gloss": "cantik, indah",
+      "alt": [
+        "manis (rupa)"
+      ],
+      "pos": "형용사",
+      "haeyo": "예뻐요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "꽃이 정말 예뻐요.",
+        "gloss": "Bunganya sungguh indah."
+      },
+      "note": "예쁘 + 어요 menjadi 예뻐요. Dipakai untuk benda maupun orang, dan 멋있다 lebih lazim untuk memuji lelaki."
+    },
+    {
+      "id": "v147",
+      "ko": "재미있다",
+      "gloss": "menarik, menyenangkan",
+      "alt": [
+        "seru",
+        "lucu"
+      ],
+      "pos": "형용사",
+      "haeyo": "재미있어요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "한국어 공부가 재미있어요.",
+        "gloss": "Belajar bahasa Korea itu menyenangkan."
+      },
+      "note": "Lawannya 재미없다 (membosankan)."
+    },
+    {
+      "id": "v148",
+      "ko": "어렵다",
+      "gloss": "sulit",
+      "alt": [
+        "susah"
+      ],
+      "pos": "형용사",
+      "haeyo": "어려워요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "발음이 어려워요.",
+        "gloss": "Pelafalannya sulit."
+      },
+      "note": "Tidak beraturan: batchim ㅂ berubah menjadi 우 di depan vokal (어렵다 menjadi 어려워요). Kelompok ini disebut ㅂ 불규칙."
+    },
+    {
+      "id": "v149",
+      "ko": "쉽다",
+      "gloss": "mudah",
+      "alt": [
+        "gampang"
+      ],
+      "pos": "형용사",
+      "haeyo": "쉬워요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "한글은 쉬워요.",
+        "gloss": "Hangeul itu mudah."
+      },
+      "note": "ㅂ 불규칙 seperti 어렵다: 쉽다 menjadi 쉬워요."
+    },
+    {
+      "id": "v150",
+      "ko": "바쁘다",
+      "gloss": "sibuk",
+      "alt": [],
+      "pos": "형용사",
+      "haeyo": "바빠요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "요즘 많이 바빠요.",
+        "gloss": "Belakangan ini saya sangat sibuk."
+      },
+      "note": "Vokal ㅡ hilang: 바쁘 + 아요 menjadi 바빠요."
+    },
+    {
+      "id": "v151",
+      "ko": "피곤하다",
+      "gloss": "lelah",
+      "alt": [
+        "capek"
+      ],
+      "pos": "형용사",
+      "haeyo": "피곤해요",
+      "hanja": "疲困",
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "오늘 너무 피곤해요.",
+        "gloss": "Hari ini saya sangat lelah."
+      },
+      "note": "Kata Sino-Korea + 하다 yang berupa kata SIFAT, bukan kata kerja."
+    },
+    {
+      "id": "v152",
+      "ko": "아프다",
+      "gloss": "sakit",
+      "alt": [
+        "nyeri"
+      ],
+      "pos": "형용사",
+      "haeyo": "아파요",
+      "hanja": null,
+      "cat": "형용사",
+      "stage": 5,
+      "example": {
+        "ko": "머리가 아파요.",
+        "gloss": "Kepala saya sakit."
+      },
+      "note": "Bagian yang sakit menjadi SUBJEK: 머리가 아파요, bukan 머리를 아파요."
+    },
+    {
+      "id": "v153",
+      "ko": "아주",
+      "gloss": "sangat",
+      "alt": [
+        "amat"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "이 음식은 아주 맛있어요.",
+        "gloss": "Makanan ini sangat enak."
+      },
+      "note": "Bermakna positif dan netral, berbeda dari 너무 yang pada dasarnya berarti 'berlebihan'."
+    },
+    {
+      "id": "v154",
+      "ko": "너무",
+      "gloss": "terlalu; sangat",
+      "alt": [
+        "terlalu"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "너무 비싸요.",
+        "gloss": "Terlalu mahal."
+      },
+      "note": "Arti asalnya 'melewati batas', tetapi dalam percakapan masa kini sangat sering dipakai hanya sebagai penguat: 너무 좋아요 berarti 'bagus sekali'."
+    },
+    {
+      "id": "v155",
+      "ko": "조금",
+      "gloss": "sedikit",
+      "alt": [
+        "agak",
+        "sebentar"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "조금 매워요.",
+        "gloss": "Sedikit pedas."
+      },
+      "note": "Bentuk pendeknya 좀, yang juga dipakai untuk memperhalus permintaan: 물 좀 주세요."
+    },
+    {
+      "id": "v156",
+      "ko": "많이",
+      "gloss": "banyak (keterangan)",
+      "alt": [
+        "dengan banyak"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "많이 드세요.",
+        "gloss": "Silakan makan banyak."
+      },
+      "note": "Dibunyikan 마니. 많이 드세요 adalah ucapan tuan rumah saat menyuguhkan makanan."
+    },
+    {
+      "id": "v157",
+      "ko": "빨리",
+      "gloss": "cepat, segera",
+      "alt": [
+        "dengan cepat"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "빨리 오세요.",
+        "gloss": "Datanglah cepat."
+      },
+      "note": "빨리빨리 adalah ungkapan yang sering dipakai orang Korea sendiri untuk menggambarkan tempo hidup mereka."
+    },
+    {
+      "id": "v158",
+      "ko": "천천히",
+      "gloss": "perlahan, lambat",
+      "alt": [
+        "dengan perlahan"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "천천히 말해 주세요.",
+        "gloss": "Tolong bicara perlahan."
+      },
+      "note": "Kalimat yang paling berguna bagi pemula ketika lawan bicara berbicara terlalu cepat."
+    },
+    {
+      "id": "v159",
+      "ko": "같이",
+      "gloss": "bersama",
+      "alt": [
+        "sama-sama"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "같이 점심 먹어요.",
+        "gloss": "Ayo makan siang bersama."
+      },
+      "note": "Dibunyikan 가치 karena palatalisasi. Kata 함께 bermakna sama tetapi lebih baku."
+    },
+    {
+      "id": "v160",
+      "ko": "먼저",
+      "gloss": "lebih dahulu",
+      "alt": [
+        "pertama-tama"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "저 먼저 갈게요.",
+        "gloss": "Saya pergi dulu."
+      },
+      "note": "먼저 가세요 ('silakan dahulu') adalah ungkapan sopan saat memberi jalan."
+    },
+    {
+      "id": "v161",
+      "ko": "다시",
+      "gloss": "lagi, sekali lagi",
+      "alt": [
+        "kembali"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "다시 말해 주세요.",
+        "gloss": "Tolong ulangi."
+      },
+      "note": "다시 만나요 berarti 'mari bertemu lagi'."
+    },
+    {
+      "id": "v162",
+      "ko": "벌써",
+      "gloss": "sudah (lebih cepat dari dugaan)",
+      "alt": [
+        "sudah"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "벌써 끝났어요?",
+        "gloss": "Sudah selesai?"
+      },
+      "note": "Mengandung rasa terkejut. Untuk 'sudah' yang netral dipakai 이미 atau cukup bentuk lampau."
+    },
+    {
+      "id": "v163",
+      "ko": "아직",
+      "gloss": "belum, masih",
+      "alt": [
+        "masih"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "아직 안 먹었어요.",
+        "gloss": "Saya belum makan."
+      },
+      "note": "'Belum' dalam Bahasa Korea adalah gabungan 아직 + bentuk negatif, bukan satu kata tersendiri."
+    },
+    {
+      "id": "v164",
+      "ko": "정말",
+      "gloss": "sungguh, benar-benar",
+      "alt": [
+        "betul"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "정말 고맙습니다.",
+        "gloss": "Sungguh terima kasih."
+      },
+      "note": "정말요? dipakai untuk menanggapi dengan arti 'oh ya?'."
+    },
+    {
+      "id": "v165",
+      "ko": "제일",
+      "gloss": "paling",
+      "alt": [
+        "ter-"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": "第一",
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "이게 제일 좋아요.",
+        "gloss": "Yang ini paling bagus."
+      },
+      "note": "Kata 가장 bermakna sama dan lebih baku dalam tulisan."
+    },
+    {
+      "id": "v166",
+      "ko": "그리고",
+      "gloss": "dan, lalu",
+      "alt": [
+        "kemudian"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "밥을 먹었어요. 그리고 커피를 마셨어요.",
+        "gloss": "Saya makan. Lalu saya minum kopi."
+      },
+      "note": "Menghubungkan dua KALIMAT. Untuk menghubungkan dua KATA BENDA dipakai 하고 atau 와/과."
+    },
+    {
+      "id": "v167",
+      "ko": "하지만",
+      "gloss": "tetapi",
+      "alt": [
+        "namun"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "비싸요. 하지만 맛있어요.",
+        "gloss": "Mahal. Tetapi enak."
+      },
+      "note": "Kata 그렇지만 dan 그런데 bermakna dekat; 그런데 lebih santai."
+    },
+    {
+      "id": "v168",
+      "ko": "그래서",
+      "gloss": "jadi, karena itu",
+      "alt": [
+        "maka"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "비가 왔어요. 그래서 집에 있었어요.",
+        "gloss": "Hujan. Jadi saya tinggal di rumah."
+      },
+      "note": "Menyatakan AKIBAT. Sebabnya disebut lebih dahulu."
+    },
+    {
+      "id": "v169",
+      "ko": "그런데",
+      "gloss": "tapi, ngomong-ngomong",
+      "alt": [
+        "namun",
+        "omong-omong"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "그런데 이거 얼마예요?",
+        "gloss": "Ngomong-ngomong, ini berapa?"
+      },
+      "note": "Punya dua tugas: menyatakan pertentangan, dan mengalihkan topik dengan halus. Bentuk pendeknya 근데."
+    },
+    {
+      "id": "v170",
+      "ko": "또",
+      "gloss": "lagi, juga",
+      "alt": [
+        "serta"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "또 오세요.",
+        "gloss": "Datang lagi ya."
+      },
+      "note": "또 오세요 adalah ucapan pemilik toko kepada pelanggan yang pulang."
+    },
+    {
+      "id": "v171",
+      "ko": "매일",
+      "gloss": "setiap hari",
+      "alt": [
+        "tiap hari"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": "每日",
+      "cat": "시간",
+      "stage": 6,
+      "example": {
+        "ko": "매일 한국어를 공부해요.",
+        "gloss": "Saya belajar bahasa Korea setiap hari."
+      },
+      "note": "매 (setiap) juga dipakai pada 매주 (setiap minggu) dan 매년 (setiap tahun)."
+    },
+    {
+      "id": "v172",
+      "ko": "보통",
+      "gloss": "biasanya",
+      "alt": [
+        "umumnya",
+        "biasa"
+      ],
+      "pos": "부사",
+      "haeyo": null,
+      "hanja": "普通",
+      "cat": "부사",
+      "stage": 6,
+      "example": {
+        "ko": "보통 일곱 시에 일어나요.",
+        "gloss": "Biasanya saya bangun jam tujuh."
+      },
+      "note": "Bisa menjadi kata benda yang berarti 'hal yang biasa'."
+    },
+    {
+      "id": "v173",
+      "ko": "날씨",
+      "gloss": "cuaca",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "오늘 날씨가 어때요?",
+        "gloss": "Bagaimana cuaca hari ini?"
+      },
+      "note": "Pertanyaan pembuka percakapan yang lazim, sama seperti dalam Bahasa Indonesia."
+    },
+    {
+      "id": "v174",
+      "ko": "덥다",
+      "gloss": "panas (cuaca)",
+      "alt": [
+        "panas"
+      ],
+      "pos": "형용사",
+      "haeyo": "더워요",
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "여름에는 아주 더워요.",
+        "gloss": "Pada musim panas sangat panas."
+      },
+      "note": "ㅂ 불규칙: 덥다 menjadi 더워요. Untuk benda yang panas dipakai 뜨겁다."
+    },
+    {
+      "id": "v175",
+      "ko": "춥다",
+      "gloss": "dingin (cuaca)",
+      "alt": [
+        "dingin"
+      ],
+      "pos": "형용사",
+      "haeyo": "추워요",
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "겨울에 한국은 많이 추워요.",
+        "gloss": "Pada musim dingin Korea sangat dingin."
+      },
+      "note": "ㅂ 불규칙: 춥다 menjadi 추워요. Untuk benda yang dingin dipakai 차갑다."
+    },
+    {
+      "id": "v176",
+      "ko": "따뜻하다",
+      "gloss": "hangat",
+      "alt": [],
+      "pos": "형용사",
+      "haeyo": "따뜻해요",
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "봄 날씨가 따뜻해요.",
+        "gloss": "Cuaca musim semi hangat."
+      },
+      "note": "Dibunyikan 따뜨태요 karena ㅅ dinetralkan menjadi ㄷ lalu melebur dengan ㅎ."
+    },
+    {
+      "id": "v177",
+      "ko": "시원하다",
+      "gloss": "sejuk, segar",
+      "alt": [
+        "sejuk"
+      ],
+      "pos": "형용사",
+      "haeyo": "시원해요",
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "가을에는 시원해요.",
+        "gloss": "Pada musim gugur udaranya sejuk."
+      },
+      "note": "Dipakai juga untuk rasa lega setelah makan sup panas, suatu pemakaian yang khas Korea."
+    },
+    {
+      "id": "v178",
+      "ko": "비",
+      "gloss": "hujan",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "비가 와요.",
+        "gloss": "Hujan turun."
+      },
+      "note": "Hujan 'datang' (비가 와요) atau 'turun' (비가 내려요), tidak pernah dipakai dengan kata kerja 'ada'."
+    },
+    {
+      "id": "v179",
+      "ko": "눈",
+      "gloss": "salju; mata",
+      "alt": [
+        "salju",
+        "mata"
+      ],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "겨울에 눈이 많이 와요.",
+        "gloss": "Pada musim dingin banyak turun salju."
+      },
+      "note": "Dua kata berbeda yang ejaannya sama. Dalam ucapan baku, 눈 (salju) dilafalkan lebih panjang daripada 눈 (mata), tetapi tulisannya sama."
+    },
+    {
+      "id": "v180",
+      "ko": "바람",
+      "gloss": "angin",
+      "alt": [],
+      "pos": "명사",
+      "haeyo": null,
+      "hanja": null,
+      "cat": "자연",
+      "stage": 6,
+      "example": {
+        "ko": "바람이 시원해요.",
+        "gloss": "Anginnya sejuk."
+      },
+      "note": "바람이 불어요 berarti 'angin bertiup'."
+    }
+  ]
+}

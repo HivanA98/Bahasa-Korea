@@ -1,0 +1,101 @@
+#separator:Comma
+#html:false
+#tags column:5
+"Apa yang menentukan pilihan antara 이에요 dan 예요?","Ada atau tidaknya batchim pada kata benda sebelumnya","Berbatchim memakai 이에요 (학생이에요), berakhir vokal memakai 예요 (의사예요).","Kalimat 'A adalah B': 이에요 / 예요","korea tatabahasa g01 tahap1"
+"Lengkapi: 'Saya pelajar.'
+저는 학생___.","이에요","학생 berakhir dengan batchim ㅇ, jadi 이에요. Bentuk 이예요 tidak ada dalam ejaan baku.","Kalimat 'A adalah B': 이에요 / 예요","korea tatabahasa g01 tahap1"
+"Lengkapi: 'Teman saya dokter.'
+제 친구는 의사___.","예요","의사 berakhir dengan vokal ㅏ, jadi 예요.","Kalimat 'A adalah B': 이에요 / 예요","korea tatabahasa g01 tahap1"
+"Bagaimana mengatakan 'Saya bukan pelajar'?","저는 학생이 아니에요.","Bentuk negatif dari 이에요 adalah kata terpisah 아니에요, dan kata bendanya memakai partikel 이/가.","Kalimat 'A adalah B': 이에요 / 예요","korea tatabahasa g01 tahap1"
+"Di mana kata kerja diletakkan dalam kalimat Bahasa Korea?","Selalu di akhir kalimat","Urutan dasarnya subjek - objek - kata kerja. 저는 밥을 먹어요 harfiahnya 'saya nasi makan'.","Kalimat 'A adalah B': 이에요 / 예요","korea tatabahasa g01 tahap1"
+"Lengkapi dengan partikel topik yang tepat.
+선생님___ 한국 사람이에요.","은","선생님 berakhir dengan batchim ㅁ, jadi 은.","Partikel topik: 은 / 는","korea tatabahasa g02 tahap1"
+"Lengkapi dengan partikel topik yang tepat.
+저___ 인도네시아 사람이에요.","는","저 berakhir dengan vokal, jadi 는.","Partikel topik: 은 / 는","korea tatabahasa g02 tahap1"
+"Bagaimana partikel ditulis terhadap kata sebelumnya?","Menempel tanpa spasi","Partikel selalu menempel: 저는, bukan 저 는. Spasi dalam Bahasa Korea memisahkan kata, dan partikel bukan kata yang berdiri sendiri.","Partikel topik: 은 / 는","korea tatabahasa g02 tahap1"
+"Apa yang ditandai oleh 은/는?","Topik, yaitu hal yang sedang dibicarakan","Penanda subjek adalah 이/가, penanda objek 을/를. 은/는 menandai topik, yang bisa berupa salah satu dari ketiganya.","Partikel topik: 은 / 는","korea tatabahasa g02 tahap1"
+"Kalimat 저는 커피는 안 마셔요 memuat 는 dua kali. Apa fungsi yang kedua?
+저는 커피는 안 마셔요.","Membandingkan: 'kopi (berbeda dari minuman lain) tidak saya minum'","은/는 yang kedua membawa nuansa pembandingan. Inilah salah satu tugasnya selain menandai topik.","Partikel topik: 은 / 는","korea tatabahasa g02 tahap1"
+"Lengkapi dengan partikel subjek yang tepat.
+책___ 있어요.","이","책 berakhir dengan batchim ㄱ, jadi 이. 책이 dibunyikan 채기.","Partikel subjek: 이 / 가, dan bedanya dengan 은/는","korea tatabahasa g03 tahap2"
+"Lengkapi: 'Teman saya datang.'
+친구___ 왔어요.","가","친구 berakhir dengan vokal, jadi 가.","Partikel subjek: 이 / 가, dan bedanya dengan 은/는","korea tatabahasa g03 tahap2"
+"Bagaimana bentuk 저 bila diberi partikel subjek?","제가","저 + 가 menjadi 제가. Begitu pula 나 menjadi 내가 dan 누구 menjadi 누가.","Partikel subjek: 이 / 가, dan bedanya dengan 은/는","korea tatabahasa g03 tahap2"
+"Pada pertanyaan 누가 왔어요? jawaban mana yang paling wajar?
+누가 왔어요?","친구가 왔어요.","Jawaban atas 'siapa yang...' adalah informasi baru, sehingga memakai 이/가.","Partikel subjek: 이 / 가, dan bedanya dengan 은/는","korea tatabahasa g03 tahap2"
+"Mana kalimat yang benar untuk 'Kepala saya sakit'?","머리가 아파요.","아프다 adalah kata sifat, dan kata sifat tidak punya objek. Bagian yang sakit menjadi subjek dengan 이/가.","Partikel subjek: 이 / 가, dan bedanya dengan 은/는","korea tatabahasa g03 tahap2"
+"Lengkapi: 'Saya makan nasi.'
+저는 밥___ 먹어요.","을","밥 berakhir dengan batchim ㅂ, jadi 을. 밥을 dibunyikan 바블.","Partikel objek: 을 / 를 dan urutan kata","korea tatabahasa g04 tahap2"
+"Lengkapi: 'Saya minum kopi.'
+커피___ 마셔요.","를","커피 berakhir dengan vokal, jadi 를.","Partikel objek: 을 / 를 dan urutan kata","korea tatabahasa g04 tahap2"
+"Mana susunan kata yang benar untuk 'Saya belajar bahasa Korea'?","저는 한국어를 공부해요.","Kata kerja wajib di akhir. Susunan lain pada pilihan meletakkan kata kerja bukan di akhir.","Partikel objek: 을 / 를 dan urutan kata","korea tatabahasa g04 tahap2"
+"Partikel apa yang dipakai pada 'bertemu teman'?
+친구___ 만나요.","를","만나다 memakai partikel objek walaupun Bahasa Indonesia memakai 'dengan'. 친구를 만나요.","Partikel objek: 을 / 를 dan urutan kata","korea tatabahasa g04 tahap2"
+"Mengapa 저는 밥을 먹어요 dan 밥을 저는 먹어요 sama-sama bisa dipahami?","Karena peran setiap kata ditandai partikelnya, bukan posisinya","Inilah guna partikel. Yang tetap tidak boleh berubah hanyalah kedudukan kata kerja di akhir kalimat.","Partikel objek: 을 / 를 dan urutan kata","korea tatabahasa g04 tahap2"
+"Lengkapi: 'Saya belajar di perpustakaan.'
+도서관___ 공부해요.","에서","공부하다 adalah kegiatan, sehingga tempatnya memakai 에서.","Tempat dan waktu: 에 dan 에서","korea tatabahasa g05 tahap3"
+"Lengkapi: 'Saya pergi ke sekolah.'
+학교___ 가요.","에","가다 menyebut tujuan, sehingga memakai 에.","Tempat dan waktu: 에 dan 에서","korea tatabahasa g05 tahap3"
+"Lengkapi: 'Saya tinggal di Seoul.'
+저는 서울___ 살아요.","에","살다 menyatakan keberadaan, bukan kegiatan, sehingga memakai 에 walaupun artinya 'di'.","Tempat dan waktu: 에 dan 에서","korea tatabahasa g05 tahap3"
+"Mana kalimat yang benar?","오늘 친구를 만나요.","오늘, 어제, 내일, 지금 tidak memakai partikel waktu 에.","Tempat dan waktu: 에 dan 에서","korea tatabahasa g05 tahap3"
+"Apa arti 집에서 학교까지?
+집에서 학교까지","Dari rumah sampai sekolah","에서 di sini berarti 'dari', dan 까지 berarti 'sampai'. Pasangan ini sering muncul bersama.","Tempat dan waktu: 에 dan 에서","korea tatabahasa g05 tahap3"
+"Apa bentuk 해요 dari 먹다?
+먹다","먹어요","Vokal batang kata adalah ㅓ, bukan ㅏ atau ㅗ, sehingga memakai 어요. Tulisannya 먹어요 walaupun dibunyikan 머거요.","Bentuk sopan 해요체: akhiran 아요 / 어요","korea tatabahasa g06 tahap3"
+"Apa bentuk 해요 dari 오다?
+오다","와요","오 + 아요 melebur menjadi 와요.","Bentuk sopan 해요체: akhiran 아요 / 어요","korea tatabahasa g06 tahap3"
+"Apa bentuk 해요 dari 공부하다?
+공부하다","공부해요","Semua kata berakhiran 하다 menjadi 해요. Ini bentuk tidak beraturan yang paling sering dipakai.","Bentuk sopan 해요체: akhiran 아요 / 어요","korea tatabahasa g06 tahap3"
+"Apa bentuk 해요 dari 어렵다 (sulit)?
+어렵다","어려워요","ㅂ 불규칙: batchim ㅂ berubah menjadi 우, lalu bergabung menjadi 어려워요. Begitu pula 쉽다 menjadi 쉬워요 dan 춥다 menjadi 추워요.","Bentuk sopan 해요체: akhiran 아요 / 어요","korea tatabahasa g06 tahap3"
+"Kalimat 가요 bisa berarti apa saja?
+가요","Saya pergi / Apakah Anda pergi? / Pergilah / Ayo pergi","해요체 tidak membedakan jenis kalimat; nada bicara dan keadaanlah yang menentukan.","Bentuk sopan 해요체: akhiran 아요 / 어요","korea tatabahasa g06 tahap3"
+"Apa bentuk lampau dari 먹어요?
+먹어요","먹었어요","Vokal ㅓ memakai 었: 먹었어요. Dibunyikan 머거써요.","Bentuk lampau: 았어요 / 었어요","korea tatabahasa g07 tahap4"
+"Apa bentuk lampau dari 가요?
+가요","갔어요","가 + 았어요 melebur menjadi 갔어요 dengan batchim ㅆ.","Bentuk lampau: 았어요 / 었어요","korea tatabahasa g07 tahap4"
+"Apa bentuk lampau dari 공부해요?
+공부해요","공부했어요","해 + 었어요 melebur menjadi 했어요.","Bentuk lampau: 았어요 / 었어요","korea tatabahasa g07 tahap4"
+"Lengkapi: 'Kemarin saya menonton film.'
+어제 영화를 ___.","봤어요","보 + 았어요 melebur menjadi 봤어요. Keterangan 어제 menuntut bentuk lampau.","Bentuk lampau: 았어요 / 었어요","korea tatabahasa g07 tahap4"
+"Bagaimana Bahasa Korea menyatakan masa depan pada 'Besok saya pergi ke Seoul'?","내일 서울에 가요.","Bentuk kini sudah cukup bila keterangan waktunya jelas. Bentuk 갈 거예요 juga benar dan lebih tegas menyatakan rencana.","Bentuk lampau: 았어요 / 었어요","korea tatabahasa g07 tahap4"
+"Apa perbedaan 안 먹어요 dan 못 먹어요?","안 berarti tidak makan (pilihan), 못 berarti tidak bisa makan (tidak mampu atau terhalang)","못 selalu mengandung ketidakmampuan atau penghalang, sedangkan 안 hanya menafikan.","Penafian: 안, 못, dan -지 않다","korea tatabahasa g08 tahap4"
+"Bagaimana menafikan 공부해요?
+공부해요","공부 안 해요","Pada kata berakhiran 하다, 안 masuk sebelum 하다, bukan di depan seluruh kata.","Penafian: 안, 못, dan -지 않다","korea tatabahasa g08 tahap4"
+"Apa bentuk negatif dari 있어요?
+있어요","없어요","있다 punya lawan kata tersendiri, yaitu 없다.","Penafian: 안, 못, dan -지 않다","korea tatabahasa g08 tahap4"
+"Lengkapi: 'Saya belum makan.'
+___ 안 먹었어요.","아직","'Belum' adalah gabungan 아직 dengan bentuk negatif.","Penafian: 안, 못, dan -지 않다","korea tatabahasa g08 tahap4"
+"Mana bentuk penafian yang lebih lazim dalam tulisan?","먹지 않아요","-지 않다 lebih sering dipakai dalam tulisan dan ragam resmi; 안 lebih lazim dalam percakapan.","Penafian: 안, 못, dan -지 않다","korea tatabahasa g08 tahap4"
+"Bagaimana mengatakan 'di atas meja'?","책상 위에","Kata tempat diletakkan sesudah kata bendanya, lalu diberi partikel 에.","Keberadaan dan tempat: 있어요 / 없어요 dan kata tempat","korea tatabahasa g09 tahap5"
+"Lengkapi: 'Di dalam tas ada buku.'
+가방 ___에 책이 있어요.","안","안 berarti 'dalam'. Kata ini berbeda dari 안 penanda penafian.","Keberadaan dan tempat: 있어요 / 없어요 dan kata tempat","korea tatabahasa g09 tahap5"
+"Apa arti 돈이 있어요?
+돈이 있어요.","Ada uang / Saya punya uang","있다 menanggung dua arti: keberadaan dan kepemilikan.","Keberadaan dan tempat: 있어요 / 없어요 dan kata tempat","korea tatabahasa g09 tahap5"
+"Mana susunan yang benar untuk 'Apotek ada di sebelah rumah sakit'?","약국은 병원 옆에 있어요.","Yang dicari letaknya (약국) menjadi topik, dan patokannya (병원) diikuti kata tempat 옆에. Pilihan ketiga artinya terbalik.","Keberadaan dan tempat: 있어요 / 없어요 dan kata tempat","korea tatabahasa g09 tahap5"
+"Lengkapi dengan partikel yang tepat.
+교실에 학생___ 많이 있어요.","이","Benda yang keberadaannya dinyatakan memakai partikel subjek 이/가.","Keberadaan dan tempat: 있어요 / 없어요 dan kata tempat","korea tatabahasa g09 tahap5"
+"Bagaimana bentuk tanya dari 밥 먹어요 dalam 해요체?","밥 먹어요?","Susunannya tidak berubah; hanya nada akhirnya yang dinaikkan.","Bertanya: kata tanya, 몇, dan nada bicara","korea tatabahasa g10 tahap5"
+"Mana cara yang benar menanyakan 'Anda makan apa?'","뭐 먹어요?","Kata tanya menempati tempat jawabannya, yaitu posisi objek sebelum kata kerja. Bentuk 뭐를 먹어요? juga benar tetapi partikelnya sering dihilangkan.","Bertanya: kata tanya, 몇, dan nada bicara","korea tatabahasa g10 tahap5"
+"Lengkapi: 'Sekarang jam berapa?'
+지금 ___ 시예요?","몇","Jumlah dan angka ditanyakan dengan 몇, yang selalu diikuti penggolong.","Bertanya: kata tanya, 몇, dan nada bicara","korea tatabahasa g10 tahap5"
+"Mana yang dipakai untuk menanyakan harga?","얼마예요?","얼마 khusus untuk harga; 얼마나 untuk kadar atau lama waktu.","Bertanya: kata tanya, 몇, dan nada bicara","korea tatabahasa g10 tahap5"
+"Apa bentuk tanya dari 먹습니다 dalam ragam 합니다?
+먹습니다","먹습니까?","Ragam 합니다 membedakan berita (-습니다) dan tanya (-습니까). Dibunyikan 먹씀니까.","Bertanya: kata tanya, 몇, dan nada bicara","korea tatabahasa g10 tahap5"
+"Lengkapi: 'roti dan susu'
+빵___ 우유","하고","하고 dipakai untuk semua kata benda tanpa memandang batchim. Bentuk bakunya di sini 빵과 karena 빵 berbatchim.","Menggabungkan: 하고 / 와 / 과, 도, dan 만","korea tatabahasa g11 tahap6"
+"Mana yang benar untuk 'Saya juga pergi'?","저도 가요.","도 menggantikan partikel topik dan subjek, tidak ditumpuk dengannya.","Menggabungkan: 하고 / 와 / 과, 도, dan 만","korea tatabahasa g11 tahap6"
+"Lengkapi: 'Air saja, tolong.'
+물___ 주세요.","만","만 berarti 'hanya, saja'.","Menggabungkan: 하고 / 와 / 과, 도, dan 만","korea tatabahasa g11 tahap6"
+"Mana pasangan 와/과 yang benar?","우유와 빵과","우유 berakhir vokal sehingga memakai 와; 빵 berbatchim sehingga memakai 과. Perhatikan bahwa aturannya BERLAWANAN dengan 은/는 dan 이/가, yang memberi bentuk bervokal kepada kata bervokal.","Menggabungkan: 하고 / 와 / 과, 도, dan 만","korea tatabahasa g11 tahap6"
+"Apa arti 친구하고 같이 가요?
+친구하고 같이 가요.","Saya pergi bersama teman","하고 di sini berarti 'dengan', dan 같이 menegaskan 'bersama'.","Menggabungkan: 하고 / 와 / 과, 도, dan 만","korea tatabahasa g11 tahap6"
+"Lengkapi: 'Saya ingin pergi ke Korea.'
+한국에 가___ 싶어요.","고","Pola keinginan adalah batang kata + 고 싶어요.","Keinginan dan kemampuan: -고 싶어요, -(으)ㄹ 수 있어요","korea tatabahasa g12 tahap6"
+"Apa bentuk 'bisa makan'?
+먹다","먹을 수 있어요","Batang 먹 berbatchim, sehingga memerlukan sisipan 으: 먹을 수 있어요.","Keinginan dan kemampuan: -고 싶어요, -(으)ㄹ 수 있어요","korea tatabahasa g12 tahap6"
+"Apa bentuk 'bisa melakukan' dari 하다?
+하다","할 수 있어요","Batang 하 tidak berbatchim, sehingga langsung memakai ㄹ: 할 수 있어요.","Keinginan dan kemampuan: -고 싶어요, -(으)ㄹ 수 있어요","korea tatabahasa g12 tahap6"
+"Bagaimana mengatakan 'Teman saya ingin pergi'?","친구가 가고 싶어해요.","Keinginan orang ketiga memakai -고 싶어하다, karena pembicara tidak bisa memastikan isi hati orang lain.","Keinginan dan kemampuan: -고 싶어요, -(으)ㄹ 수 있어요","korea tatabahasa g12 tahap6"
+"Mengapa 수 ditulis dengan spasi pada 할 수 있어요?","Karena 수 adalah kata benda tersendiri yang berarti 'cara, kemungkinan'","Susunan itu harfiahnya 'ada kemungkinan untuk melakukan'. Spasi dalam ejaan Korea memisahkan kata, dan 수 adalah kata.","Keinginan dan kemampuan: -고 싶어요, -(으)ㄹ 수 있어요","korea tatabahasa g12 tahap6"

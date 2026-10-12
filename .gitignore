@@ -1,0 +1,8 @@
+# Progres pribadi, bukan bagian dari materi
+progress.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.claude/settings.local.json

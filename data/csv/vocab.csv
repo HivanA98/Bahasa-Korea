@@ -1,0 +1,181 @@
+id,ko,lafal,romaja,arti,arti_lain,kelas_kata,haeyo,hanja,contoh,contoh_romaja,contoh_arti,kategori,stage,catatan
+v001,안녕하세요,,annyeonghaseyo,"halo, selamat siang",apa kabar,감탄사,,安寧,"안녕하세요, 저는 이반이에요.","annyeonghaseyo, jeoneun ibanieyo.","Halo, saya Ivan.",인사,1,"Sapaan paling umum, dipakai pagi sampai malam. Harfiahnya bertanya 'apakah Anda dalam keadaan tenteram'. Bentuk yang lebih formal adalah 안녕하십니까."
+v002,안녕히 가세요,,annyeonghi gaseyo,selamat jalan,sampai jumpa (kepada yang pergi),감탄사,,,"안녕히 가세요, 선생님.","annyeonghi gaseyo, seonsaengnim.","Selamat jalan, Pak/Bu Guru.",인사,1,"Diucapkan kepada orang yang PERGI. Bila Andalah yang pergi dan lawan bicara tinggal, ucapkan 안녕히 계세요."
+v003,안녕히 계세요,,annyeonghi gyeseyo,selamat tinggal,sampai jumpa (kepada yang tinggal),감탄사,,,"안녕히 계세요, 저 먼저 갈게요.","annyeonghi gyeseyo, jeo meonjeo galgeyo.","Selamat tinggal, saya pergi dulu.",인사,1,Diucapkan kepada orang yang TINGGAL di tempat itu. Pasangan 가세요/계세요 ini sering tertukar oleh pemula.
+v004,감사합니다,감사함니다,gamsahamnida,terima kasih,terima kasih banyak,감탄사,,感謝,도와주셔서 감사합니다.,dowajusyeoseo gamsahamnida.,Terima kasih telah membantu.,인사,1,"Berasal dari kata Sino-Korea. Agak lebih formal daripada 고맙습니다, dan paling aman dipakai kepada siapa pun."
+v005,고맙습니다,고맙씀니다,gomapseumnida,terima kasih,makasih,감탄사,,,정말 고맙습니다.,jeongmal gomapseumnida.,Terima kasih sungguh.,인사,1,"Kata asli Korea dengan arti yang sama. Bentuk 해요-nya 고마워요, dan bentuk akrabnya 고마워."
+v006,죄송합니다,죄송함니다,joesonghamnida,"maaf, mohon maaf",saya menyesal,감탄사,,罪悚,늦어서 죄송합니다.,neujeoseo joesonghamnida.,Maaf saya terlambat.,인사,1,Lebih formal daripada 미안해요 dan dipakai kepada orang yang lebih tua atau di tempat kerja.
+v007,미안해요,,mianhaeyo,maaf,sori,감탄사,,,"미안해요, 제가 잘못했어요.","mianhaeyo, jega jalmotaesseoyo.","Maaf, saya yang salah.",인사,1,Dipakai kepada teman atau orang yang sebaya. Bentuk akrabnya 미안.
+v008,네,,ne,ya,iya; benar,감탄사,,,"네, 맞아요.","ne, majayo.","Ya, benar.",인사,1,"Selain berarti 'ya', 네 juga dipakai sebagai tanda bahwa Anda sedang menyimak, mirip 'iya' dalam percakapan Bahasa Indonesia. Bentuk yang lebih formal adalah 예."
+v009,아니요,,aniyo,"bukan, tidak",tidak,감탄사,,,"아니요, 저는 학생이 아니에요.","aniyo, jeoneun haksaeng-i anieyo.","Bukan, saya bukan pelajar.",인사,1,"Menjawab pertanyaan ya/tidak. Untuk menolak tawaran, orang Korea lebih sering berkata 괜찮아요 ('tidak apa-apa')."
+v010,저,,jeo,saya (sopan),aku (sopan),대명사,,,저는 인도네시아 사람이에요.,jeoneun indonesia saramieyo.,Saya orang Indonesia.,대명사,1,"Bentuk merendahkan diri, dipakai kepada orang yang lebih tua atau belum dikenal. Dengan partikel subjek bentuknya 제가, bukan 저가."
+v011,나,,na,aku (akrab),saya (akrab),대명사,,,나는 집에 있어.,naneun jibe isseo.,Aku di rumah.,대명사,1,Hanya kepada teman sebaya atau yang lebih muda. Dengan partikel subjek bentuknya 내가. Memakai 나 kepada orang yang lebih tua terdengar kasar.
+v012,우리,,uri,"kami, kita",kita,대명사,,,우리 같이 가요.,uri gachi gayo.,Ayo kita pergi bersama.,대명사,1,"Bahasa Korea tidak membedakan 'kami' dan 'kita' seperti Bahasa Indonesia. 우리 juga dipakai untuk hal milik pribadi: 우리 집 (rumah saya), 우리 엄마 (ibu saya)."
+v013,저희,,jeohui,kami (sopan),,대명사,,,저희 회사는 서울에 있어요.,jeohui hoesaneun seoure isseoyo.,Kantor kami ada di Seoul.,대명사,1,"Bentuk merendahkan diri dari 우리. Tidak dipakai untuk 'kita' yang mencakup lawan bicara, karena merendahkan lawan bicara sekaligus."
+v014,당신,,dangsin,Anda,,대명사,,,당신은 누구세요?,dangsineun nuguseyo?,Anda siapa?,대명사,1,"HATI-HATI. Walaupun kamus menerjemahkannya 'Anda', 당신 dalam percakapan sehari-hari terdengar menantang atau terlalu intim (antar suami-istri). Orang Korea menyebut lawan bicara dengan NAMA atau JABATAN: 선생님, 사장님, 이반 씨. Kata 'Anda' paling sering tidak diucapkan sama sekali."
+v015,이것,이걷,igeot,ini,benda ini,대명사,,,이것은 제 책이에요.,igeoseun je chaegieyo.,Ini buku saya.,대명사,1,"Dalam percakapan dipendekkan menjadi 이거, dan dengan partikel subjek menjadi 이게. Benda yang dekat dengan pembicara."
+v016,그것,그걷,geugeot,itu (dekat lawan bicara),itu,대명사,,,그것은 무엇이에요?,geugeoseun mueosieyo?,Itu apa?,대명사,1,"Benda yang dekat dengan LAWAN BICARA, atau benda yang sudah pernah disebut. Bentuk pendeknya 그거, 그게."
+v017,저것,저걷,jeogeot,itu (jauh dari keduanya),itu di sana,대명사,,,저것도 주세요.,jeogeotdo juseyo.,"Yang itu juga, tolong.",대명사,1,"Benda yang jauh dari pembicara maupun lawan bicara. Korea membedakan tiga jarak (이/그/저), sedangkan Bahasa Indonesia hanya dua (ini/itu)."
+v018,여기,,yeogi,"sini, di sini",tempat ini,대명사,,,여기가 제 방이에요.,yeogiga je bang-ieyo.,Di sini kamar saya.,대명사,1,Serangkai dengan 이것: 이 untuk yang dekat pembicara.
+v019,거기,,geogi,"situ, di situ",tempat itu,대명사,,,거기 날씨는 어때요?,geogi nalssineun eottaeyo?,Bagaimana cuaca di situ?,대명사,1,"Tempat yang dekat dengan lawan bicara, termasuk tempat lawan bicara saat menelepon."
+v020,저기,,jeogi,"sana, di sana",tempat di sana,대명사,,,저기 화장실이 있어요.,jeogi hwajangsiri isseoyo.,Di sana ada toilet.,대명사,1,"저기요 juga dipakai untuk memanggil pelayan atau menyapa orang asing, mirip 'permisi'."
+v021,뭐,,mwo,apa,apaan,대명사,,,이름이 뭐예요?,ireumi mwoyeyo?,Namanya apa?,질문,1,"Bentuk pendek dari 무엇, dan jauh lebih sering dipakai dalam percakapan. 무엇 lebih lazim dalam tulisan."
+v022,누구,,nugu,siapa,,대명사,,,저분은 누구예요?,jeobuneun nuguyeyo?,Beliau itu siapa?,질문,1,"Dengan partikel subjek bentuknya 누가, bukan 누구가."
+v023,어디,,eodi,"di mana, ke mana",mana,대명사,,,지금 어디에 있어요?,jigeum eodie isseoyo?,Sekarang ada di mana?,질문,1,"Satu kata untuk 'di mana' dan 'ke mana'; yang membedakan adalah partikelnya (어디에, 어디에서)."
+v024,언제,,eonje,kapan,,부사,,,언제 한국에 와요?,eonje hanguge wayo?,Kapan datang ke Korea?,질문,1,"Tidak memerlukan partikel waktu: cukup 언제, bukan 언제에."
+v025,왜,,wae,"kenapa, mengapa",,부사,,,왜 안 먹어요?,wae an meogeoyo?,Kenapa tidak makan?,질문,1,Diucapkan sendirian (왜?) bisa terdengar menuntut; dalam percakapan sopan lebih baik 왜요?
+v026,어떻게,어떠케,eotteoke,bagaimana,dengan cara apa,부사,,,학교에 어떻게 가요?,hakgyoe eotteoke gayo?,Bagaimana caranya pergi ke sekolah?,질문,1,"Menanyakan CARA. Untuk menanyakan keadaan ('bagaimana rasanya'), dipakai 어때요."
+v027,사람,,saram,orang,manusia,명사,,,저는 인도네시아 사람이에요.,jeoneun indonesia saramieyo.,Saya orang Indonesia.,사람,1,"Nama negara + 사람 berarti kewarganegaraan: 한국 사람, 일본 사람. Bentuk hormatnya 분."
+v028,이름,,ireum,nama,,명사,,,제 이름은 이반이에요.,je ireumeun ibanieyo.,Nama saya Ivan.,사람,1,"Bentuk hormat untuk nama orang lain adalah 성함, dipakai saat bertanya kepada orang yang lebih tua."
+v029,학생,학쌩,haksaeng,"pelajar, mahasiswa",murid; siswa,명사,,學生,저는 대학생이에요.,jeoneun daehaksaeng-ieyo.,Saya mahasiswa.,사람,1,"Tidak membedakan tingkat sekolah. 대학생 berarti mahasiswa, 고등학생 pelajar SMA."
+v030,선생님,,seonsaengnim,"guru, bapak/ibu",pengajar,명사,,先生,"선생님, 질문이 있어요.","seonsaengnim, jilmuni isseoyo.","Pak/Bu, saya ada pertanyaan.",사람,1,"님 adalah akhiran hormat. 선생님 juga dipakai sebagai sapaan hormat kepada orang terpelajar yang bukan guru, mirip 'Bapak/Ibu'."
+v031,친구,,chingu,teman,kawan; sahabat,명사,,親舊,친구를 만나요.,chingureul mannayo.,Saya bertemu teman.,사람,1,"Dalam pemakaian Korea, 친구 umumnya berarti teman SEBAYA. Orang yang lebih tua tidak disebut 친구 walaupun akrab."
+v032,씨,,ssi,Bapak/Ibu/Saudara (setelah nama),sapaan setelah nama,명사,,,"이반 씨, 어디 가세요?","iban ssi, eodi gaseyo?","Pak Ivan, mau ke mana?",사람,1,"Dilekatkan pada NAMA, bukan pada jabatan: 이반 씨 benar, 선생님 씨 salah. Tidak dipakai kepada atasan atau orang yang jauh lebih tua; untuk mereka dipakai jabatan + 님."
+v033,가족,,gajok,keluarga,,명사,,家族,우리 가족은 네 명이에요.,uri gajogeun ne myeong-ieyo.,Keluarga kami empat orang.,가족,2,"Dibaca 가족, dan dengan partikel 이 menjadi 가족이 yang dibunyikan 가조기."
+v034,아버지,,abeoji,ayah,bapak,명사,,,아버지는 회사원이에요.,abeojineun hoesawonieyo.,Ayah saya pegawai kantor.,가족,2,Bentuk baku dan sopan. Bentuk akrab dalam keluarga adalah 아빠.
+v035,어머니,,eomeoni,ibu,mama,명사,,,어머니가 요리를 하세요.,eomeoniga yorireul haseyo.,Ibu sedang memasak.,가족,2,Bentuk akrabnya 엄마. Perhatikan akhiran hormat -세요 yang dipakai saat membicarakan orang tua.
+v036,아빠,,appa,ayah (akrab),papa,명사,,,"아빠, 같이 가요.","appa, gachi gayo.","Papa, ayo pergi bersama.",가족,2,"Dipakai di dalam keluarga, juga oleh orang dewasa. Memakai ㅃ yang tegang: bukan 아바."
+v037,엄마,,eomma,ibu (akrab),mama,명사,,,엄마가 밥을 주셨어요.,eommaga babeul jusyeosseoyo.,Ibu memberi saya makan.,가족,2,"Sangat umum dalam percakapan sehari-hari, tetapi tidak dipakai dalam tulisan resmi."
+v038,형,,hyeong,kakak lelaki (bagi lelaki),,명사,,兄,우리 형은 서울에 살아요.,uri hyeong-eun seoure sarayo.,Kakak saya tinggal di Seoul.,가족,2,"Bahasa Korea membedakan kata kakak menurut jenis kelamin PEMBICARA: lelaki memanggil kakak lelakinya 형, perempuan memanggilnya 오빠."
+v039,오빠,,oppa,kakak lelaki (bagi perempuan),,명사,,,오빠가 저를 도와줬어요.,oppaga jeoreul dowajwosseoyo.,Kakak membantu saya.,가족,2,"Juga dipakai perempuan untuk memanggil lelaki yang sedikit lebih tua dan sudah akrab, termasuk kekasih."
+v040,누나,,nuna,kakak perempuan (bagi lelaki),,명사,,,누나는 간호사예요.,nunaneun ganhosayeyo.,Kakak saya perawat.,가족,2,Pasangan dari 형: keduanya dipakai oleh pembicara lelaki.
+v041,언니,,eonni,kakak perempuan (bagi perempuan),,명사,,,언니하고 같이 쇼핑했어요.,eonnihago gachi syopinghaesseoyo.,Saya berbelanja bersama kakak.,가족,2,Pasangan dari 오빠: keduanya dipakai oleh pembicara perempuan.
+v042,동생,,dongsaeng,adik,,명사,,,제 동생은 학생이에요.,je dongsaeng-eun haksaeng-ieyo.,Adik saya pelajar.,가족,2,"Tidak membedakan jenis kelamin. Bila perlu dijelaskan: 남동생 (adik lelaki), 여동생 (adik perempuan)."
+v043,아들,,adeul,anak lelaki,putra,명사,,,아들이 두 명 있어요.,adeuri du myeong isseoyo.,Saya punya dua anak lelaki.,가족,2,아들이 dibunyikan 아드리 karena penyambungan bunyi.
+v044,딸,,ttal,anak perempuan,putri,명사,,,딸이 노래를 좋아해요.,ttari noraereul joahaeyo.,Anak perempuan saya suka menyanyi.,가족,2,Memakai ㄸ yang tegang. 달 (bulan) dan 딸 (anak perempuan) adalah dua kata berbeda.
+v045,남자,,namja,lelaki,pria,명사,,男子,그 남자는 제 친구예요.,geu namjaneun je chinguyeyo.,Lelaki itu teman saya.,사람,2,"남자 친구 berarti 'kekasih (lelaki)', sedangkan 'teman lelaki' biasa adalah 남자 사람 친구 atau cukup 친구."
+v046,여자,,yeoja,perempuan,wanita,명사,,女子,여자 화장실은 저기에 있어요.,yeoja hwajangsireun jeogie isseoyo.,Toilet perempuan ada di sana.,사람,2,Pasangannya 남자. 여자 친구 juga berarti 'kekasih (perempuan)'.
+v047,아이,,ai,anak,anak kecil,명사,,,아이가 공원에서 놀아요.,aiga gongwoneseo norayo.,Anak itu bermain di taman.,사람,2,"Bentuk pendeknya 애, sangat umum dalam percakapan."
+v048,책,,chaek,buku,,명사,,冊,책을 읽어요.,chaegeul ilgeoyo.,Saya membaca buku.,물건,2,책을 dibunyikan 채글. Penggolong untuk buku adalah 권: 책 두 권 (dua buku).
+v049,가방,,gabang,tas,,명사,,,제 가방이 무거워요.,je gabang-i mugeowoyo.,Tas saya berat.,물건,2,Batchim ㅇ pada 방 berbunyi ng.
+v050,연필,,yeonpil,pensil,,명사,,鉛筆,연필로 쓰세요.,yeonpillo sseuseyo.,Tulislah dengan pensil.,물건,2,"Partikel 로 berarti 'dengan (alat)'. Karena 연필 berbatchim, bentuknya 연필로 (bukan 연필으로, sebab batchim ㄹ dikecualikan)."
+v051,공책,,gongchaek,buku tulis,buku catatan,명사,,空冊,공책에 이름을 쓰세요.,gongchaege ireumeul sseuseyo.,Tulis nama di buku tulis.,물건,2,Harfiahnya 'buku kosong'. Kata serapan 노트 juga dipakai.
+v052,의자,,uija,kursi,,명사,,椅子,의자에 앉으세요.,uijae anjeuseyo.,Silakan duduk di kursi.,물건,2,Vokal ㅢ pada awal kata dibaca ui.
+v053,책상,책쌍,chaeksang,meja belajar,meja tulis,명사,,冊床,책상 위에 책이 있어요.,chaeksang wie chaegi isseoyo.,Di atas meja ada buku.,물건,2,Harfiahnya 'meja buku'. Meja makan disebut 식탁.
+v054,컴퓨터,,keompyuteo,komputer,,명사,,,컴퓨터로 일해요.,keompyuteoro ilhaeyo.,Saya bekerja dengan komputer.,물건,2,"Kata serapan dari Bahasa Inggris. Bunyi f dan v tidak ada dalam Bahasa Korea, sehingga kata serapan sering berubah cukup jauh."
+v055,휴대폰,,hyudaepon,telepon seluler,hp; ponsel,명사,,携帶,휴대폰 번호가 뭐예요?,hyudaepon beonhoga mwoyeyo?,Nomor ponselnya berapa?,물건,2,Gabungan kata Sino-Korea 휴대 (bawa) dan serapan 폰 (phone). Kata 핸드폰 juga umum.
+v056,돈,,don,uang,,명사,,,돈이 없어요.,doni eopseoyo.,Saya tidak punya uang.,물건,2,돈이 dibunyikan 도니. Mata uang Korea adalah 원.
+v057,시계,,sigye,jam (alat),arloji,명사,,時計,시계가 느려요.,sigyega neuryeoyo.,Jamnya lambat.,물건,2,Jam sebagai ALAT adalah 시계; jam sebagai satuan waktu adalah 시 dan 시간.
+v058,옷,옫,ot,pakaian,baju,명사,,,새 옷을 샀어요.,sae oseul sasseoyo.,Saya membeli pakaian baru.,물건,2,Sendirian dibaca 옫; dengan partikel 을 dibaca 오슬. Inilah contoh paling jelas mengapa batchim ㅅ tetap ditulis.
+v059,신발,,sinbal,sepatu,alas kaki,명사,,,신발을 벗으세요.,sinbareul beoseuseyo.,Tolong lepas sepatunya.,물건,2,"Di rumah Korea, sepatu selalu dilepas di depan pintu. Kalimat ini akan sering Anda dengar."
+v060,물,,mul,air,,명사,,,물 좀 주세요.,mul jom juseyo.,Tolong beri saya air.,음식,2,"Batchim ㄹ dibaca mirip l. Di restoran Korea, air minum biasanya gratis dan diambil sendiri."
+v061,차,,cha,teh; mobil,teh; mobil,명사,,茶/車,차 한 잔 드세요.,cha han jan deuseyo.,Silakan minum segelas teh.,물건,2,"Dua kata Sino-Korea berbeda yang bunyinya sama. Mana yang dimaksud ditentukan oleh kalimatnya: 차를 마셔요 (minum teh), 차를 타요 (naik mobil)."
+v062,전화,,jeonhwa,telepon,panggilan telepon,명사,,電話,전화가 왔어요.,jeonhwaga wasseoyo.,Ada telepon masuk.,물건,2,Menjadi kata kerja dengan 하다: 전화하다 (menelepon). Pola kata Sino-Korea + 하다 ini sangat produktif.
+v063,집,,jip,rumah,tempat tinggal,명사,,,집에 가요.,jibe gayo.,Saya pulang ke rumah.,장소,3,집에 가요 adalah cara biasa mengatakan 'pulang'. Rumah sendiri sering disebut 우리 집.
+v064,학교,학꾜,hakgyo,sekolah,,명사,,學校,학교에서 한국어를 배워요.,hakgyoeseo hangugeoreul baewoyo.,Saya belajar bahasa Korea di sekolah.,장소,3,"Dibunyikan 학꾜 karena pengerasan, walaupun alih hurufnya hakgyo."
+v065,회사,,hoesa,"perusahaan, kantor",kantor,명사,,會社,저는 회사에 다녀요.,jeoneun hoesae danyeoyo.,Saya bekerja di sebuah perusahaan.,장소,3,회사에 다니다 adalah ungkapan baku untuk 'bekerja di perusahaan'. Pegawainya disebut 회사원.
+v066,식당,식땅,sikdang,restoran,rumah makan; warung,명사,,食堂,식당에서 점심을 먹어요.,sikdang-eseo jeomsimeul meogeoyo.,Saya makan siang di restoran.,장소,3,Dibunyikan 식땅. Restoran yang lebih mewah disebut 레스토랑.
+v067,가게,,gage,toko,kedai,명사,,,가게에서 우유를 샀어요.,gageeseo uyureul sasseoyo.,Saya membeli susu di toko.,장소,3,"Toko kecil. Minimarket disebut 편의점, dibunyikan 편이점 atau 펴니점."
+v068,시장,,sijang,pasar,,명사,,市場,시장이 싸고 재미있어요.,sijang-i ssago jaemiisseoyo.,Pasar itu murah dan menyenangkan.,장소,3,Pasar tradisional Korea (재래시장) masih banyak dan menjadi tempat wisata.
+v069,병원,,byeongwon,rumah sakit,klinik,명사,,病院,병원에 가야 해요.,byeongwone gaya haeyo.,Saya harus pergi ke rumah sakit.,장소,3,"Dipakai juga untuk klinik kecil, tidak hanya rumah sakit besar."
+v070,약국,약꾹,yakguk,apotek,,명사,,藥局,약국은 병원 옆에 있어요.,yakgugeun byeongwon yeope isseoyo.,Apotek ada di sebelah rumah sakit.,장소,3,약 berarti obat. Dibunyikan 약꾹.
+v071,은행,,eunhaeng,bank,,명사,,銀行,은행에서 돈을 바꿨어요.,eunhaeng-eseo doneul bakkwosseoyo.,Saya menukar uang di bank.,장소,3,Dibunyikan 으냉 karena penyambungan bunyi.
+v072,역,,yeok,stasiun,stasiun kereta,명사,,驛,서울역에서 만나요.,seouryeogeseo mannayo.,Mari bertemu di Stasiun Seoul.,장소,3,"Dilekatkan pada nama stasiun: 서울역, 강남역. 서울역 dibunyikan 서울력."
+v073,공항,,gonghang,bandara,,명사,,空港,공항까지 얼마나 걸려요?,gonghangkkaji eolmana geollyeoyo?,Berapa lama sampai bandara?,장소,3,Bandara utama Korea adalah 인천국제공항.
+v074,화장실,,hwajangsil,toilet,kamar mandi; wc,명사,,化粧室,화장실이 어디에 있어요?,hwajangsiri eodie isseoyo?,Toilet ada di mana?,장소,3,"Harfiahnya 'ruang berhias'. Inilah kata yang dipakai, bukan 변소 yang terdengar kasar."
+v075,방,,bang,kamar,ruangan,명사,,房,제 방은 작아요.,je bang-eun jagayo.,Kamar saya kecil.,장소,3,"Dipakai juga untuk ruangan sewaan: 노래방 (karaoke), PC방 (warnet)."
+v076,교실,,gyosil,ruang kelas,kelas,명사,,教室,교실에 학생이 많아요.,gyosire haksaeng-i manayo.,Di ruang kelas banyak pelajar.,장소,3,"Berbeda dari 수업 yang berarti 'pelajaran, perkuliahan'."
+v077,도서관,,doseogwan,perpustakaan,,명사,,圖書館,도서관에서 공부해요.,doseogwaneseo gongbuhaeyo.,Saya belajar di perpustakaan.,장소,3,"Akhiran 관 (館) menandai bangunan: 대사관 (kedutaan), 미술관 (galeri seni)."
+v078,오늘,,oneul,hari ini,,명사,,,오늘 날씨가 좋아요.,oneul nalssiga joayo.,Cuaca hari ini bagus.,시간,3,Keterangan waktu seperti ini tidak memerlukan partikel 에.
+v079,어제,,eoje,kemarin,,명사,,,어제 친구를 만났어요.,eoje chingureul mannasseoyo.,Kemarin saya bertemu teman.,시간,3,"Menuntut kata kerja bentuk lampau: 만났어요, bukan 만나요."
+v080,내일,,naeil,besok,esok hari,명사,,來日,내일 시간이 있어요?,naeil sigani isseoyo?,Besok ada waktu?,시간,3,Bahasa Korea sering memakai bentuk kini untuk masa depan bila keterangan waktunya jelas.
+v081,아침,,achim,pagi; makan pagi,sarapan,명사,,,아침에 커피를 마셔요.,achime keopireul masyeoyo.,Saya minum kopi di pagi hari.,시간,3,"Satu kata untuk waktu pagi dan untuk makanan paginya, sama seperti 점심 dan 저녁."
+v082,점심,,jeomsim,siang; makan siang,makan siang,명사,,點心,점심 먹었어요?,jeomsim meogeosseoyo?,Sudah makan siang?,시간,3,"점심 먹었어요? adalah sapaan sehari-hari yang biasa, bukan sekadar pertanyaan."
+v083,저녁,,jeonyeok,"sore, malam; makan malam",makan malam; petang,명사,,,저녁에 운동해요.,jeonyeoge undonghaeyo.,Saya berolahraga pada sore hari.,시간,3,Meliputi waktu sejak senja sampai sebelum tidur; 밤 lebih khusus untuk malam gelap.
+v084,밤,,bam,malam,,명사,,,밤에 비가 왔어요.,bame biga wasseoyo.,Tadi malam hujan.,시간,3,"Kata yang sama juga berarti 'kacang kastanye', dibedakan dari kalimatnya."
+v085,지금,,jigeum,sekarang,saat ini,명사,,只今,지금 뭐 해요?,jigeum mwo haeyo?,Sekarang sedang apa?,시간,3,지금 뭐 해요? adalah kalimat paling sering muncul dalam percakapan sehari-hari.
+v086,시간,,sigan,waktu; jam (lama),lamanya waktu,명사,,時間,시간이 없어요.,sigani eopseoyo.,Saya tidak punya waktu.,시간,3,"Sebagai satuan, 시간 berarti LAMA ('dua jam' = 두 시간), sedangkan 시 berarti TITIK waktu ('jam dua' = 두 시)."
+v087,주말,,jumal,akhir pekan,,명사,,週末,주말에 뭐 했어요?,jumare mwo haesseoyo?,Apa yang Anda lakukan di akhir pekan?,시간,3,"주 berarti minggu, 말 berarti akhir."
+v088,요일,,yoil,hari (dalam seminggu),nama hari,명사,,曜日,오늘은 무슨 요일이에요?,oneureun museun yoirieyo?,Hari ini hari apa?,시간,3,"Nama hari dibentuk dari unsur alam + 요일: 월(bulan), 화(api), 수(air), 목(kayu), 금(logam), 토(tanah), 일(matahari)."
+v089,월요일,워료일,woryoil,hari Senin,senin,명사,,月曜日,월요일에 회의가 있어요.,woryoire hoeuiga isseoyo.,Hari Senin ada rapat.,시간,3,"Dibunyikan 워료일. Hari lainnya: 화요일, 수요일, 목요일, 금요일, 토요일, 일요일."
+v090,일요일,이료일,iryoil,hari Minggu,minggu,명사,,日曜日,일요일에는 쉬어요.,iryoireneun swieoyo.,Pada hari Minggu saya beristirahat.,시간,3,"일 di sini berarti matahari, bukan angka satu, walaupun hurufnya sama."
+v091,년,,nyeon,tahun,,명사,,年,저는 2020년에 왔어요.,jeoneun 2020nyeone wasseoyo.,Saya datang pada tahun 2020.,시간,3,Selalu dipakai dengan angka Sino-Korea: 이천이십 년.
+v092,달,,dal,bulan (lamanya); bulan di langit,bulan,명사,,,한 달 동안 한국에 있었어요.,han dal dong-an hanguge isseosseoyo.,Saya berada di Korea selama satu bulan.,시간,3,"Untuk LAMA dipakai 달 dengan angka asli Korea (한 달, 두 달); untuk NAMA bulan dipakai 월 dengan angka Sino-Korea (일월, 이월)."
+v093,밥,,bap,nasi; makanan,makan,명사,,,밥을 먹었어요.,babeul meogeosseoyo.,Saya sudah makan.,음식,4,밥 먹었어요? harfiahnya 'sudah makan nasi?' tetapi berarti 'sudah makan?'. Nasi dan makanan adalah satu kata.
+v094,김치,,gimchi,kimchi,sayur asin khas Korea,명사,,,김치가 조금 매워요.,gimchiga jogeum maewoyo.,Kimchinya sedikit pedas.,음식,4,"Alih hurufnya gimchi menurut RR, tetapi ejaan 'kimchi' sudah baku di banyak bahasa, termasuk Bahasa Indonesia."
+v095,빵,,ppang,roti,,명사,,,아침에 빵을 먹어요.,achime ppang-eul meogeoyo.,Saya makan roti pada pagi hari.,음식,4,"Serapan dari bahasa Portugis melalui Jepang, bukan dari Bahasa Inggris."
+v096,우유,,uyu,susu,,명사,,牛乳,우유를 사러 가요.,uyureul sareo gayo.,Saya pergi membeli susu.,음식,4,"Harfiahnya 'air sapi'. Semua vokalnya rebah, jadi blok hurufnya bertumpuk."
+v097,커피,,keopi,kopi,,명사,,,커피 한 잔 주세요.,keopi han jan juseyo.,Tolong satu gelas kopi.,음식,4,Penggolong untuk minuman adalah 잔 (gelas/cangkir).
+v098,고기,,gogi,daging,,명사,,,저는 고기를 안 먹어요.,jeoneun gogireul an meogeoyo.,Saya tidak makan daging.,음식,4,"Jenisnya: 소고기 (sapi), 돼지고기 (babi), 닭고기 (ayam). Bagi yang menghindari daging tertentu, kata-kata ini penting."
+v099,생선,,saengseon,ikan (untuk dimakan),ikan,명사,,生鮮,생선을 구워요.,saengseoneul guwoyo.,Saya memanggang ikan.,음식,4,Ikan yang masih hidup di air disebut 물고기; yang menjadi lauk disebut 생선.
+v100,과일,,gwail,buah,buah-buahan,명사,,,과일을 많이 먹으세요.,gwaireul mani meogeuseyo.,Makanlah banyak buah.,음식,4,"Dibunyikan 과일, dengan ㅘ sebagai satu vokal gabungan."
+v101,사과,,sagwa,apel; permintaan maaf,apel,명사,,沙果/謝過,사과 두 개 주세요.,sagwa du gae juseyo.,Tolong dua buah apel.,음식,4,Dua kata Sino-Korea berbeda yang bunyinya sama: 사과 (apel) dan 사과 (permohonan maaf). 사과하다 berarti 'meminta maaf'.
+v102,야채,,yachae,sayur,sayuran,명사,,野菜,야채가 신선해요.,yachaega sinseonhaeyo.,Sayurnya segar.,음식,4,Kata 채소 juga dipakai dan dianggap lebih baku dalam tulisan.
+v103,라면,,ramyeon,"ramyeon, mi instan",mi instan,명사,,,라면을 끓여요.,ramyeoneul kkeuryeoyo.,Saya memasak ramyeon.,음식,4,Berbeda dari ramen Jepang. 끓이다 ('memasak dengan air mendidih') adalah kata kerja yang biasa dipasangkan dengannya.
+v104,비빔밥,,bibimbap,bibimbap,nasi campur Korea,명사,,,비빔밥이 제일 맛있어요.,bibimbabi jeil masisseoyo.,Bibimbap paling enak.,음식,4,Dari 비비다 (mencampur) dan 밥 (nasi). Harfiahnya 'nasi campur'.
+v105,불고기,,bulgogi,bulgogi,daging panggang berbumbu,명사,,,불고기를 먹어 봤어요?,bulgogireul meogeo bwasseoyo?,Pernah makan bulgogi?,음식,4,Dari 불 (api) dan 고기 (daging).
+v106,하다,,hada,melakukan,mengerjakan; berbuat,동사,해요,,지금 숙제를 해요.,jigeum sukjereul haeyo.,Sekarang saya mengerjakan PR.,동사,4,"Kata kerja terpenting dalam Bahasa Korea. Ribuan kata benda menjadi kata kerja dengan menempelkan 하다: 공부하다, 전화하다, 운동하다. Bentuk 해요-nya tidak beraturan (하 + 여요 menjadi 해요)."
+v107,가다,,gada,pergi,berangkat,동사,가요,,학교에 가요.,hakgyoe gayo.,Saya pergi ke sekolah.,동사,4,"Vokal 아 bertemu 아요 melebur menjadi 가요, bukan 가아요."
+v108,오다,,oda,datang,tiba,동사,와요,,친구가 집에 와요.,chinguga jibe wayo.,Teman saya datang ke rumah.,동사,4,오 + 아요 melebur menjadi 와요. Hujan pun 'datang': 비가 와요 berarti 'hujan'.
+v109,먹다,먹따,meokda,makan,menyantap,동사,먹어요,,저는 매일 아침을 먹어요.,jeoneun maeil achimeul meogeoyo.,Saya makan pagi setiap hari.,동사,4,Bentuk hormat untuk orang lain adalah 드세요 atau 잘 먹겠습니다 sebelum makan.
+v110,마시다,,masida,minum,,동사,마셔요,,물을 많이 마셔요.,mureul mani masyeoyo.,Saya banyak minum air.,동사,4,마시 + 어요 melebur menjadi 마셔요. Obat tidak 'diminum' melainkan 'dimakan': 약을 먹어요.
+v111,보다,,boda,"melihat, menonton",menonton; memandang,동사,봐요,,영화를 봐요.,yeonghwareul bwayo.,Saya menonton film.,동사,4,보 + 아요 melebur menjadi 봐요. Dipakai juga untuk 'bertemu' dalam 사람을 보다.
+v112,듣다,듣따,deutda,"mendengar, mendengarkan",menyimak,동사,들어요,,음악을 들어요.,eumageul deureoyo.,Saya mendengarkan musik.,동사,4,Tidak beraturan: batchim ㄷ berubah menjadi ㄹ di depan vokal (듣다 menjadi 들어요). Kelompok ini disebut ㄷ 불규칙.
+v113,읽다,익따,ikda,membaca,,동사,읽어요,,신문을 읽어요.,sinmuneul ilgeoyo.,Saya membaca surat kabar.,동사,4,"Batchim ganda ㄺ: 읽다 dibunyikan 익따, tetapi 읽어요 dibunyikan 일거요."
+v114,쓰다,,sseuda,menulis; memakai; pahit,menulis,동사,써요,,편지를 써요.,pyeonjireul sseoyo.,Saya menulis surat.,동사,4,Vokal ㅡ hilang di depan 어요: 쓰 + 어요 menjadi 써요. Satu bentuk untuk tiga arti yang berbeda jauh.
+v115,말하다,,malhada,"berkata, berbicara",mengatakan,동사,말해요,,천천히 말해 주세요.,cheoncheonhi malhae juseyo.,Tolong bicara perlahan.,동사,4,"Dari 말 (ucapan, bahasa) + 하다. Untuk 'berbicara dengan seseorang' dipakai 이야기하다."
+v116,공부하다,,gongbuhada,belajar,menuntut ilmu,동사,공부해요,工夫,한국어를 공부해요.,hangugeoreul gongbuhaeyo.,Saya belajar bahasa Korea.,동사,4,공부하다 berarti belajar sebagai kegiatan; 배우다 berarti mempelajari sesuatu yang baru dari seseorang.
+v117,일하다,,ilhada,bekerja,,동사,일해요,,저는 은행에서 일해요.,jeoneun eunhaeng-eseo ilhaeyo.,Saya bekerja di bank.,동사,4,Dari 일 (pekerjaan) + 하다. Tempat kegiatan memakai partikel 에서.
+v118,사다,,sada,membeli,,동사,사요,,시장에서 과일을 사요.,sijang-eseo gwaireul sayo.,Saya membeli buah di pasar.,동사,4,Lawannya 팔다 (menjual). Jangan tertukar dengan 싸다 (murah).
+v119,주다,,juda,memberi,menyerahkan,동사,줘요,,물 좀 주세요.,mul jom juseyo.,Tolong beri saya air.,동사,4,-아/어 주세요 adalah pola permintaan yang paling sering Anda pakai di Korea: 도와주세요 (tolong bantu).
+v120,있다,읻따,itda,ada; punya,berada; memiliki,형용사,있어요,,교실에 학생이 있어요.,gyosire haksaeng-i isseoyo.,Di ruang kelas ada pelajar.,동사,4,"Satu kata untuk 'ada (keberadaan)' dan 'punya (kepemilikan)'. Dibunyikan 읻따, dan 있어요 dibunyikan 이써요."
+v121,없다,업따,eopda,tidak ada; tidak punya,tiada,형용사,없어요,,지금 시간이 없어요.,jigeum sigani eopseoyo.,Sekarang saya tidak punya waktu.,동사,4,"Lawan dari 있다, dan BUKAN dibentuk dengan 안. Bentuk 안 있다 tidak dipakai."
+v122,만나다,,mannada,bertemu,menjumpai,동사,만나요,,내일 친구를 만나요.,naeil chingureul mannayo.,Besok saya bertemu teman.,동사,4,"Memakai partikel OBJEK: 친구를 만나요, bukan 친구에게 만나요. Ini sering salah bagi pemula."
+v123,알다,,alda,"tahu, mengetahui",mengenal,동사,알아요,,그 사람을 알아요.,geu sarameul arayo.,Saya mengenal orang itu.,동사,5,"Batchim ㄹ hilang di depan 니다 dan 세요: 압니다, 아세요. Kelompok ini disebut ㄹ 탈락."
+v124,모르다,,moreuda,tidak tahu,tidak mengerti,동사,몰라요,,저는 잘 몰라요.,jeoneun jal mollayo.,Saya tidak begitu tahu.,동사,5,"Lawan 알다, dan berbentuk kata tersendiri (bukan 안 알다). Tidak beraturan: 르 berubah menjadi ㄹㄹ (모르 + 아요 menjadi 몰라요)."
+v125,좋아하다,조아하다,joahada,menyukai,suka,동사,좋아해요,,저는 한국 음악을 좋아해요.,jeoneun hanguk eumageul joahaeyo.,Saya menyukai musik Korea.,동사,5,"Kata KERJA, sehingga memakai partikel objek 을/를. Bandingkan 좋다 yang merupakan kata sifat dan memakai 이/가."
+v126,싫어하다,시러하다,sireohada,tidak menyukai,benci,동사,싫어해요,,저는 매운 음식을 싫어해요.,jeoneun maeun eumsigeul sireohaeyo.,Saya tidak suka makanan pedas.,동사,5,Dibunyikan 시러해요. Lebih halus bila diungkapkan dengan 안 좋아해요.
+v127,살다,,salda,"tinggal, hidup",berdiam; hidup,동사,살아요,,저는 자카르타에 살아요.,jeoneun jakareutae sarayo.,Saya tinggal di Jakarta.,동사,5,"Tempat tinggal memakai partikel 에, bukan 에서: 서울에 살아요."
+v128,자다,,jada,tidur,,동사,자요,,저는 열한 시에 자요.,jeoneun yeolhan sie jayo.,Saya tidur jam sebelas.,동사,5,"Bentuk hormatnya 주무세요, bukan 자세요, saat membicarakan orang yang lebih tua."
+v129,일어나다,이러나다,ireonada,"bangun, berdiri",bangkit,동사,일어나요,,저는 여섯 시에 일어나요.,jeoneun yeoseot sie ireonayo.,Saya bangun jam enam.,동사,5,Dibunyikan 이러나요. Dipakai untuk bangun tidur maupun berdiri dari tempat duduk.
+v130,앉다,안따,anda,duduk,,동사,앉아요,,여기에 앉으세요.,yeogie anjeuseyo.,Silakan duduk di sini.,동사,5,"Batchim ganda ㄵ: 앉다 dibunyikan 안따, 앉아요 dibunyikan 안자요."
+v131,기다리다,,gidarida,menunggu,,동사,기다려요,,조금만 기다려 주세요.,jogeumman gidaryeo juseyo.,Tolong tunggu sebentar.,동사,5,"기다리 + 어요 melebur menjadi 기다려요, pola yang sama dengan 마시다 dan 가르치다."
+v132,전화하다,,jeonhwahada,menelepon,,동사,전화해요,電話,나중에 전화할게요.,najung-e jeonhwahalgeyo.,Saya akan menelepon nanti.,동사,5,Orang yang ditelepon memakai partikel 에게 atau 한테: 친구한테 전화해요.
+v133,운동하다,,undonghada,berolahraga,olahraga,동사,운동해요,運動,매일 아침에 운동해요.,maeil achime undonghaeyo.,Saya berolahraga setiap pagi.,동사,5,운동 juga berarti 'gerakan' dalam arti kegiatan sosial.
+v134,배우다,,baeuda,mempelajari,belajar,동사,배워요,,저는 한국어를 배워요.,jeoneun hangugeoreul baewoyo.,Saya mempelajari bahasa Korea.,동사,5,배우 + 어요 menjadi 배워요. Yang mengajar adalah 가르치다.
+v135,가르치다,,gareuchida,mengajar,mengajarkan,동사,가르쳐요,,선생님이 한국어를 가르쳐요.,seonsaengnimi hangugeoreul gareuchyeoyo.,Guru mengajar bahasa Korea.,동사,5,Jangan tertukar dengan 가리키다 (menunjuk); bunyinya mirip tetapi artinya berbeda.
+v136,좋다,조타,jota,"bagus, baik",baik; enak (perasaan),형용사,좋아요,,날씨가 좋아요.,nalssiga joayo.,Cuacanya bagus.,형용사,5,"Kata SIFAT, sehingga memakai 이/가: 이 책이 좋아요. Untuk 'saya suka buku ini' dipakai kata kerja 좋아하다."
+v137,나쁘다,,nappeuda,"buruk, jelek",jahat,형용사,나빠요,,오늘은 기분이 나빠요.,oneureun gibuni nappayo.,Hari ini perasaan saya buruk.,형용사,5,Vokal ㅡ hilang: 나쁘 + 아요 menjadi 나빠요. Pola yang sama dengan 바쁘다 dan 예쁘다.
+v138,크다,,keuda,besar,tinggi (badan),형용사,커요,,이 가방은 너무 커요.,i gabang-eun neomu keoyo.,Tas ini terlalu besar.,형용사,5,"크 + 어요 menjadi 커요. Untuk orang, 키가 커요 berarti 'tinggi'."
+v139,작다,작따,jakda,kecil,mungil,형용사,작아요,,신발이 작아요.,sinbari jagayo.,Sepatunya kecil.,형용사,5,"Jangan tertukar dengan 적다 (sedikit jumlahnya). 작다 tentang UKURAN, 적다 tentang JUMLAH."
+v140,많다,만타,manta,banyak,,형용사,많아요,,사람이 많아요.,sarami manayo.,Orangnya banyak.,형용사,5,"Dibunyikan 만타, dan 많아요 dibunyikan 마나요. Bentuk keterangannya 많이 (dibunyikan 마니)."
+v141,적다,적따,jeokda,sedikit,kurang (jumlah),형용사,적어요,,학생이 적어요.,haksaeng-i jeogeoyo.,Pelajarnya sedikit.,형용사,5,Lawan dari 많다. Kata yang sama juga berarti 'mencatat' sebagai kata kerja.
+v142,비싸다,,bissada,mahal,,형용사,비싸요,,이거 너무 비싸요.,igeo neomu bissayo.,Ini terlalu mahal.,형용사,5,"Kalimat yang berguna saat menawar di pasar: 너무 비싸요, 좀 깎아 주세요."
+v143,싸다,,ssada,murah,,형용사,싸요,,이 가게가 더 싸요.,i gagega deo ssayo.,Toko ini lebih murah.,형용사,5,Memakai ㅆ yang tegang. 사요 (membeli) dan 싸요 (murah) hanya dibedakan oleh ketegangan huruf awalnya.
+v144,맛있다,마싣따,masitda,"enak, lezat",sedap,형용사,맛있어요,,김치가 맛있어요.,gimchiga masisseoyo.,Kimchinya enak.,형용사,5,Dari 맛 (rasa) + 있다 (ada). Dibunyikan 마시써요.
+v145,맛없다,마섭따,maseopda,tidak enak,hambar,형용사,맛없어요,,이 음식은 맛없어요.,i eumsigeun maseopseoyo.,Makanan ini tidak enak.,형용사,5,"Dari 맛 + 없다. Lafal bakunya 마덥써요, berbeda pola dari 맛있어요 yang dibaca 마시써요."
+v146,예쁘다,,yeppeuda,"cantik, indah",manis (rupa),형용사,예뻐요,,꽃이 정말 예뻐요.,kkochi jeongmal yeppeoyo.,Bunganya sungguh indah.,형용사,5,"예쁘 + 어요 menjadi 예뻐요. Dipakai untuk benda maupun orang, dan 멋있다 lebih lazim untuk memuji lelaki."
+v147,재미있다,재미읻따,jaemiitda,"menarik, menyenangkan",seru; lucu,형용사,재미있어요,,한국어 공부가 재미있어요.,hangugeo gongbuga jaemiisseoyo.,Belajar bahasa Korea itu menyenangkan.,형용사,5,Lawannya 재미없다 (membosankan).
+v148,어렵다,어렵따,eoryeopda,sulit,susah,형용사,어려워요,,발음이 어려워요.,bareumi eoryeowoyo.,Pelafalannya sulit.,형용사,5,Tidak beraturan: batchim ㅂ berubah menjadi 우 di depan vokal (어렵다 menjadi 어려워요). Kelompok ini disebut ㅂ 불규칙.
+v149,쉽다,쉽따,swipda,mudah,gampang,형용사,쉬워요,,한글은 쉬워요.,hangeureun swiwoyo.,Hangeul itu mudah.,형용사,5,ㅂ 불규칙 seperti 어렵다: 쉽다 menjadi 쉬워요.
+v150,바쁘다,,bappeuda,sibuk,,형용사,바빠요,,요즘 많이 바빠요.,yojeum mani bappayo.,Belakangan ini saya sangat sibuk.,형용사,5,Vokal ㅡ hilang: 바쁘 + 아요 menjadi 바빠요.
+v151,피곤하다,,pigonhada,lelah,capek,형용사,피곤해요,疲困,오늘 너무 피곤해요.,oneul neomu pigonhaeyo.,Hari ini saya sangat lelah.,형용사,5,"Kata Sino-Korea + 하다 yang berupa kata SIFAT, bukan kata kerja."
+v152,아프다,,apeuda,sakit,nyeri,형용사,아파요,,머리가 아파요.,meoriga apayo.,Kepala saya sakit.,형용사,5,"Bagian yang sakit menjadi SUBJEK: 머리가 아파요, bukan 머리를 아파요."
+v153,아주,,aju,sangat,amat,부사,,,이 음식은 아주 맛있어요.,i eumsigeun aju masisseoyo.,Makanan ini sangat enak.,부사,6,"Bermakna positif dan netral, berbeda dari 너무 yang pada dasarnya berarti 'berlebihan'."
+v154,너무,,neomu,terlalu; sangat,terlalu,부사,,,너무 비싸요.,neomu bissayo.,Terlalu mahal.,부사,6,"Arti asalnya 'melewati batas', tetapi dalam percakapan masa kini sangat sering dipakai hanya sebagai penguat: 너무 좋아요 berarti 'bagus sekali'."
+v155,조금,,jogeum,sedikit,agak; sebentar,부사,,,조금 매워요.,jogeum maewoyo.,Sedikit pedas.,부사,6,"Bentuk pendeknya 좀, yang juga dipakai untuk memperhalus permintaan: 물 좀 주세요."
+v156,많이,마니,mani,banyak (keterangan),dengan banyak,부사,,,많이 드세요.,mani deuseyo.,Silakan makan banyak.,부사,6,Dibunyikan 마니. 많이 드세요 adalah ucapan tuan rumah saat menyuguhkan makanan.
+v157,빨리,,ppalli,"cepat, segera",dengan cepat,부사,,,빨리 오세요.,ppalli oseyo.,Datanglah cepat.,부사,6,빨리빨리 adalah ungkapan yang sering dipakai orang Korea sendiri untuk menggambarkan tempo hidup mereka.
+v158,천천히,,cheoncheonhi,"perlahan, lambat",dengan perlahan,부사,,,천천히 말해 주세요.,cheoncheonhi malhae juseyo.,Tolong bicara perlahan.,부사,6,Kalimat yang paling berguna bagi pemula ketika lawan bicara berbicara terlalu cepat.
+v159,같이,가치,gachi,bersama,sama-sama,부사,,,같이 점심 먹어요.,gachi jeomsim meogeoyo.,Ayo makan siang bersama.,부사,6,Dibunyikan 가치 karena palatalisasi. Kata 함께 bermakna sama tetapi lebih baku.
+v160,먼저,,meonjeo,lebih dahulu,pertama-tama,부사,,,저 먼저 갈게요.,jeo meonjeo galgeyo.,Saya pergi dulu.,부사,6,먼저 가세요 ('silakan dahulu') adalah ungkapan sopan saat memberi jalan.
+v161,다시,,dasi,"lagi, sekali lagi",kembali,부사,,,다시 말해 주세요.,dasi malhae juseyo.,Tolong ulangi.,부사,6,다시 만나요 berarti 'mari bertemu lagi'.
+v162,벌써,,beolsseo,sudah (lebih cepat dari dugaan),sudah,부사,,,벌써 끝났어요?,beolsseo kkeunnasseoyo?,Sudah selesai?,부사,6,Mengandung rasa terkejut. Untuk 'sudah' yang netral dipakai 이미 atau cukup bentuk lampau.
+v163,아직,,ajik,"belum, masih",masih,부사,,,아직 안 먹었어요.,ajik an meogeosseoyo.,Saya belum makan.,부사,6,"'Belum' dalam Bahasa Korea adalah gabungan 아직 + bentuk negatif, bukan satu kata tersendiri."
+v164,정말,,jeongmal,"sungguh, benar-benar",betul,부사,,,정말 고맙습니다.,jeongmal gomapseumnida.,Sungguh terima kasih.,부사,6,정말요? dipakai untuk menanggapi dengan arti 'oh ya?'.
+v165,제일,,jeil,paling,ter-,부사,,第一,이게 제일 좋아요.,ige jeil joayo.,Yang ini paling bagus.,부사,6,Kata 가장 bermakna sama dan lebih baku dalam tulisan.
+v166,그리고,,geurigo,"dan, lalu",kemudian,부사,,,밥을 먹었어요. 그리고 커피를 마셨어요.,babeul meogeosseoyo. geurigo keopireul masyeosseoyo.,Saya makan. Lalu saya minum kopi.,부사,6,Menghubungkan dua KALIMAT. Untuk menghubungkan dua KATA BENDA dipakai 하고 atau 와/과.
+v167,하지만,,hajiman,tetapi,namun,부사,,,비싸요. 하지만 맛있어요.,bissayo. hajiman masisseoyo.,Mahal. Tetapi enak.,부사,6,Kata 그렇지만 dan 그런데 bermakna dekat; 그런데 lebih santai.
+v168,그래서,,geuraeseo,"jadi, karena itu",maka,부사,,,비가 왔어요. 그래서 집에 있었어요.,biga wasseoyo. geuraeseo jibe isseosseoyo.,Hujan. Jadi saya tinggal di rumah.,부사,6,Menyatakan AKIBAT. Sebabnya disebut lebih dahulu.
+v169,그런데,,geureonde,"tapi, ngomong-ngomong",namun; omong-omong,부사,,,그런데 이거 얼마예요?,geureonde igeo eolmayeyo?,"Ngomong-ngomong, ini berapa?",부사,6,"Punya dua tugas: menyatakan pertentangan, dan mengalihkan topik dengan halus. Bentuk pendeknya 근데."
+v170,또,,tto,"lagi, juga",serta,부사,,,또 오세요.,tto oseyo.,Datang lagi ya.,부사,6,또 오세요 adalah ucapan pemilik toko kepada pelanggan yang pulang.
+v171,매일,,maeil,setiap hari,tiap hari,명사,,每日,매일 한국어를 공부해요.,maeil hangugeoreul gongbuhaeyo.,Saya belajar bahasa Korea setiap hari.,시간,6,매 (setiap) juga dipakai pada 매주 (setiap minggu) dan 매년 (setiap tahun).
+v172,보통,,botong,biasanya,umumnya; biasa,부사,,普通,보통 일곱 시에 일어나요.,botong ilgop sie ireonayo.,Biasanya saya bangun jam tujuh.,부사,6,Bisa menjadi kata benda yang berarti 'hal yang biasa'.
+v173,날씨,,nalssi,cuaca,,명사,,,오늘 날씨가 어때요?,oneul nalssiga eottaeyo?,Bagaimana cuaca hari ini?,자연,6,"Pertanyaan pembuka percakapan yang lazim, sama seperti dalam Bahasa Indonesia."
+v174,덥다,덥따,deopda,panas (cuaca),panas,형용사,더워요,,여름에는 아주 더워요.,yeoreumeneun aju deowoyo.,Pada musim panas sangat panas.,자연,6,ㅂ 불규칙: 덥다 menjadi 더워요. Untuk benda yang panas dipakai 뜨겁다.
+v175,춥다,춥따,chupda,dingin (cuaca),dingin,형용사,추워요,,겨울에 한국은 많이 추워요.,gyeoure hangugeun mani chuwoyo.,Pada musim dingin Korea sangat dingin.,자연,6,ㅂ 불규칙: 춥다 menjadi 추워요. Untuk benda yang dingin dipakai 차갑다.
+v176,따뜻하다,따뜨타다,ttatteutada,hangat,,형용사,따뜻해요,,봄 날씨가 따뜻해요.,bom nalssiga ttatteutaeyo.,Cuaca musim semi hangat.,자연,6,Dibunyikan 따뜨태요 karena ㅅ dinetralkan menjadi ㄷ lalu melebur dengan ㅎ.
+v177,시원하다,,siwonhada,"sejuk, segar",sejuk,형용사,시원해요,,가을에는 시원해요.,gaeureneun siwonhaeyo.,Pada musim gugur udaranya sejuk.,자연,6,"Dipakai juga untuk rasa lega setelah makan sup panas, suatu pemakaian yang khas Korea."
+v178,비,,bi,hujan,,명사,,,비가 와요.,biga wayo.,Hujan turun.,자연,6,"Hujan 'datang' (비가 와요) atau 'turun' (비가 내려요), tidak pernah dipakai dengan kata kerja 'ada'."
+v179,눈,,nun,salju; mata,salju; mata,명사,,,겨울에 눈이 많이 와요.,gyeoure nuni mani wayo.,Pada musim dingin banyak turun salju.,자연,6,"Dua kata berbeda yang ejaannya sama. Dalam ucapan baku, 눈 (salju) dilafalkan lebih panjang daripada 눈 (mata), tetapi tulisannya sama."
+v180,바람,,baram,angin,,명사,,,바람이 시원해요.,barami siwonhaeyo.,Anginnya sejuk.,자연,6,바람이 불어요 berarti 'angin bertiup'.

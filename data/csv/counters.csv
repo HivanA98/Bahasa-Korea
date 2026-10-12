@@ -1,0 +1,19 @@
+id,penggolong,arti,sistem,nilai_contoh,contoh,contoh_arti,stage,catatan
+c01,개,buah (benda umum),native,2,사과 두 개 주세요.,Tolong dua buah apel.,3,"Penggolong paling umum. Bila tidak tahu penggolong yang tepat untuk sebuah benda, 개 hampir selalu bisa dipakai."
+c02,명,orang,native,3,학생이 세 명 있어요.,Ada tiga pelajar.,3,Penggolong netral untuk orang. Bentuk hormatnya 분.
+c03,분,orang (hormat),native,2,선생님 두 분이 오셨어요.,Dua orang guru telah datang.,4,"HATI-HATI: 분 juga berarti 'menit', tetapi menit memakai angka Sino-Korea. 두 분 berarti dua orang, 이 분 berarti dua menit."
+c04,마리,ekor (hewan),native,1,개 한 마리를 키워요.,Saya memelihara seekor anjing.,4,"Dipakai untuk semua hewan, dari ikan sampai sapi."
+c05,권,buah (buku),native,3,책 세 권을 샀어요.,Saya membeli tiga buku.,4,"Khusus untuk benda berjilid: buku, majalah, buku catatan."
+c06,장,lembar,native,2,표 두 장 주세요.,Tolong dua lembar tiket.,4,"Untuk benda tipis dan lembaran: kertas, tiket, foto."
+c07,대,"unit (mesin, kendaraan)",native,1,컴퓨터 한 대가 있어요.,Ada satu komputer.,5,"Untuk benda bermesin: mobil, komputer, mesin cuci, pendingin ruangan."
+c08,잔,"gelas, cangkir",native,1,커피 한 잔 주세요.,Tolong satu cangkir kopi.,3,Untuk minuman dalam gelas atau cangkir. Botol memakai 병.
+c09,병,botol,native,2,물 두 병 주세요.,Tolong dua botol air.,4,Kata yang sama dengan 병 (penyakit) tetapi aksara asalnya berbeda.
+c10,그릇,"mangkuk, porsi",native,1,밥 한 그릇 더 주세요.,Tolong tambah satu porsi nasi.,5,"Untuk makanan bermangkuk: nasi, sup, bibimbap."
+c11,살,tahun (umur),native,20,저는 스무 살이에요.,Saya dua puluh tahun.,3,Umur memakai angka asli Korea: 스무 살. Bentuk Sino-Korea 세 juga ada tetapi hanya untuk ragam resmi dan tulisan.
+c12,시,pukul (titik waktu),native,3,세 시에 만나요.,Mari bertemu jam tiga.,3,"Jam memakai angka asli Korea, tetapi menitnya memakai Sino-Korea. Jam 3.30 adalah 세 시 삼십 분 — satu kalimat, dua sistem angka."
+c13,시간,jam (lamanya),native,2,두 시간 동안 공부했어요.,Saya belajar selama dua jam.,4,"시 adalah TITIK waktu, 시간 adalah LAMA. 두 시 berarti jam dua, 두 시간 berarti dua jam lamanya."
+c14,번,kali,native,3,세 번 갔어요.,Saya pergi tiga kali.,4,"Sebagai NOMOR (nomor bus, nomor urut), 번 justru memakai angka Sino-Korea: 이번 버스 berarti bus nomor dua."
+c15,분,menit,sino,30,삼십 분 기다렸어요.,Saya menunggu tiga puluh menit.,3,"Memakai angka Sino-Korea, berbeda dari 분 yang berarti 'orang (hormat)'. Tulisannya sama, sistem angkanya berbeda."
+c16,원,won (mata uang),sino,1000,천 원이에요.,Harganya seribu won.,3,"Uang selalu memakai angka Sino-Korea. 10.000 won adalah 만 원, bukan 십천 원."
+c17,층,lantai,sino,3,사무실은 삼 층에 있어요.,Kantornya ada di lantai tiga.,5,Memakai angka Sino-Korea.
+c18,인분,porsi (untuk sekian orang),sino,2,삼겹살 이 인분 주세요.,Tolong samgyeopsal untuk dua orang.,5,"Kalimat wajib di restoran daging Korea, karena pesanan dihitung per porsi orang, bukan per piring."

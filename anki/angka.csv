@@ -1,0 +1,61 @@
+#separator:Comma
+#html:false
+#tags column:4
+"0","Sino-Korea: 영","Nol punya dua kata: 영 untuk matematika dan nilai, dan 공 untuk nomor telepon.","korea angka tahap2"
+"1","Sino-Korea: 일 · asli Korea: 하나 (+ penggolong: 한)","하나 bila berdiri sendiri (saat berhitung), 한 bila diikuti penggolong: 한 개, 한 명, 한 시.","korea angka tahap2"
+"2","Sino-Korea: 이 · asli Korea: 둘 (+ penggolong: 두)","둘 menjadi 두: 두 개, 두 명, 두 시.","korea angka tahap2"
+"3","Sino-Korea: 삼 · asli Korea: 셋 (+ penggolong: 세)","셋 menjadi 세: 세 개. Batchim ㅅ hilang di depan penggolong.","korea angka tahap2"
+"4","Sino-Korea: 사 · asli Korea: 넷 (+ penggolong: 네)","넷 menjadi 네: 네 명. Angka Sino-Korea 사 berbunyi sama dengan kata 'mati' (死), sehingga lantai dan kamar bernomor 4 kadang dihindari.","korea angka tahap2"
+"5","Sino-Korea: 오 · asli Korea: 다섯","Dari angka lima ke atas, bentuk asli Korea tidak berubah di depan penggolong: 다섯 개.","korea angka tahap2"
+"6","Sino-Korea: 육 · asli Korea: 여섯","육 menjadi 륙 setelah ㄴ atau ㄹ pada angka gabungan: 십육 dibunyikan 심뉵.","korea angka tahap2"
+"7","Sino-Korea: 칠 · asli Korea: 일곱","일곱 개, 일곱 시.","korea angka tahap2"
+"8","Sino-Korea: 팔 · asli Korea: 여덟","여덟 berbatchim ganda ㄼ dan dibunyikan 여덜.","korea angka tahap2"
+"9","Sino-Korea: 구 · asli Korea: 아홉","아홉 개, 아홉 시.","korea angka tahap2"
+"10","Sino-Korea: 십 · asli Korea: 열","열 dipakai untuk benda dan jam: 열 개, 열 시.","korea angka tahap2"
+"11","Sino-Korea: 십일 · asli Korea: 열하나 (+ penggolong: 열한)","Angka belasan dibentuk dengan menempelkan: 열 + 하나. Bentuk di depan penggolong 열한 시 (jam sebelas).","korea angka tahap3"
+"12","Sino-Korea: 십이 · asli Korea: 열둘 (+ penggolong: 열두)","열두 시 berarti jam dua belas. Bentuk 열둘 시 salah.","korea angka tahap3"
+"20","Sino-Korea: 이십 · asli Korea: 스물 (+ penggolong: 스무)","스물 menjadi 스무 di depan penggolong: 스무 살 (dua puluh tahun). Inilah bentuk tak beraturan kelima.","korea angka tahap3"
+"30","Sino-Korea: 삼십 · asli Korea: 서른","Angka asli puluhan tidak lagi beraturan bentuknya: 서른, 마흔, 쉰. Semuanya harus dihafal.","korea angka tahap4"
+"40","Sino-Korea: 사십 · asli Korea: 마흔","마흔 살 (empat puluh tahun).","korea angka tahap4"
+"50","Sino-Korea: 오십 · asli Korea: 쉰","쉰 살. Di atas angka ini, orang Korea pun lebih sering memakai angka Sino-Korea untuk umur.","korea angka tahap4"
+"60","Sino-Korea: 육십 · asli Korea: 예순","예순. Jarang terdengar dalam percakapan sehari-hari.","korea angka tahap5"
+"100","Sino-Korea: 백","Tidak ada bentuk asli Korea untuk 100. Cukup 백, bukan 일백.","korea angka tahap3"
+"1000","Sino-Korea: 천","Cukup 천, bukan 일천. 2000 adalah 이천.","korea angka tahap3"
+"10000","Sino-Korea: 만","Angka Korea dikelompokkan per EMPAT angka, bukan per tiga seperti Bahasa Indonesia. Sepuluh ribu adalah satu 만, dan 100.000 adalah 십만 ('sepuluh laksa'). Inilah sumber kebingungan saat menyebut harga.","korea angka tahap4"
+"100000000","Sino-Korea: 억","억 adalah 100 juta, yaitu 만 x 만. Harga rumah dan gaji tahunan di Korea biasa disebut dengan satuan ini.","korea angka tahap6"
+"개","buah (benda umum) (angka asli Korea)","사과 두 개 주세요. = Tolong dua buah apel.
+Penggolong paling umum. Bila tidak tahu penggolong yang tepat untuk sebuah benda, 개 hampir selalu bisa dipakai.","korea penggolong tahap3"
+"명","orang (angka asli Korea)","학생이 세 명 있어요. = Ada tiga pelajar.
+Penggolong netral untuk orang. Bentuk hormatnya 분.","korea penggolong tahap3"
+"분","orang (hormat) (angka asli Korea)","선생님 두 분이 오셨어요. = Dua orang guru telah datang.
+HATI-HATI: 분 juga berarti 'menit', tetapi menit memakai angka Sino-Korea. 두 분 berarti dua orang, 이 분 berarti dua menit.","korea penggolong tahap4"
+"마리","ekor (hewan) (angka asli Korea)","개 한 마리를 키워요. = Saya memelihara seekor anjing.
+Dipakai untuk semua hewan, dari ikan sampai sapi.","korea penggolong tahap4"
+"권","buah (buku) (angka asli Korea)","책 세 권을 샀어요. = Saya membeli tiga buku.
+Khusus untuk benda berjilid: buku, majalah, buku catatan.","korea penggolong tahap4"
+"장","lembar (angka asli Korea)","표 두 장 주세요. = Tolong dua lembar tiket.
+Untuk benda tipis dan lembaran: kertas, tiket, foto.","korea penggolong tahap4"
+"대","unit (mesin, kendaraan) (angka asli Korea)","컴퓨터 한 대가 있어요. = Ada satu komputer.
+Untuk benda bermesin: mobil, komputer, mesin cuci, pendingin ruangan.","korea penggolong tahap5"
+"잔","gelas, cangkir (angka asli Korea)","커피 한 잔 주세요. = Tolong satu cangkir kopi.
+Untuk minuman dalam gelas atau cangkir. Botol memakai 병.","korea penggolong tahap3"
+"병","botol (angka asli Korea)","물 두 병 주세요. = Tolong dua botol air.
+Kata yang sama dengan 병 (penyakit) tetapi aksara asalnya berbeda.","korea penggolong tahap4"
+"그릇","mangkuk, porsi (angka asli Korea)","밥 한 그릇 더 주세요. = Tolong tambah satu porsi nasi.
+Untuk makanan bermangkuk: nasi, sup, bibimbap.","korea penggolong tahap5"
+"살","tahun (umur) (angka asli Korea)","저는 스무 살이에요. = Saya dua puluh tahun.
+Umur memakai angka asli Korea: 스무 살. Bentuk Sino-Korea 세 juga ada tetapi hanya untuk ragam resmi dan tulisan.","korea penggolong tahap3"
+"시","pukul (titik waktu) (angka asli Korea)","세 시에 만나요. = Mari bertemu jam tiga.
+Jam memakai angka asli Korea, tetapi menitnya memakai Sino-Korea. Jam 3.30 adalah 세 시 삼십 분 — satu kalimat, dua sistem angka.","korea penggolong tahap3"
+"시간","jam (lamanya) (angka asli Korea)","두 시간 동안 공부했어요. = Saya belajar selama dua jam.
+시 adalah TITIK waktu, 시간 adalah LAMA. 두 시 berarti jam dua, 두 시간 berarti dua jam lamanya.","korea penggolong tahap4"
+"번","kali (angka asli Korea)","세 번 갔어요. = Saya pergi tiga kali.
+Sebagai NOMOR (nomor bus, nomor urut), 번 justru memakai angka Sino-Korea: 이번 버스 berarti bus nomor dua.","korea penggolong tahap4"
+"분","menit (angka Sino-Korea)","삼십 분 기다렸어요. = Saya menunggu tiga puluh menit.
+Memakai angka Sino-Korea, berbeda dari 분 yang berarti 'orang (hormat)'. Tulisannya sama, sistem angkanya berbeda.","korea penggolong tahap3"
+"원","won (mata uang) (angka Sino-Korea)","천 원이에요. = Harganya seribu won.
+Uang selalu memakai angka Sino-Korea. 10.000 won adalah 만 원, bukan 십천 원.","korea penggolong tahap3"
+"층","lantai (angka Sino-Korea)","사무실은 삼 층에 있어요. = Kantornya ada di lantai tiga.
+Memakai angka Sino-Korea.","korea penggolong tahap5"
+"인분","porsi (untuk sekian orang) (angka Sino-Korea)","삼겹살 이 인분 주세요. = Tolong samgyeopsal untuk dua orang.
+Kalimat wajib di restoran daging Korea, karena pesanan dihitung per porsi orang, bukan per piring.","korea penggolong tahap5"

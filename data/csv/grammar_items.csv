@@ -1,0 +1,61 @@
+id,topik,stage,jenis,soal,soal_ko,bahasa_pilihan,pilihan,jawaban,penjelasan
+g01-01,g01,1,mcq,Apa yang menentukan pilihan antara 이에요 dan 예요?,,id,Ada atau tidaknya batchim pada kata benda sebelumnya; Jenis kelamin pembicara; Tingkat kesopanan kalimat; Panjang kata bendanya,Ada atau tidaknya batchim pada kata benda sebelumnya,"Berbatchim memakai 이에요 (학생이에요), berakhir vokal memakai 예요 (의사예요)."
+g01-02,g01,1,cloze,Lengkapi: 'Saya pelajar.',저는 학생___.,ko,이에요; 예요; 이예요; 에요,이에요,"학생 berakhir dengan batchim ㅇ, jadi 이에요. Bentuk 이예요 tidak ada dalam ejaan baku."
+g01-03,g01,1,cloze,Lengkapi: 'Teman saya dokter.',제 친구는 의사___.,ko,예요; 이에요; 이요; 에요,예요,"의사 berakhir dengan vokal ㅏ, jadi 예요."
+g01-04,g01,1,mcq,Bagaimana mengatakan 'Saya bukan pelajar'?,,ko,저는 학생이 아니에요.; 저는 학생 안 이에요.; 저는 학생이에요 아니요.; 저는 안 학생이에요.,저는 학생이 아니에요.,"Bentuk negatif dari 이에요 adalah kata terpisah 아니에요, dan kata bendanya memakai partikel 이/가."
+g01-05,g01,1,mcq,Di mana kata kerja diletakkan dalam kalimat Bahasa Korea?,,id,"Selalu di akhir kalimat; Selalu sesudah subjek, seperti Bahasa Indonesia; Selalu di awal kalimat; Bebas, tergantung penekanan",Selalu di akhir kalimat,Urutan dasarnya subjek - objek - kata kerja. 저는 밥을 먹어요 harfiahnya 'saya nasi makan'.
+g02-01,g02,1,cloze,Lengkapi dengan partikel topik yang tepat.,선생님___ 한국 사람이에요.,ko,은; 는; 이; 가,은,"선생님 berakhir dengan batchim ㅁ, jadi 은."
+g02-02,g02,1,cloze,Lengkapi dengan partikel topik yang tepat.,저___ 인도네시아 사람이에요.,ko,는; 은; 가; 를,는,"저 berakhir dengan vokal, jadi 는."
+g02-03,g02,1,mcq,Bagaimana partikel ditulis terhadap kata sebelumnya?,,id,Menempel tanpa spasi; Dipisah dengan spasi; Dipisah dengan tanda hubung; Boleh keduanya,Menempel tanpa spasi,"Partikel selalu menempel: 저는, bukan 저 는. Spasi dalam Bahasa Korea memisahkan kata, dan partikel bukan kata yang berdiri sendiri."
+g02-04,g02,1,mcq,Apa yang ditandai oleh 은/는?,,id,"Topik, yaitu hal yang sedang dibicarakan; Subjek yang melakukan perbuatan; Objek yang dikenai perbuatan; Tempat terjadinya perbuatan","Topik, yaitu hal yang sedang dibicarakan","Penanda subjek adalah 이/가, penanda objek 을/를. 은/는 menandai topik, yang bisa berupa salah satu dari ketiganya."
+g02-05,g02,1,mcq,Kalimat 저는 커피는 안 마셔요 memuat 는 dua kali. Apa fungsi yang kedua?,저는 커피는 안 마셔요.,id,Membandingkan: 'kopi (berbeda dari minuman lain) tidak saya minum'; Menandai kopi sebagai subjek kalimat; Kesalahan tata bahasa; Menegaskan bahwa kopinya banyak,Membandingkan: 'kopi (berbeda dari minuman lain) tidak saya minum',은/는 yang kedua membawa nuansa pembandingan. Inilah salah satu tugasnya selain menandai topik.
+g03-01,g03,2,cloze,Lengkapi dengan partikel subjek yang tepat.,책___ 있어요.,ko,이; 가; 은; 를,이,"책 berakhir dengan batchim ㄱ, jadi 이. 책이 dibunyikan 채기."
+g03-02,g03,2,cloze,Lengkapi: 'Teman saya datang.',친구___ 왔어요.,ko,가; 이; 는; 를,가,"친구 berakhir dengan vokal, jadi 가."
+g03-03,g03,2,mcq,Bagaimana bentuk 저 bila diberi partikel subjek?,,ko,제가; 저가; 저이; 제이,제가,저 + 가 menjadi 제가. Begitu pula 나 menjadi 내가 dan 누구 menjadi 누가.
+g03-04,g03,2,mcq,Pada pertanyaan 누가 왔어요? jawaban mana yang paling wajar?,누가 왔어요?,ko,친구가 왔어요.; 친구는 왔어요.; 친구를 왔어요.; 친구에 왔어요.,친구가 왔어요.,"Jawaban atas 'siapa yang...' adalah informasi baru, sehingga memakai 이/가."
+g03-05,g03,2,mcq,Mana kalimat yang benar untuk 'Kepala saya sakit'?,,ko,머리가 아파요.; 머리를 아파요.; 머리에 아파요.; 머리도 아파요.,머리가 아파요.,"아프다 adalah kata sifat, dan kata sifat tidak punya objek. Bagian yang sakit menjadi subjek dengan 이/가."
+g04-01,g04,2,cloze,Lengkapi: 'Saya makan nasi.',저는 밥___ 먹어요.,ko,을; 를; 이; 는,을,"밥 berakhir dengan batchim ㅂ, jadi 을. 밥을 dibunyikan 바블."
+g04-02,g04,2,cloze,Lengkapi: 'Saya minum kopi.',커피___ 마셔요.,ko,를; 을; 가; 에,를,"커피 berakhir dengan vokal, jadi 를."
+g04-03,g04,2,mcq,Mana susunan kata yang benar untuk 'Saya belajar bahasa Korea'?,,ko,저는 한국어를 공부해요.; 저는 공부해요 한국어를.; 공부해요 저는 한국어를.; 한국어를 공부해요 저는.,저는 한국어를 공부해요.,Kata kerja wajib di akhir. Susunan lain pada pilihan meletakkan kata kerja bukan di akhir.
+g04-04,g04,2,mcq,Partikel apa yang dipakai pada 'bertemu teman'?,친구___ 만나요.,ko,를; 에게; 하고; 에,를,만나다 memakai partikel objek walaupun Bahasa Indonesia memakai 'dengan'. 친구를 만나요.
+g04-05,g04,2,mcq,Mengapa 저는 밥을 먹어요 dan 밥을 저는 먹어요 sama-sama bisa dipahami?,,id,"Karena peran setiap kata ditandai partikelnya, bukan posisinya; Karena Bahasa Korea tidak punya aturan urutan kata; Karena keduanya salah dan hanya dipakai dalam puisi; Karena 밥 bisa menjadi subjek maupun objek","Karena peran setiap kata ditandai partikelnya, bukan posisinya",Inilah guna partikel. Yang tetap tidak boleh berubah hanyalah kedudukan kata kerja di akhir kalimat.
+g05-01,g05,3,cloze,Lengkapi: 'Saya belajar di perpustakaan.',도서관___ 공부해요.,ko,에서; 에; 로; 까지,에서,"공부하다 adalah kegiatan, sehingga tempatnya memakai 에서."
+g05-02,g05,3,cloze,Lengkapi: 'Saya pergi ke sekolah.',학교___ 가요.,ko,에; 에서; 를; 도,에,"가다 menyebut tujuan, sehingga memakai 에."
+g05-03,g05,3,cloze,Lengkapi: 'Saya tinggal di Seoul.',저는 서울___ 살아요.,ko,에; 에서; 로; 하고,에,"살다 menyatakan keberadaan, bukan kegiatan, sehingga memakai 에 walaupun artinya 'di'."
+g05-04,g05,3,mcq,Mana kalimat yang benar?,,ko,오늘 친구를 만나요.; 오늘에 친구를 만나요.; 오늘에서 친구를 만나요.; 오늘를 친구를 만나요.,오늘 친구를 만나요.,"오늘, 어제, 내일, 지금 tidak memakai partikel waktu 에."
+g05-05,g05,3,mcq,Apa arti 집에서 학교까지?,집에서 학교까지,id,Dari rumah sampai sekolah; Di rumah dan di sekolah; Ke rumah lewat sekolah; Rumah dan sekolah bersama-sama,Dari rumah sampai sekolah,"에서 di sini berarti 'dari', dan 까지 berarti 'sampai'. Pasangan ini sering muncul bersama."
+g06-01,g06,3,mcq,Apa bentuk 해요 dari 먹다?,먹다,ko,먹어요; 먹아요; 머거요; 먹요,먹어요,"Vokal batang kata adalah ㅓ, bukan ㅏ atau ㅗ, sehingga memakai 어요. Tulisannya 먹어요 walaupun dibunyikan 머거요."
+g06-02,g06,3,mcq,Apa bentuk 해요 dari 오다?,오다,ko,와요; 오아요; 오어요; 오요,와요,오 + 아요 melebur menjadi 와요.
+g06-03,g06,3,mcq,Apa bentuk 해요 dari 공부하다?,공부하다,ko,공부해요; 공부하요; 공부아요; 공부어요,공부해요,Semua kata berakhiran 하다 menjadi 해요. Ini bentuk tidak beraturan yang paling sering dipakai.
+g06-04,g06,3,mcq,Apa bentuk 해요 dari 어렵다 (sulit)?,어렵다,ko,어려워요; 어렵어요; 어려버요; 어렵아요,어려워요,"ㅂ 불규칙: batchim ㅂ berubah menjadi 우, lalu bergabung menjadi 어려워요. Begitu pula 쉽다 menjadi 쉬워요 dan 춥다 menjadi 추워요."
+g06-05,g06,3,mcq,Kalimat 가요 bisa berarti apa saja?,가요,id,Saya pergi / Apakah Anda pergi? / Pergilah / Ayo pergi; Hanya 'saya pergi'; Hanya 'ayo pergi'; Hanya pertanyaan 'apakah Anda pergi?',Saya pergi / Apakah Anda pergi? / Pergilah / Ayo pergi,해요체 tidak membedakan jenis kalimat; nada bicara dan keadaanlah yang menentukan.
+g07-01,g07,4,mcq,Apa bentuk lampau dari 먹어요?,먹어요,ko,먹었어요; 먹았어요; 먹어었어요; 먹겠어요,먹었어요,Vokal ㅓ memakai 었: 먹었어요. Dibunyikan 머거써요.
+g07-02,g07,4,mcq,Apa bentuk lampau dari 가요?,가요,ko,갔어요; 가았어요; 가었어요; 갔아요,갔어요,가 + 았어요 melebur menjadi 갔어요 dengan batchim ㅆ.
+g07-03,g07,4,mcq,Apa bentuk lampau dari 공부해요?,공부해요,ko,공부했어요; 공부해었어요; 공부하았어요; 공부핬어요,공부했어요,해 + 었어요 melebur menjadi 했어요.
+g07-04,g07,4,cloze,Lengkapi: 'Kemarin saya menonton film.',어제 영화를 ___.,ko,봤어요; 봐요; 보았요; 볼어요,봤어요,보 + 았어요 melebur menjadi 봤어요. Keterangan 어제 menuntut bentuk lampau.
+g07-05,g07,4,mcq,Bagaimana Bahasa Korea menyatakan masa depan pada 'Besok saya pergi ke Seoul'?,,ko,내일 서울에 가요.; 내일 서울에 갔어요.; 내일 서울에 가었어요.; 내일 서울에 가다.,내일 서울에 가요.,Bentuk kini sudah cukup bila keterangan waktunya jelas. Bentuk 갈 거예요 juga benar dan lebih tegas menyatakan rencana.
+g08-01,g08,4,mcq,Apa perbedaan 안 먹어요 dan 못 먹어요?,,id,"안 berarti tidak makan (pilihan), 못 berarti tidak bisa makan (tidak mampu atau terhalang); Tidak ada perbedaan artinya; 안 untuk masa kini, 못 untuk masa lampau; 안 lebih sopan daripada 못","안 berarti tidak makan (pilihan), 못 berarti tidak bisa makan (tidak mampu atau terhalang)","못 selalu mengandung ketidakmampuan atau penghalang, sedangkan 안 hanya menafikan."
+g08-02,g08,4,mcq,Bagaimana menafikan 공부해요?,공부해요,ko,공부 안 해요; 안 공부해요; 공부해 안요; 안 공부 해요,공부 안 해요,"Pada kata berakhiran 하다, 안 masuk sebelum 하다, bukan di depan seluruh kata."
+g08-03,g08,4,mcq,Apa bentuk negatif dari 있어요?,있어요,ko,없어요; 안 있어요; 있지 않아요; 못 있어요,없어요,"있다 punya lawan kata tersendiri, yaitu 없다."
+g08-04,g08,4,cloze,Lengkapi: 'Saya belum makan.',___ 안 먹었어요.,ko,아직; 벌써; 너무; 제일,아직,'Belum' adalah gabungan 아직 dengan bentuk negatif.
+g08-05,g08,4,mcq,Mana bentuk penafian yang lebih lazim dalam tulisan?,,ko,먹지 않아요; 안 먹어요; 못 먹어요; 먹어 안요,먹지 않아요,-지 않다 lebih sering dipakai dalam tulisan dan ragam resmi; 안 lebih lazim dalam percakapan.
+g09-01,g09,5,mcq,Bagaimana mengatakan 'di atas meja'?,,ko,책상 위에; 위에 책상; 책상에 위; 위 책상에,책상 위에,"Kata tempat diletakkan sesudah kata bendanya, lalu diberi partikel 에."
+g09-02,g09,5,cloze,Lengkapi: 'Di dalam tas ada buku.',가방 ___에 책이 있어요.,ko,안; 밖; 위; 앞,안,안 berarti 'dalam'. Kata ini berbeda dari 안 penanda penafian.
+g09-03,g09,5,mcq,Apa arti 돈이 있어요?,돈이 있어요.,id,Ada uang / Saya punya uang; Uangnya hilang; Saya ingin uang; Uangnya banyak,Ada uang / Saya punya uang,있다 menanggung dua arti: keberadaan dan kepemilikan.
+g09-04,g09,5,mcq,Mana susunan yang benar untuk 'Apotek ada di sebelah rumah sakit'?,,ko,약국은 병원 옆에 있어요.; 약국은 옆 병원에 있어요.; 병원은 약국 옆에 있어요.; 약국 옆에 병원은 있어요.,약국은 병원 옆에 있어요.,"Yang dicari letaknya (약국) menjadi topik, dan patokannya (병원) diikuti kata tempat 옆에. Pilihan ketiga artinya terbalik."
+g09-05,g09,5,cloze,Lengkapi dengan partikel yang tepat.,교실에 학생___ 많이 있어요.,ko,이; 을; 는; 에,이,Benda yang keberadaannya dinyatakan memakai partikel subjek 이/가.
+g10-01,g10,5,mcq,Bagaimana bentuk tanya dari 밥 먹어요 dalam 해요체?,,ko,밥 먹어요?; 먹어요 밥?; 밥 먹어까요?; 밥 먹습니까요?,밥 먹어요?,Susunannya tidak berubah; hanya nada akhirnya yang dinaikkan.
+g10-02,g10,5,mcq,Mana cara yang benar menanyakan 'Anda makan apa?',,ko,뭐 먹어요?; 먹어요 뭐?; 뭐가 먹어요?; 뭐를 먹어요 뭐?,뭐 먹어요?,"Kata tanya menempati tempat jawabannya, yaitu posisi objek sebelum kata kerja. Bentuk 뭐를 먹어요? juga benar tetapi partikelnya sering dihilangkan."
+g10-03,g10,5,cloze,Lengkapi: 'Sekarang jam berapa?',지금 ___ 시예요?,ko,몇; 뭐; 얼마; 어떻게,몇,"Jumlah dan angka ditanyakan dengan 몇, yang selalu diikuti penggolong."
+g10-04,g10,5,mcq,Mana yang dipakai untuk menanyakan harga?,,ko,얼마예요?; 얼마나예요?; 몇이에요?; 뭐 돈이에요?,얼마예요?,얼마 khusus untuk harga; 얼마나 untuk kadar atau lama waktu.
+g10-05,g10,5,mcq,Apa bentuk tanya dari 먹습니다 dalam ragam 합니다?,먹습니다,ko,먹습니까?; 먹습니다?; 먹습니요?; 먹읍니까?,먹습니까?,Ragam 합니다 membedakan berita (-습니다) dan tanya (-습니까). Dibunyikan 먹씀니까.
+g11-01,g11,6,cloze,Lengkapi: 'roti dan susu',빵___ 우유,ko,하고; 에서; 도; 만,하고,하고 dipakai untuk semua kata benda tanpa memandang batchim. Bentuk bakunya di sini 빵과 karena 빵 berbatchim.
+g11-02,g11,6,mcq,Mana yang benar untuk 'Saya juga pergi'?,,ko,저도 가요.; 저는도 가요.; 저도는 가요.; 저가도 가요.,저도 가요.,"도 menggantikan partikel topik dan subjek, tidak ditumpuk dengannya."
+g11-03,g11,6,cloze,"Lengkapi: 'Air saja, tolong.'",물___ 주세요.,ko,만; 도; 하고; 에,만,"만 berarti 'hanya, saja'."
+g11-04,g11,6,mcq,Mana pasangan 와/과 yang benar?,,ko,우유와 빵과; 우유과 빵와; 우유와 빵와; 우유과 빵과,우유와 빵과,"우유 berakhir vokal sehingga memakai 와; 빵 berbatchim sehingga memakai 과. Perhatikan bahwa aturannya BERLAWANAN dengan 은/는 dan 이/가, yang memberi bentuk bervokal kepada kata bervokal."
+g11-05,g11,6,mcq,Apa arti 친구하고 같이 가요?,친구하고 같이 가요.,id,Saya pergi bersama teman; Saya dan teman adalah hal yang sama; Saya pergi ke tempat teman; Teman saya pergi juga,Saya pergi bersama teman,"하고 di sini berarti 'dengan', dan 같이 menegaskan 'bersama'."
+g12-01,g12,6,cloze,Lengkapi: 'Saya ingin pergi ke Korea.',한국에 가___ 싶어요.,ko,고; 어; 지; 는,고,Pola keinginan adalah batang kata + 고 싶어요.
+g12-02,g12,6,mcq,Apa bentuk 'bisa makan'?,먹다,ko,먹을 수 있어요; 먹를 수 있어요; 먹 수 있어요; 먹고 수 있어요,먹을 수 있어요,"Batang 먹 berbatchim, sehingga memerlukan sisipan 으: 먹을 수 있어요."
+g12-03,g12,6,mcq,Apa bentuk 'bisa melakukan' dari 하다?,하다,ko,할 수 있어요; 하을 수 있어요; 하 수 있어요; 함 수 있어요,할 수 있어요,"Batang 하 tidak berbatchim, sehingga langsung memakai ㄹ: 할 수 있어요."
+g12-04,g12,6,mcq,Bagaimana mengatakan 'Teman saya ingin pergi'?,,ko,친구가 가고 싶어해요.; 친구가 가고 싶어요.; 친구는 가고 싶다요.; 친구가 가 싶어해요.,친구가 가고 싶어해요.,"Keinginan orang ketiga memakai -고 싶어하다, karena pembicara tidak bisa memastikan isi hati orang lain."
+g12-05,g12,6,mcq,Mengapa 수 ditulis dengan spasi pada 할 수 있어요?,,id,"Karena 수 adalah kata benda tersendiri yang berarti 'cara, kemungkinan'; Karena ejaan Korea memberi spasi sebelum setiap kata kerja; Karena 있어요 selalu didahului spasi; Karena tanpa spasi artinya berubah menjadi negatif","Karena 수 adalah kata benda tersendiri yang berarti 'cara, kemungkinan'","Susunan itu harfiahnya 'ada kemungkinan untuk melakukan'. Spasi dalam ejaan Korea memisahkan kata, dan 수 adalah kata."

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>한국어 — Latihan Bahasa Korea dari Nol</title>
+  <meta name="description" content="Kartu latihan Bahasa Korea untuk penutur Bahasa Indonesia yang mulai dari nol: Hangeul, kosakata, tata bahasa, angka dan penggolong, pelafalan, serta tingkat tutur." />
+  <meta name="color-scheme" content="light dark" />
+
+  <!-- Font Korea dengan dukungan Hangeul lengkap. Bila luring, jatuh ke font sistem. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="theme-hanji">
+
+<header class="masthead">
+  <h1 class="title" lang="ko">한국어</h1>
+  <p class="subtitle">Latihan Bahasa Korea &middot; dari nol, untuk penutur Bahasa Indonesia</p>
+  <div class="theme-switcher" role="group" aria-label="Tema tampilan">
+    <button class="theme-dot hanji"  data-theme="hanji"  aria-pressed="true"  title="Hanji (kertas)"></button>
+    <button class="theme-dot bam"    data-theme="bam"    aria-pressed="false" title="Bam (malam)"></button>
+    <button class="theme-dot cheong" data-theme="cheong" aria-pressed="false" title="Cheongja (seladon)"></button>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs" aria-label="Modul latihan">
+  <button data-mode="hangeul"    aria-pressed="true">Hangeul<span>0</span></button>
+  <button data-mode="kosakata"   aria-pressed="false">Kosakata<span>0</span></button>
+  <button data-mode="tatabahasa" aria-pressed="false">Tata bahasa<span>0</span></button>
+  <button data-mode="angka"      aria-pressed="false">Angka<span>0</span></button>
+  <button data-mode="baca"       aria-pressed="false">Baca &amp; lafal<span>0</span></button>
+  <button data-mode="kesantunan" aria-pressed="false">Kesantunan<span>0</span></button>
+</nav>
+
+<main class="stage">
+
+  <div class="search">
+    <input type="search" id="search" placeholder="Cari: 학교, sekolah, hakgyo, ㄱ &hellip;  ( / )"
+           autocomplete="off" aria-label="Cari kartu" />
+  </div>
+
+  <nav class="chips" id="chips" aria-label="Filter kategori"></nav>
+
+  <div class="options">
+    <div class="segmented" id="stages" role="group" aria-label="Batas tahap">
+      <button data-stage="0" aria-pressed="true">Semua tahap</button>
+      <button data-stage="1" aria-pressed="false">1</button>
+      <button data-stage="2" aria-pressed="false">2</button>
+      <button data-stage="3" aria-pressed="false">3</button>
+      <button data-stage="4" aria-pressed="false">4</button>
+      <button data-stage="5" aria-pressed="false">5</button>
+      <button data-stage="6" aria-pressed="false">6</button>
+    </div>
+    <div class="toggles">
+      <label class="toggle" title="Alih huruf Latin. Sengaja mati secara bawaan supaya mata tetap membaca Hangeul.">
+        <input type="checkbox" id="tg-romaja" /> Alih huruf
+      </label>
+      <label class="toggle" title="Tampilkan lafal sebenarnya di sisi depan kartu, dalam tanda siku">
+        <input type="checkbox" id="tg-pron" /> Lafal di depan
+      </label>
+      <label class="toggle" id="wrap-arah" title="Tukar arah: dari arti Indonesia ke kata Korea">
+        <input type="checkbox" id="tg-arah" /> Indonesia &rarr; Korea
+      </label>
+      <label class="toggle" title="Hanya tampilkan kartu yang sudah waktunya diulang menurut kotak Leitner">
+        <input type="checkbox" id="tg-due" /> Jatuh tempo saja
+      </label>
+      <label class="toggle" title="Sembunyikan kartu yang sudah mencapai kotak 5">
+        <input type="checkbox" id="tg-hide" /> Sembunyikan yang dikuasai
+      </label>
+    </div>
+  </div>
+
+  <div class="progress-row">
+    <span class="counter" id="counter"></span>
+    <span class="progress-track"><span class="progress-fill" id="fill"></span></span>
+    <button class="linkish" id="btn-stats" type="button" aria-expanded="false">Kemajuan</button>
+  </div>
+
+  <section class="stats" id="stats" hidden aria-label="Ringkasan kemajuan"></section>
+
+  <div class="card-scene">
+    <article class="card" id="card" tabindex="0" role="group" aria-label="Kartu latihan">
+      <div class="face face-front">
+        <div class="badges">
+          <span class="badge" id="badge"></span>
+          <span class="box" id="box"></span>
+        </div>
+        <div class="front-body" id="front">Memuat&hellip;</div>
+        <div class="choices" id="choices" hidden></div>
+        <div class="hint" id="hint">Klik atau tekan Spasi untuk melihat jawaban</div>
+      </div>
+      <div class="face face-back">
+        <div class="back-body" id="back"></div>
+      </div>
+    </article>
+  </div>
+
+  <div class="controls">
+    <button class="btn" id="btn-prev">&larr;<span class="k">Sebelumnya</span></button>
+    <button class="btn btn-primary" id="btn-flip">Jawaban<span class="k">Spasi</span></button>
+    <button class="btn" id="btn-next">&rarr;<span class="k">Berikutnya</span></button>
+  </div>
+
+  <div class="controls grade" id="grade" hidden>
+    <button class="btn btn-bad" id="btn-wrong">Belum hafal<span class="k">B &middot; kembali ke kotak 1</span></button>
+    <button class="btn btn-good" id="btn-right">Sudah hafal<span class="k">H &middot; naik satu kotak</span></button>
+  </div>
+
+  <div class="controls controls-3">
+    <button class="btn" id="btn-shuffle" aria-pressed="false">Acak<span class="k">S</span></button>
+    <button class="btn" id="btn-reset" type="button">Hapus progres<span class="k">localStorage</span></button>
+  </div>
+
+  <section class="panel" id="panel"></section>
+
+</main>
+
+<script src="webdata.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

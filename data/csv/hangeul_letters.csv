@@ -1,0 +1,41 @@
+id,jamo,nama,romaja,jenis,kelompok,bunyi,contoh,contoh_romaja,contoh_arti,stage,catatan
+h01,ㄱ,기역,g / k,konsonan,dasar,"antara g dan k. Di awal kata terdengar seperti k tanpa hembusan, di tengah kata seperti g, di batchim seperti k yang tertahan.",가방,gabang,tas,1,Bentuknya menggambarkan pangkal lidah yang menyentuh langit-langit belakang.
+h02,ㄴ,니은,n,konsonan,dasar,n seperti pada 'nasi'.,나무,namu,pohon,1,Bentuknya menggambarkan ujung lidah menempel di belakang gigi atas.
+h03,ㄷ,디귿,d / t,konsonan,dasar,"antara d dan t. Di awal kata terdengar seperti t tanpa hembusan, di tengah kata seperti d.",다리,dari,"kaki, jembatan",1,"Satu garis lebih dari ㄴ: bunyinya sekeluarga, sama-sama di ujung lidah."
+h04,ㄹ,리을,r / l,konsonan,dasar,"satu huruf untuk dua bunyi yang dalam Bahasa Indonesia dibedakan: di awal suku kata mirip r yang dikibaskan sekali (bukan r bergetar), di batchim mirip l.",라면,ramyeon,"ramyeon, mi instan",1,Jangan menggetarkan r seperti dalam Bahasa Indonesia; lidah hanya menyentuh langit-langit sekali lalu lepas.
+h05,ㅁ,미음,m,konsonan,dasar,m seperti pada 'makan'.,머리,meori,kepala,1,Bentuknya menggambarkan mulut yang tertutup.
+h06,ㅂ,비읍,b / p,konsonan,dasar,"antara b dan p. Di awal kata terdengar seperti p tanpa hembusan, di tengah kata seperti b.",바다,bada,laut,1,"Satu goresan lebih dari ㅁ: sekeluarga, sama-sama bunyi bibir."
+h07,ㅅ,시옷,s / t,konsonan,dasar,s seperti pada 'satu'. Di depan vokal ㅣ dan ㅟ bunyinya bergeser mendekati sy: 시 terdengar seperti 'syi'.,사과,sagwa,apel,1,"Di batchim ㅅ TIDAK berbunyi s, melainkan berhenti seperti t: 옷 dibaca 옫."
+h08,ㅇ,이응,- / ng,konsonan,dasar,"tidak berbunyi apa pun bila berada di awal suku kata, dan berbunyi ng bila menjadi batchim.",아이,ai,anak,1,"Huruf inilah yang membuat 아 bisa ditulis sebagai satu blok. Tanpa ㅇ, vokal tidak punya tempat berdiri."
+h09,ㅈ,지읒,j / t,konsonan,dasar,"antara j dan c. Mirip j pada 'jalan' tetapi lebih ringan, dan di awal kata mendekati c tanpa hembusan.",자리,jari,tempat duduk,1,Di batchim berbunyi seperti t: 낮 dibaca 낟.
+h10,ㅊ,치읓,ch / t,konsonan,beraspirat,seperti ㅈ tetapi disertai hembusan napas yang jelas. Mirip c pada 'cari' yang diembuskan kuat.,차,cha,teh; mobil,1,"Letakkan tangan di depan mulut: ㅊ meniupkan angin, ㅈ tidak."
+h11,ㅋ,키읔,k,konsonan,beraspirat,"k dengan hembusan napas kuat, seperti k pada 'kaki' yang ditekankan.",코,ko,hidung,1,Satu garis tambahan pada ㄱ menandakan hembusan napas. Pola ini berlaku untuk semua huruf beraspirat.
+h12,ㅌ,티읕,t,konsonan,beraspirat,t dengan hembusan napas kuat.,토마토,tomato,tomat,1,ㄷ ditambah satu garis. Di batchim ㅌ berbunyi seperti t biasa.
+h13,ㅍ,피읖,p,konsonan,beraspirat,p dengan hembusan napas kuat.,포도,podo,anggur,1,ㅂ ditambah goresan. Di batchim berbunyi seperti p yang tertahan: 앞 dibaca 압.
+h14,ㅎ,히읗,h / t,konsonan,dasar,h seperti pada 'hari'.,하늘,haneul,langit,1,"Di batchim ㅎ hampir selalu hilang atau melebur dengan huruf berikutnya: 좋아요 dibaca 조아요, 좋다 dibaca 조타."
+h15,ㅏ,아,a,vokal,dasar,a seperti pada 'apa'.,아버지,abeoji,ayah,1,Vokal tegak: ditulis di sebelah kanan huruf awal.
+h16,ㅑ,야,ya,vokal,dasar,ya. Sama dengan ㅏ dengan tambahan luncuran y di depannya.,야구,yagu,bisbol,1,Dua garis pendek selalu berarti ada bunyi y di depan vokalnya.
+h17,ㅓ,어,eo,vokal,dasar,"antara e dan o: bibir TIDAK dibulatkan, mulut agak terbuka. Mirip bunyi 'e' pada 'sendok' yang ditarik ke belakang.",어머니,eomeoni,ibu,1,"Bedanya dengan ㅗ hanya bentuk bibir: ㅓ bibir datar, ㅗ bibir bulat. Ini pasangan yang paling sering tertukar."
+h18,ㅕ,여,yeo,vokal,dasar,yeo. ㅓ dengan luncuran y.,여자,yeoja,perempuan,1,"Dialihhurufkan yeo, bukan yo. 여 dan 요 adalah dua bunyi yang berbeda."
+h19,ㅗ,오,o,vokal,dasar,"o dengan bibir dibulatkan, seperti pada 'bola'.",오리,ori,bebek,1,Vokal rebah: ditulis di bawah huruf awal.
+h20,ㅛ,요,yo,vokal,dasar,yo.,요리,yori,"masakan, memasak",1,ㅗ dengan luncuran y.
+h21,ㅜ,우,u,vokal,dasar,"u dengan bibir dibulatkan, seperti pada 'buku'.",우유,uyu,susu,1,"Vokal rebah, ditulis di bawah."
+h22,ㅠ,유,yu,vokal,dasar,yu.,유리,yuri,kaca,1,ㅜ dengan luncuran y.
+h23,ㅡ,으,eu,vokal,dasar,"bunyi yang tidak ada dalam Bahasa Indonesia: bibir DITARIK melebar seperti hendak tersenyum, lidah tinggi, bunyinya mirip 'e' pepet pada 'sepeda' tetapi lebih tertutup.",크다,keuda,besar,1,Jangan membacanya u. ㅡ dan ㅜ adalah dua kata yang berbeda: 크다 (besar) dan 쿠다 (bukan kata).
+h24,ㅣ,이,i,vokal,dasar,i seperti pada 'ini'.,이름,ireum,nama,1,Vokal tegak.
+h25,ㄲ,쌍기역,kk / k,konsonan,kembar,ㄱ yang diucapkan dengan tenggorokan ditegangkan dan TANPA hembusan napas. Bunyinya pendek dan tegas.,꼬리,kkori,ekor,2,"Tiga bersaudara yang harus dibedakan: ㄱ (biasa), ㅋ (berhembus), ㄲ (tegang). 가 / 카 / 까."
+h26,ㄸ,쌍디귿,tt,konsonan,kembar,"ㄷ yang ditegangkan, tanpa hembusan napas.",딸,ttal,anak perempuan,2,Bandingkan 다 / 타 / 따.
+h27,ㅃ,쌍비읍,pp,konsonan,kembar,"ㅂ yang ditegangkan, tanpa hembusan napas.",빵,ppang,roti,2,Bandingkan 바 / 파 / 빠.
+h28,ㅆ,쌍시옷,ss / t,konsonan,kembar,ㅅ yang ditegangkan; udaranya ditahan lebih dahulu lalu dilepas.,싸다,ssada,murah,2,싸다 (murah) dan 사다 (membeli) hanya dibedakan oleh ketegangan ini.
+h29,ㅉ,쌍지읒,jj,konsonan,kembar,"ㅈ yang ditegangkan, tanpa hembusan napas.",짜다,jjada,asin,2,Bandingkan 자 / 차 / 짜.
+h30,ㅐ,애,ae,vokal,gabungan,"e terbuka, seperti pada 'enak'. Mulut lebih terbuka daripada ㅔ.",개,gae,anjing,2,Dalam ucapan Korea masa kini ㅐ dan ㅔ hampir tidak dibedakan lagi oleh penutur muda. Perbedaannya tetap WAJIB dalam tulisan: 개 (anjing) dan 게 (kepiting) adalah dua kata.
+h31,ㅒ,얘,yae,vokal,gabungan,yae.,얘기,yaegi,"cerita, obrolan",2,Jarang dipakai. Hampir semua pemakaiannya ada pada 얘 dan 얘기.
+h32,ㅔ,에,e,vokal,gabungan,"e tertutup, seperti pada 'meja'.",게,ge,kepiting,2,Lihat catatan pada ㅐ.
+h33,ㅖ,예,ye,vokal,gabungan,ye.,예,ye,ya (sopan),2,Pada 계 dan 례 sering diucapkan seperti ㅔ saja.
+h34,ㅘ,와,wa,vokal,gabungan,wa. Gabungan ㅗ + ㅏ.,과자,gwaja,"kue kering, camilan",2,Vokal gabungan selalu bisa dibaca dari dua huruf penyusunnya.
+h35,ㅙ,왜,wae,vokal,gabungan,wae. Gabungan ㅗ + ㅐ.,왜,wae,kenapa,2,"ㅙ, ㅚ, dan ㅞ kini hampir sama bunyinya (we). Yang membedakan hanya ejaannya."
+h36,ㅚ,외,oe,vokal,gabungan,"oe, yang dalam ucapan masa kini terdengar seperti we.",외국,oeguk,luar negeri,2,Alih huruf resminya tetap oe (외국 = oeguk).
+h37,ㅝ,워,wo,vokal,gabungan,wo. Gabungan ㅜ + ㅓ.,원,won,won (mata uang Korea),2,Bibir dibulatkan lalu dilepas ke bunyi ㅓ yang bibirnya datar.
+h38,ㅞ,웨,we,vokal,gabungan,we. Gabungan ㅜ + ㅔ.,스웨터,seuweteo,sweter,2,Paling jarang di antara semua vokal; hampir hanya muncul pada kata serapan.
+h39,ㅟ,위,wi,vokal,gabungan,wi. Gabungan ㅜ + ㅣ.,위,wi,atas,2,Bibir dibulatkan sejak awal.
+h40,ㅢ,의,ui,vokal,gabungan,ui: ㅡ lalu ㅣ dengan cepat.,의사,uisa,dokter,2,"Bunyinya bergeser menurut tempatnya: di awal kata dibaca ui (의사), di tengah kata sering dibaca i (회의 terdengar 회이), dan sebagai partikel kepemilikan dibaca e (저의 terdengar 저에)."

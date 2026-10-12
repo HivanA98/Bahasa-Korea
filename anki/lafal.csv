@@ -1,0 +1,55 @@
+#separator:Comma
+#html:false
+#tags column:5
+"한국어","한구거","bahasa Korea · hangugeo","Penyambungan bunyi
+Batchim ㄱ berpindah ke suku kata berikutnya karena 어 dimulai dengan ㅇ.","korea lafal level2 tahap2"
+"밥을","바블","nasi (+ partikel objek) · babeul","Penyambungan bunyi
+Setiap partikel dimulai dengan ㅇ, sehingga batchim kata sebelumnya selalu berpindah.","korea lafal level2 tahap2"
+"옷을","오슬","pakaian (+ partikel objek) · oseul","Penyambungan bunyi
+Karena ada vokal sesudahnya, ㅅ berpindah utuh dan tidak dinetralkan menjadi ㄷ. Bandingkan 옷 sendirian yang dibaca 옫.","korea lafal level2 tahap2"
+"꽃이","꼬치","bunga (+ partikel subjek) · kkochi","Penyambungan bunyi
+ㅊ berpindah apa adanya. Inilah sebabnya ejaan 꽃 dipertahankan walaupun sendirian dibaca 꼳.","korea lafal level2 tahap2"
+"좋아요","조아요","bagus · joayo","Penghilangan ㅎ
+Batchim ㅎ hilang sepenuhnya di depan vokal.","korea lafal level2 tahap3"
+"많이","마니","banyak · mani","Penghilangan ㅎ; Penyambungan bunyi
+Pada batchim ganda ㄶ, ㅎ hilang dan ㄴ berpindah ke suku kata berikutnya.","korea lafal level2 tahap3"
+"읽어요","일거요","membaca · ilgeoyo","Penyambungan bunyi
+Pada batchim ganda, huruf pertama tinggal dan huruf KEDUA berpindah.","korea lafal level2 tahap3"
+"맛있어요","마시써요","enak · masisseoyo","Penyambungan bunyi
+Dua penyambungan berurutan: ㅅ berpindah, lalu ㅆ berpindah.","korea lafal level2 tahap3"
+"입니다","임니다","adalah · imnida","Penyengauan
+Batchim ㅂ bertemu ㄴ berubah menjadi ㅁ. Semua akhiran 니다 memicu aturan ini.","korea lafal level3 tahap4"
+"감사합니다","감사함니다","terima kasih · gamsahamnida","Penyengauan
+Aturan yang sama dengan 입니다. Inilah kata yang paling sering Anda ucapkan di Korea.","korea lafal level3 tahap4"
+"한국말","한궁말","bahasa Korea · hangungmal","Penyengauan
+Batchim ㄱ bertemu ㅁ berubah menjadi ㅇ.","korea lafal level3 tahap4"
+"학교","학꾜","sekolah · hakgyo","Pengerasan
+Batchim ㄱ mengeraskan ㄱ sesudahnya. Pengerasan hanya terjadi di DALAM satu kata.","korea lafal level3 tahap4"
+"식당","식땅","restoran · sikdang","Pengerasan
+Batchim ㄱ mengeraskan ㄷ menjadi ㄸ.","korea lafal level3 tahap4"
+"읽다","익따","membaca (bentuk kamus) · ikda","Penyederhanaan batchim ganda; Pengerasan
+Dua aturan: batchim ganda disederhanakan menjadi ㄱ, lalu ㄱ mengeraskan ㄷ. Bandingkan 읽어요 yang dibaca 일거요.","korea lafal level3 tahap5"
+"못해요","모태요","tidak bisa · motaeyo","Pengaspiratan
+ㅅ dinetralkan menjadi ㄷ, lalu melebur dengan ㅎ menjadi ㅌ.","korea lafal level3 tahap5"
+"축하해요","추카해요","selamat (ucapan) · chukahaeyo","Pengaspiratan
+ㄱ melebur dengan ㅎ menjadi ㅋ. Dua huruf menjadi satu bunyi.","korea lafal level3 tahap5"
+"설날","설랄","tahun baru Imlek Korea · seollal","Peleburan ke ㄹ
+ㄹ bertemu ㄴ dibunyikan ㄹㄹ.","korea lafal level3 tahap5"
+"같이","가치","bersama · gachi","Palatalisasi
+Batchim ㅌ bertemu 이 berubah menjadi ㅊ.","korea lafal level3 tahap6"
+"값이","갑씨","harga (+ partikel subjek) · gapsi","Penyambungan bunyi; Pengerasan
+ㅂ tinggal, ㅅ berpindah, lalu ㅂ mengeraskan ㅅ menjadi ㅆ. Tiga langkah dalam satu kata.","korea lafal level3 tahap6"
+"작년","장년","tahun lalu · jangnyeon","Penyengauan
+Batchim ㄱ bertemu ㄴ berubah menjadi ㅇ.","korea lafal level3 tahap6"
+"이거는 제 가방이에요.","이거는 제 가방이에요.","Ini tas saya. · igeoneun je gabang-ieyo.","","korea lafal level1 tahap1"
+"친구가 커피를 마셔요.","친구가 커피를 마셔요.","Teman saya minum kopi. · chinguga keopireul masyeoyo.","","korea lafal level1 tahap1"
+"책을 읽어요.","채글 일거요.","Saya membaca buku. · chaegeul ilgeoyo.","Penyambungan bunyi","korea lafal level2 tahap2"
+"밥을 먹었어요.","바블 머거써요.","Saya sudah makan. · babeul meogeosseoyo.","Penyambungan bunyi","korea lafal level2 tahap2"
+"여기가 우리 교실이에요.","여기가 우리 교시리에요.","Di sini ruang kelas kami. · yeogiga uri gyosirieyo.","Penyambungan bunyi","korea lafal level2 tahap3"
+"서울에 친구가 많이 있어요.","서우레 친구가 마니 이써요.","Di Seoul banyak teman saya. · seoure chinguga mani isseoyo.","Penghilangan ㅎ; Penyambungan bunyi","korea lafal level2 tahap3"
+"부엌에서 요리해요.","부어케서 요리해요.","Saya memasak di dapur. · bueokeseo yorihaeyo.","Penyambungan bunyi","korea lafal level2 tahap4"
+"학교에서 한국어를 공부합니다.","학꾜에서 한구거를 공부함니다.","Saya belajar bahasa Korea di sekolah. · hakgyoeseo hangugeoreul gongbuhamnida.","Penyambungan bunyi; Penyengauan; Pengerasan","korea lafal level3 tahap4"
+"식당에서 점심을 먹습니다.","식땅에서 점시믈 먹씀니다.","Saya makan siang di restoran. · sikdang-eseo jeomsimeul meokseumnida.","Penyambungan bunyi; Penyengauan; Pengerasan","korea lafal level3 tahap5"
+"설날에 가족을 만나요.","설라레 가조글 만나요.","Pada tahun baru Imlek saya bertemu keluarga. · seollare gajogeul mannayo.","Penyambungan bunyi; Peleburan ke ㄹ","korea lafal level3 tahap5"
+"작년에 한국에 갔어요.","장녀네 한구게 가써요.","Tahun lalu saya pergi ke Korea. · jangnyeone hanguge gasseoyo.","Penyambungan bunyi; Penyengauan","korea lafal level3 tahap6"
+"국립 도서관 앞에서 기다려요.","궁닙 도서관 아페서 기다려요.","Saya menunggu di depan perpustakaan nasional. · gungnip doseogwan apeseo gidaryeoyo.","Penyambungan bunyi; Penyengauan","korea lafal level3 tahap6"

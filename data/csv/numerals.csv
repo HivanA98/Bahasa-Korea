@@ -1,0 +1,23 @@
+id,nilai,sino,asli,asli_depan_penggolong,stage,catatan
+n00,0,영,,,2,"Nol punya dua kata: 영 untuk matematika dan nilai, dan 공 untuk nomor telepon."
+n01,1,일,하나,한,2,"하나 bila berdiri sendiri (saat berhitung), 한 bila diikuti penggolong: 한 개, 한 명, 한 시."
+n02,2,이,둘,두,2,"둘 menjadi 두: 두 개, 두 명, 두 시."
+n03,3,삼,셋,세,2,셋 menjadi 세: 세 개. Batchim ㅅ hilang di depan penggolong.
+n04,4,사,넷,네,2,"넷 menjadi 네: 네 명. Angka Sino-Korea 사 berbunyi sama dengan kata 'mati' (死), sehingga lantai dan kamar bernomor 4 kadang dihindari."
+n05,5,오,다섯,다섯,2,"Dari angka lima ke atas, bentuk asli Korea tidak berubah di depan penggolong: 다섯 개."
+n06,6,육,여섯,여섯,2,육 menjadi 륙 setelah ㄴ atau ㄹ pada angka gabungan: 십육 dibunyikan 심뉵.
+n07,7,칠,일곱,일곱,2,"일곱 개, 일곱 시."
+n08,8,팔,여덟,여덟,2,여덟 berbatchim ganda ㄼ dan dibunyikan 여덜.
+n09,9,구,아홉,아홉,2,"아홉 개, 아홉 시."
+n10,10,십,열,열,2,"열 dipakai untuk benda dan jam: 열 개, 열 시."
+n11,11,십일,열하나,열한,3,Angka belasan dibentuk dengan menempelkan: 열 + 하나. Bentuk di depan penggolong 열한 시 (jam sebelas).
+n12,12,십이,열둘,열두,3,열두 시 berarti jam dua belas. Bentuk 열둘 시 salah.
+n20,20,이십,스물,스무,3,스물 menjadi 스무 di depan penggolong: 스무 살 (dua puluh tahun). Inilah bentuk tak beraturan kelima.
+n30,30,삼십,서른,서른,4,"Angka asli puluhan tidak lagi beraturan bentuknya: 서른, 마흔, 쉰. Semuanya harus dihafal."
+n40,40,사십,마흔,마흔,4,마흔 살 (empat puluh tahun).
+n50,50,오십,쉰,쉰,4,"쉰 살. Di atas angka ini, orang Korea pun lebih sering memakai angka Sino-Korea untuk umur."
+n60,60,육십,예순,예순,5,예순. Jarang terdengar dalam percakapan sehari-hari.
+n100,100,백,,,3,"Tidak ada bentuk asli Korea untuk 100. Cukup 백, bukan 일백."
+n1000,1000,천,,,3,"Cukup 천, bukan 일천. 2000 adalah 이천."
+n10000,10000,만,,,4,"Angka Korea dikelompokkan per EMPAT angka, bukan per tiga seperti Bahasa Indonesia. Sepuluh ribu adalah satu 만, dan 100.000 adalah 십만 ('sepuluh laksa'). Inilah sumber kebingungan saat menyebut harga."
+n100000000,100000000,억,,,6,"억 adalah 100 juta, yaitu 만 x 만. Harga rumah dan gaji tahunan di Korea biasa disebut dengan satuan ini."

@@ -1,0 +1,39 @@
+id,jenis,level,stage,tulisan,lafal,romaja,arti,aturan,jawaban
+rp01,teks,1,1,이거는 제 가방이에요.,이거는 제 가방이에요.,igeoneun je gabang-ieyo.,Ini tas saya.,,
+rp02,teks,1,1,친구가 커피를 마셔요.,친구가 커피를 마셔요.,chinguga keopireul masyeoyo.,Teman saya minum kopi.,,
+rp03,teks,2,2,책을 읽어요.,채글 일거요.,chaegeul ilgeoyo.,Saya membaca buku.,Penyambungan bunyi,
+rp04,teks,2,2,밥을 먹었어요.,바블 머거써요.,babeul meogeosseoyo.,Saya sudah makan.,Penyambungan bunyi,
+rp05,teks,2,3,여기가 우리 교실이에요.,여기가 우리 교시리에요.,yeogiga uri gyosirieyo.,Di sini ruang kelas kami.,Penyambungan bunyi,
+rp06,teks,2,3,서울에 친구가 많이 있어요.,서우레 친구가 마니 이써요.,seoure chinguga mani isseoyo.,Di Seoul banyak teman saya.,Penghilangan ㅎ; Penyambungan bunyi,
+rp07,teks,2,4,부엌에서 요리해요.,부어케서 요리해요.,bueokeseo yorihaeyo.,Saya memasak di dapur.,Penyambungan bunyi,
+rp08,teks,3,4,학교에서 한국어를 공부합니다.,학꾜에서 한구거를 공부함니다.,hakgyoeseo hangugeoreul gongbuhamnida.,Saya belajar bahasa Korea di sekolah.,Penyambungan bunyi; Penyengauan; Pengerasan,
+rp09,teks,3,5,식당에서 점심을 먹습니다.,식땅에서 점시믈 먹씀니다.,sikdang-eseo jeomsimeul meokseumnida.,Saya makan siang di restoran.,Penyambungan bunyi; Penyengauan; Pengerasan,
+rp10,teks,3,5,설날에 가족을 만나요.,설라레 가조글 만나요.,seollare gajogeul mannayo.,Pada tahun baru Imlek saya bertemu keluarga.,Penyambungan bunyi; Peleburan ke ㄹ,
+rp11,teks,3,6,작년에 한국에 갔어요.,장녀네 한구게 가써요.,jangnyeone hanguge gasseoyo.,Tahun lalu saya pergi ke Korea.,Penyambungan bunyi; Penyengauan,
+rp12,teks,3,6,국립 도서관 앞에서 기다려요.,궁닙 도서관 아페서 기다려요.,gungnip doseogwan apeseo gidaryeoyo.,Saya menunggu di depan perpustakaan nasional.,Penyambungan bunyi; Penyengauan,
+rd-q01,pron_choice,2,2,한국어,한구거,hangugeo,bahasa Korea,Penyambungan bunyi,한구거
+rd-q02,pron_choice,2,2,밥을,바블,babeul,nasi (+ partikel objek),Penyambungan bunyi,바블
+rd-q03,pron_choice,2,2,옷을,오슬,oseul,pakaian (+ partikel objek),Penyambungan bunyi,오슬
+rd-q04,pron_choice,2,2,꽃이,꼬치,kkochi,bunga (+ partikel subjek),Penyambungan bunyi,꼬치
+rd-q05,pron_choice,2,3,좋아요,조아요,joayo,bagus,Penghilangan ㅎ,조아요
+rd-q06,pron_choice,2,3,많이,마니,mani,banyak,Penghilangan ㅎ; Penyambungan bunyi,마니
+rd-q07,pron_choice,2,3,읽어요,일거요,ilgeoyo,membaca,Penyambungan bunyi,일거요
+rd-q08,pron_choice,2,3,맛있어요,마시써요,masisseoyo,enak,Penyambungan bunyi,마시써요
+rd-q09,pron_choice,3,4,입니다,임니다,imnida,adalah,Penyengauan,임니다
+rd-q10,pron_choice,3,4,감사합니다,감사함니다,gamsahamnida,terima kasih,Penyengauan,감사함니다
+rd-q11,pron_choice,3,4,한국말,한궁말,hangungmal,bahasa Korea,Penyengauan,한궁말
+rd-q12,pron_choice,3,4,학교,학꾜,hakgyo,sekolah,Pengerasan,학꾜
+rd-q13,pron_choice,3,4,식당,식땅,sikdang,restoran,Pengerasan,식땅
+rd-q14,pron_choice,3,5,읽다,익따,ikda,membaca (bentuk kamus),Penyederhanaan batchim ganda; Pengerasan,익따
+rd-q15,pron_choice,3,5,못해요,모태요,motaeyo,tidak bisa,Pengaspiratan,모태요
+rd-q16,pron_choice,3,5,축하해요,추카해요,chukahaeyo,selamat (ucapan),Pengaspiratan,추카해요
+rd-q17,pron_choice,3,5,설날,설랄,seollal,tahun baru Imlek Korea,Peleburan ke ㄹ,설랄
+rd-q18,pron_choice,3,6,같이,가치,gachi,bersama,Palatalisasi,가치
+rd-q19,pron_choice,3,6,값이,갑씨,gapsi,harga (+ partikel subjek),Penyambungan bunyi; Pengerasan,갑씨
+rd-q20,pron_choice,3,6,작년,장년,jangnyeon,tahun lalu,Penyengauan,장년
+rd-m01,meaning_choice,2,2,저는 한국어를 공부해요.,저는 한구거를 공부해요.,jeoneun hangugeoreul gongbuhaeyo.,Saya belajar bahasa Korea.,Penyambungan bunyi,Saya belajar bahasa Korea.
+rd-m02,meaning_choice,3,3,책상 위에 책이 있어요.,책쌍 위에 채기 이써요.,chaeksang wie chaegi isseoyo.,Di atas meja ada buku.,Penyambungan bunyi; Pengerasan,Di atas meja ada buku.
+rd-m03,meaning_choice,3,4,오늘은 학교에 안 가요.,오느른 학꾜에 안 가요.,oneureun hakgyoe an gayo.,Hari ini saya tidak pergi ke sekolah.,Penyambungan bunyi; Pengerasan,Hari ini saya tidak pergi ke sekolah.
+rd-m04,meaning_choice,3,4,매운 음식을 못 먹어요.,매운 음시글 몬 머거요.,maeun eumsigeul mon meogeoyo.,Saya tidak bisa makan makanan pedas.,Penyambungan bunyi; Penetralan batchim; Penyengauan,Saya tidak bisa makan makanan pedas.
+rd-m05,meaning_choice,2,5,어제 친구를 만났어요.,어제 친구를 만나써요.,eoje chingureul mannasseoyo.,Kemarin saya bertemu teman.,Penyambungan bunyi,Kemarin saya bertemu teman.
+rd-m06,meaning_choice,2,6,한국에 가고 싶어요.,한구게 가고 시퍼요.,hanguge gago sipeoyo.,Saya ingin pergi ke Korea.,Penyambungan bunyi,Saya ingin pergi ke Korea.
